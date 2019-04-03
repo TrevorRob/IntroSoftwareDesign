@@ -1,0 +1,954 @@
+Area Code,Area,Item Code,Item,Element Code,Element,Unit,Y2000,Y2000F,Y2001,Y2001F,Y2002,Y2002F,Y2003,Y2003F,Y2004,Y2004F,Y2005,Y2005F,Y2006,Y2006F,Y2007,Y2007F,Y2008,Y2008F,Y2009,Y2009F,Y2010,Y2010F,Y2011,Y2011F,Y2012,Y2012F,Y2013,Y2013F,Y2014,Y2014F
+8,Antigua and Barbuda,486,Bananas,5312,Area harvested,ha,14,F,16,F,18,F,19,F,20,F,21,Im,22,Im,22,Im,23,Im,25,Im,25,F,28,Im,35,F,33,Im,30,Im
+8,Antigua and Barbuda,486,Bananas,5419,Yield,hg/ha,114286,Fc,112500,Fc,111111,Fc,110526,Fc,110000,Fc,103675,Fc,101336,Fc,98746,Fc,95219,Fc,91961,Fc,88463,Fc,84741,Fc,71429,Fc,76630,Fc,87661,Fc
+8,Antigua and Barbuda,486,Bananas,5510,Production,tonnes,160,F,180,F,200,F,210,F,220,F,215,Im,220,Im,220,Im,224,Im,227,Im,221,Im,240,Im,250,F,255,Im,262,Im
+8,Antigua and Barbuda,414,"Beans, green",5312,Area harvested,ha,20,F,21,Im,22,F,24,F,25,F,24,Im,25,F,24,Im,24,Im,24,Im,22,Im,24,Im,25,F,25,Im,26,Im
+8,Antigua and Barbuda,414,"Beans, green",5419,Yield,hg/ha,35000,Fc,36167,Fc,36364,Fc,37500,Fc,38000,Fc,38164,Fc,38388,Fc,38561,Fc,38707,Fc,38887,Fc,39063,Fc,39237,Fc,40000,Fc,39469,Fc,38202,Fc
+8,Antigua and Barbuda,414,"Beans, green",5510,Production,tonnes,70,F,75,F,80,F,90,F,95,F,91,Im,96,Im,92,Im,92,Im,92,Im,87,F,94,Im,100,F,98,Im,100,Im
+8,Antigua and Barbuda,358,Cabbages and other brassicas,5312,Area harvested,ha,25,F,25,Im,26,F,28,F,30,F,29,Im,30,F,30,F,30,Im,30,Im,31,Im,31,Im,30,F,32,Im,33,Im
+8,Antigua and Barbuda,358,Cabbages and other brassicas,5419,Yield,hg/ha,50000,Fc,50315,Fc,50000,Fc,50000,Fc,50000,Fc,48113,Fc,47467,Fc,46804,Fc,45708,Fc,44920,Fc,44121,Fc,43316,Fc,41667,Fc,41760,Fc,41841,Fc
+8,Antigua and Barbuda,358,Cabbages and other brassicas,5510,Production,tonnes,125,F,128,Im,130,F,140,F,150,F,140,Im,142,Im,140,Im,137,Im,136,Im,135,Im,134,Im,125,F,133,Im,138,Im
+8,Antigua and Barbuda,426,Carrots and turnips,5312,Area harvested,ha,55,F,57,Im,58,Im,58,F,60,F,64,Im,65,Im,65,F,70,Im,73,Im,76,Im,79,Im,97,F,85,Im,82,Im
+8,Antigua and Barbuda,426,Carrots and turnips,5419,Yield,hg/ha,40000,Fc,40659,Fc,40335,Fc,40517,Fc,40000,Fc,38907,Fc,38511,Fc,40000,Fc,37376,Fc,36622,Fc,35876,Fc,35115,Fc,30928,Fc,33611,Fc,34393,Fc
+8,Antigua and Barbuda,426,Carrots and turnips,5510,Production,tonnes,220,F,233,Im,235,Im,235,F,240,F,247,Im,252,Im,260,F,263,Im,269,Im,274,Im,279,Im,300,F,285,Im,281,Im
+8,Antigua and Barbuda,125,Cassava,5312,Area harvested,ha,10,F,10,Im,12,F,15,F,18,F,17,Im,20,F,19,Im,20,Im,21,Im,22,Im,22,Im,20,F,24,Im,26,Im
+8,Antigua and Barbuda,125,Cassava,5419,Yield,hg/ha,45196,Fc,44770,Fc,45000,Fc,40000,Fc,41667,Fc,44297,Fc,40000,Fc,44298,Fc,45635,Fc,46639,Fc,47601,Fc,48582,Fc,57500,Fc,50141,Fc,49392,Fc
+8,Antigua and Barbuda,125,Cassava,5510,Production,tonnes,45,Im,45,F,54,F,60,F,75,F,74,Im,80,F,85,Im,91,Im,97,Im,103,Im,109,Im,115,F,120,Im,127,Im
+8,Antigua and Barbuda,401,"Chillies and peppers, green",5312,Area harvested,ha,15,F,16,Im,17,Im,18,F,20,F,19,Im,19,Im,19,Im,20,Im,20,Im,20,Im,20,Im,20,F,20,Im,21,Im
+8,Antigua and Barbuda,401,"Chillies and peppers, green",5419,Yield,hg/ha,46667,Fc,46966,Fc,47356,Fc,50000,Fc,47500,Fc,46938,Fc,46873,Fc,46843,Fc,46807,Fc,46776,Fc,46748,Fc,46722,Fc,45000,Fc,47287,Fc,47202,Fc
+8,Antigua and Barbuda,401,"Chillies and peppers, green",5510,Production,tonnes,70,F,75,F,80,Im,90,F,95,F,90,Im,91,Im,91,Im,91,Im,92,Im,92,Im,93,Im,90,F,96,Im,98,Im
+8,Antigua and Barbuda,767,Cotton lint,5510,Production,tonnes,24,Im,27,F,28,F,30,F,30,F,30,F,30,F,30,F,30,F,30,F,30,F,30,F,30,F,30,F,32,F
+8,Antigua and Barbuda,329,Cottonseed,5510,Production,tonnes,55,F,58,F,61,F,63,F,63,F,63,F,63,F,60,F,63,F,63,F,65,F,65,F,65,F,65,F,72,F
+8,Antigua and Barbuda,329,Cottonseed,5525,Seed,tonnes,18,Fc,20,Fc,21,Fc,21,Fc,21,Fc,21,Fc,21,Fc,21,Fc,21,Fc,21,Fc,21,Fc,21,Fc,21,Fc,21,Fc,,
+8,Antigua and Barbuda,397,Cucumbers and gherkins,5312,Area harvested,ha,27,F,27,Im,28,F,29,F,30,F,30,Im,30,F,30,F,27,F,22,F,15,Im,18,Im,20,F,21,Im,13,Im
+8,Antigua and Barbuda,397,Cucumbers and gherkins,5419,Yield,hg/ha,78058,Fc,76683,Fc,75000,Fc,75862,Fc,75000,Fc,68660,Fc,65773,Fc,62605,Fc,58940,Fc,55373,Fc,51690,Fc,47938,Fc,41000,Fc,40380,Fc,48039,Fc
+8,Antigua and Barbuda,397,Cucumbers and gherkins,5510,Production,tonnes,211,Im,205,F,210,F,220,F,225,F,204,Im,197,Im,188,Im,159,Im,122,Im,75,F,86,Im,82,F,86,Im,65,Im
+8,Antigua and Barbuda,399,Eggplants (aubergines),5312,Area harvested,ha,40,F,40,Im,42,F,45,F,48,F,49,Im,50,F,52,Im,53,Im,55,Im,57,Im,60,F,60,F,60,Im,59,Im
+8,Antigua and Barbuda,399,Eggplants (aubergines),5419,Yield,hg/ha,70000,Fc,70617,Fc,71429,Fc,71111,Fc,70833,Fc,69448,Fc,69000,Fc,67918,Fc,67102,Fc,66288,Fc,65466,Fc,64635,Fc,61667,Fc,63075,Fc,65337,Fc
+8,Antigua and Barbuda,399,Eggplants (aubergines),5510,Production,tonnes,280,F,285,F,300,F,320,F,340,F,337,Im,345,F,350,Im,358,Im,364,Im,370,Im,388,Im,370,F,378,Im,387,Im
+8,Antigua and Barbuda,603,"Fruit, tropical fresh nes",5312,Area harvested,ha,1000,F,976,Im,1010,F,1020,F,1030,F,650,F,700,F,800,F,850,F,889,Im,950,F,950,F,941,Im,913,Im,920,Im
+8,Antigua and Barbuda,603,"Fruit, tropical fresh nes",5419,Yield,hg/ha,76500,Fc,76654,Fc,76733,Fc,76471,Fc,76699,Fc,76923,Fc,78571,Fc,77500,Fc,76471,Fc,74264,Fc,71579,Fc,71579,Fc,71798,Fc,73602,Fc,73353,Fc
+8,Antigua and Barbuda,603,"Fruit, tropical fresh nes",5510,Production,tonnes,7650,F,7484,Im,7750,F,7800,F,7900,F,5000,F,5500,F,6200,F,6500,F,6600,F,6800,F,6800,F,6754,Im,6721,Im,6750,Im
+8,Antigua and Barbuda,497,Lemons and limes,5312,Area harvested,ha,60,Im,61,Im,65,F,70,F,75,F,52,F,78,F,80,F,81,Im,83,Im,90,F,88,Im,88,F,90,Im,91,Im
+8,Antigua and Barbuda,497,Lemons and limes,5419,Yield,hg/ha,37400,Fc,37652,Fc,38462,Fc,37857,Fc,38000,Fc,38462,Fc,38462,Fc,38125,Fc,40160,Fc,41332,Fc,42347,Fc,43386,Fc,47727,Fc,45395,Fc,44980,Fc
+8,Antigua and Barbuda,497,Lemons and limes,5510,Production,tonnes,225,F,230,F,250,F,265,F,285,F,200,F,300,F,305,F,324,Im,343,Im,381,Im,383,Im,420,F,408,Im,409,Im
+8,Antigua and Barbuda,56,Maize,5312,Area harvested,ha,30,F,31,Im,32,F,35,F,38,F,38,Im,40,F,41,Im,42,F,42,Im,40,F,45,F,44,Im,45,Im,46,Im
+8,Antigua and Barbuda,56,Maize,5419,Yield,hg/ha,16000,Fc,16126,Fc,15625,Fc,15714,Fc,15789,Fc,15957,Fc,16250,Fc,15998,Fc,16190,Fc,15903,Fc,15871,Fc,15966,Fc,15954,Fc,15942,Fc,15931,Fc
+8,Antigua and Barbuda,56,Maize,5510,Production,tonnes,48,F,51,Im,50,F,55,F,60,F,61,Im,65,F,65,Im,68,F,66,Im,63,Im,72,Im,70,Im,72,Im,74,Im
+8,Antigua and Barbuda,571,"Mangoes, mangosteens, guavas",5312,Area harvested,ha,240,F,239,Im,245,F,250,F,260,F,260,Im,261,Im,263,Im,270,F,270,F,270,F,270,F,320,F,307,Im,282,Im
+8,Antigua and Barbuda,571,"Mangoes, mangosteens, guavas",5419,Yield,hg/ha,55618,Fc,56392,Fc,57143,Fc,55000,Fc,55000,Fc,55038,Fc,54781,Fc,54360,Fc,55556,Fc,57407,Fc,55556,Fc,55556,Fc,38281,Fc,44092,Fc,50500,Fc
+8,Antigua and Barbuda,571,"Mangoes, mangosteens, guavas",5510,Production,tonnes,1335,Im,1350,F,1400,F,1375,F,1430,F,1429,Im,1429,Im,1430,Im,1500,F,1550,F,1500,F,1500,F,1225,F,1352,Im,1422,Im
+8,Antigua and Barbuda,568,"Melons, other (inc.cantaloupes)",5312,Area harvested,ha,65,F,64,Im,70,F,75,F,80,F,79,Im,81,Im,82,Im,85,F,85,Im,86,Im,86,Im,85,F,89,Im,94,Im
+8,Antigua and Barbuda,568,"Melons, other (inc.cantaloupes)",5419,Yield,hg/ha,109981,Fc,109175,Fc,107143,Fc,104000,Fc,105000,Fc,107197,Fc,107063,Fc,107137,Fc,105882,Fc,108816,Fc,110224,Fc,111705,Fc,117647,Fc,113549,Fc,109356,Fc
+8,Antigua and Barbuda,568,"Melons, other (inc.cantaloupes)",5510,Production,tonnes,715,Im,700,F,750,F,780,F,840,F,852,Im,862,Im,881,Im,900,F,923,Im,944,Im,966,Im,1000,F,1008,Im,1031,Im
+8,Antigua and Barbuda,403,"Onions, dry",5312,Area harvested,ha,15,F,15,Im,16,Im,18,F,20,F,22,Im,25,F,26,Im,28,Im,30,Im,31,Im,33,Im,35,F,36,Im,36,Im
+8,Antigua and Barbuda,403,"Onions, dry",5419,Yield,hg/ha,73333,Fc,76565,Fc,77263,Fc,77778,Fc,75000,Fc,76499,Fc,76000,Fc,77148,Fc,77620,Fc,77975,Fc,78308,Fc,78631,Fc,80000,Fc,78644,Fc,78183,Fc
+8,Antigua and Barbuda,403,"Onions, dry",5510,Production,tonnes,110,F,115,F,120,F,140,F,150,F,168,Im,190,F,202,Im,216,Im,230,Im,244,Im,257,Im,280,F,283,Im,283,Im
+8,Antigua and Barbuda,574,Pineapples,5312,Area harvested,ha,16,F,16,Im,16,Im,18,F,20,F,22,Im,23,Im,25,Im,26,Im,27,Im,28,Im,30,Im,30,F,31,Im,33,Im
+8,Antigua and Barbuda,574,Pineapples,5419,Yield,hg/ha,96875,Fc,98087,Fc,100313,Fc,102778,Fc,105000,Fc,107005,Fc,108942,Fc,110766,Fc,112600,Fc,114409,Fc,116199,Fc,117976,Fc,120000,Fc,121518,Fc,116394,Fc
+8,Antigua and Barbuda,574,Pineapples,5510,Production,tonnes,155,F,160,F,165,F,185,F,210,F,232,Im,254,Im,272,Im,292,Im,311,Im,329,Im,350,F,360,F,374,Im,386,Im
+8,Antigua and Barbuda,394,"Pumpkins, squash and gourds",5312,Area harvested,ha,35,F,37,Im,40,F,45,F,50,F,44,Im,43,Im,42,Im,41,Im,40,Im,39,Im,37,Im,32,F,39,Im,40,Im
+8,Antigua and Barbuda,394,"Pumpkins, squash and gourds",5419,Yield,hg/ha,82857,Fc,83112,Fc,82500,Fc,82222,Fc,80000,Fc,85451,Fc,86457,Fc,87408,Fc,88976,Fc,90130,Fc,91289,Fc,92452,Fc,103125,Fc,94183,Fc,94491,Fc
+8,Antigua and Barbuda,394,"Pumpkins, squash and gourds",5510,Production,tonnes,290,F,307,Im,330,F,370,F,400,F,377,Im,372,Im,367,Im,362,Im,357,Im,352,Im,346,Im,330,F,371,Im,377,Im
+8,Antigua and Barbuda,328,Seed cotton,5312,Area harvested,ha,600,F,600,F,650,F,700,F,700,F,700,F,700,F,700,F,700,F,700,F,700,F,700,F,560,F,565,F,570,F
+8,Antigua and Barbuda,328,Seed cotton,5419,Yield,hg/ha,1333,Fc,1417,Fc,1385,Fc,1357,Fc,1357,Fc,1357,Fc,1357,Fc,1357,Fc,1357,Fc,1357,Fc,1357,Fc,1357,Fc,1786,Fc,1858,Fc,1930,Fc
+8,Antigua and Barbuda,328,Seed cotton,5510,Production,tonnes,80,F,85,F,90,F,95,F,95,F,95,F,95,F,95,F,95,F,95,F,95,F,95,F,100,F,105,F,110,F
+8,Antigua and Barbuda,156,Sugar cane,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+8,Antigua and Barbuda,156,Sugar cane,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Antigua and Barbuda,156,Sugar cane,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+8,Antigua and Barbuda,122,Sweet potatoes,5312,Area harvested,ha,25,F,24,Im,28,F,30,F,35,F,38,Im,40,F,43,Im,45,F,44,Im,43,Im,42,Im,40,F,41,Im,42,Im
+8,Antigua and Barbuda,122,Sweet potatoes,5419,Yield,hg/ha,59479,Fc,59393,Fc,58929,Fc,58333,Fc,57143,Fc,59918,Fc,62500,Fc,61438,Fc,62222,Fc,62273,Fc,62725,Fc,63192,Fc,65000,Fc,64174,Fc,64050,Fc
+8,Antigua and Barbuda,122,Sweet potatoes,5510,Production,tonnes,149,Im,145,F,165,F,175,F,200,F,225,Im,250,F,262,Im,280,F,272,Im,269,Im,265,Im,260,F,266,Im,272,Im
+8,Antigua and Barbuda,136,Taro (cocoyam),5312,Area harvested,ha,8,F,8,F,9,F,10,F,12,F,12,F,11,Im,11,Im,11,Im,11,Im,11,Im,11,Im,10,F,11,Im,11,Im
+8,Antigua and Barbuda,136,Taro (cocoyam),5419,Yield,hg/ha,37256,Fc,37500,Fc,37778,Fc,37000,Fc,37500,Fc,37769,Fc,37959,Fc,38263,Fc,38395,Fc,38583,Fc,38767,Fc,38950,Fc,40000,Fc,39297,Fc,39283,Fc
+8,Antigua and Barbuda,136,Taro (cocoyam),5510,Production,tonnes,30,Im,30,F,34,F,37,F,45,F,45,Im,44,Im,43,Im,42,Im,42,Im,41,Im,41,Im,40,F,42,Im,43,Im
+8,Antigua and Barbuda,388,Tomatoes,5312,Area harvested,ha,30,F,32,F,35,F,38,F,40,F,41,Im,42,Im,45,F,45,Im,45,Im,46,Im,46,Im,45,F,47,Im,51,Im
+8,Antigua and Barbuda,388,Tomatoes,5419,Yield,hg/ha,90000,Fc,90625,Fc,88571,Fc,86842,Fc,87500,Fc,89150,Fc,89468,Fc,87778,Fc,90794,Fc,92104,Fc,93409,Fc,94749,Fc,100000,Fc,97186,Fc,96125,Fc
+8,Antigua and Barbuda,388,Tomatoes,5510,Production,tonnes,270,F,290,F,310,F,330,F,350,F,364,Im,380,Im,395,F,407,Im,418,Im,429,Im,440,Im,450,F,460,Im,492,Im
+8,Antigua and Barbuda,463,"Vegetables, fresh nes",5312,Area harvested,ha,40,F,41,Im,45,F,48,F,50,F,47,Im,49,Im,51,Im,52,Im,55,Im,57,Im,60,Im,48,F,66,Im,69,Im
+8,Antigua and Barbuda,463,"Vegetables, fresh nes",5419,Yield,hg/ha,60000,Fc,57716,Fc,57778,Fc,50000,Fc,52000,Fc,48896,Fc,46696,Fc,44486,Fc,42264,Fc,40029,Fc,37785,Fc,35538,Fc,33333,Fc,31058,Fc,29537,Fc
+8,Antigua and Barbuda,463,"Vegetables, fresh nes",5510,Production,tonnes,240,F,234,Im,260,F,240,F,260,F,232,Im,229,Im,226,Im,222,Im,218,Im,215,Im,212,Im,160,F,206,Im,205,Im
+8,Antigua and Barbuda,137,Yams,5312,Area harvested,ha,15,F,15,F,16,F,18,F,20,F,23,Im,24,Im,26,Im,28,Im,30,Im,33,Im,35,Im,40,F,39,Im,40,Im
+8,Antigua and Barbuda,137,Yams,5419,Yield,hg/ha,36755,Fc,36667,Fc,36250,Fc,35556,Fc,35000,Fc,34984,Fc,34676,Fc,34384,Fc,34126,Fc,33835,Fc,33545,Fc,33254,Fc,31250,Fc,32586,Fc,33003,Fc
+8,Antigua and Barbuda,137,Yams,5510,Production,tonnes,55,Im,55,F,58,F,64,F,70,F,79,Im,85,Im,91,Im,97,Im,103,Im,109,Im,115,Im,125,F,128,Im,132,Im
+8,Antigua and Barbuda,1817,Cereals (Rice Milled Eqv),5312,Area harvested,ha,30,A,31,A,32,A,35,A,38,A,38,A,40,A,41,A,42,A,42,A,40,A,45,A,44,A,45,A,46,A
+8,Antigua and Barbuda,1817,Cereals (Rice Milled Eqv),5419,Yield,hg/ha,16000,Fc,16126,Fc,15625,Fc,15714,Fc,15789,Fc,15957,Fc,16250,Fc,15998,Fc,16190,Fc,15903,Fc,15871,Fc,15966,Fc,15954,Fc,15942,Fc,15931,Fc
+8,Antigua and Barbuda,1817,Cereals (Rice Milled Eqv),5510,Production,tonnes,48,A,51,A,50,A,55,A,60,A,61,A,65,A,65,A,68,A,66,A,63,A,72,A,70,A,72,A,74,A
+8,Antigua and Barbuda,1717,"Cereals,Total",5312,Area harvested,ha,30,A,31,A,32,A,35,A,38,A,38,A,40,A,41,A,42,A,42,A,40,A,45,A,44,A,45,A,46,A
+8,Antigua and Barbuda,1717,"Cereals,Total",5419,Yield,hg/ha,16000,Fc,16126,Fc,15625,Fc,15714,Fc,15789,Fc,15957,Fc,16250,Fc,15998,Fc,16190,Fc,15903,Fc,15871,Fc,15966,Fc,15954,Fc,15942,Fc,15931,Fc
+8,Antigua and Barbuda,1717,"Cereals,Total",5510,Production,tonnes,48,A,51,A,50,A,55,A,60,A,61,A,65,A,65,A,68,A,66,A,63,A,72,A,70,A,72,A,74,A
+8,Antigua and Barbuda,1804,"Citrus Fruit,Total",5312,Area harvested,ha,60,A,61,A,65,A,70,A,75,A,52,A,78,A,80,A,81,A,83,A,90,A,88,A,88,A,90,A,91,A
+8,Antigua and Barbuda,1804,"Citrus Fruit,Total",5419,Yield,hg/ha,37400,Fc,37652,Fc,38462,Fc,37857,Fc,38000,Fc,38462,Fc,38462,Fc,38125,Fc,40160,Fc,41332,Fc,42347,Fc,43386,Fc,47727,Fc,45395,Fc,44980,Fc
+8,Antigua and Barbuda,1804,"Citrus Fruit,Total",5510,Production,tonnes,225,A,230,A,250,A,265,A,285,A,200,A,300,A,305,A,324,A,343,A,381,A,383,A,420,A,408,A,409,A
+8,Antigua and Barbuda,1814,"Coarse Grain, Total",5312,Area harvested,ha,30,A,31,A,32,A,35,A,38,A,38,A,40,A,41,A,42,A,42,A,40,A,45,A,44,A,45,A,46,A
+8,Antigua and Barbuda,1814,"Coarse Grain, Total",5419,Yield,hg/ha,16000,Fc,16126,Fc,15625,Fc,15714,Fc,15789,Fc,15957,Fc,16250,Fc,15998,Fc,16190,Fc,15903,Fc,15871,Fc,15966,Fc,15954,Fc,15942,Fc,15931,Fc
+8,Antigua and Barbuda,1814,"Coarse Grain, Total",5510,Production,tonnes,48,A,51,A,50,A,55,A,60,A,61,A,65,A,65,A,68,A,66,A,63,A,72,A,70,A,72,A,74,A
+8,Antigua and Barbuda,1753,Fibre Crops Primary,5312,Area harvested,ha,600,A,600,A,650,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,560,A,565,A,570,A
+8,Antigua and Barbuda,1753,Fibre Crops Primary,5419,Yield,hg/ha,400,Fc,443,Fc,431,Fc,429,Fc,429,Fc,429,Fc,429,Fc,429,Fc,429,Fc,429,Fc,429,Fc,429,Fc,536,Fc,531,Fc,561,Fc
+8,Antigua and Barbuda,1753,Fibre Crops Primary,5510,Production,tonnes,24,A,27,A,28,A,30,A,30,A,30,A,30,A,30,A,30,A,30,A,30,A,30,A,30,A,30,A,32,A
+8,Antigua and Barbuda,1801,"Fruit excl Melons,Total",5312,Area harvested,ha,1330,A,1309,A,1354,A,1377,A,1405,A,1004,A,1084,A,1190,A,1250,A,1294,A,1363,A,1366,A,1414,A,1374,A,1356,A
+8,Antigua and Barbuda,1801,"Fruit excl Melons,Total",5419,Yield,hg/ha,71607,Fc,71834,Fc,72096,Fc,71423,Fc,71495,Fc,70476,Fc,71068,Fc,70824,Fc,70711,Fc,69812,Fc,67713,Fc,67872,Fc,63727,Fc,66319,Fc,68072,Fc
+8,Antigua and Barbuda,1801,"Fruit excl Melons,Total",5510,Production,tonnes,9525,A,9404,A,9765,A,9835,A,10045,A,7076,A,7703,A,8427,A,8839,A,9031,A,9232,A,9272,A,9009,A,9110,A,9230,A
+8,Antigua and Barbuda,1841,Oilcakes Equivalent,5312,Area harvested,ha,600,A,600,A,650,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,560,A,565,A,570,A
+8,Antigua and Barbuda,1841,Oilcakes Equivalent,5419,Yield,hg/ha,468,Fc,493,Fc,479,Fc,459,Fc,459,Fc,459,Fc,459,Fc,437,Fc,459,Fc,459,Fc,474,Fc,474,Fc,592,Fc,587,Fc,644,Fc
+8,Antigua and Barbuda,1841,Oilcakes Equivalent,5510,Production,tonnes,28,A,30,A,31,A,32,A,32,A,32,A,32,A,31,A,32,A,32,A,33,A,33,A,33,A,33,A,37,A
+8,Antigua and Barbuda,1841,Oilcakes Equivalent,5525,Seed,tonnes,9,A,10,A,11,A,11,A,11,A,11,A,11,A,11,A,11,A,11,A,11,A,11,A,11,A,11,A,,
+8,Antigua and Barbuda,1732,Oilcrops Primary,5312,Area harvested,ha,600,A,600,A,650,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,700,A,560,A,565,A,570,A
+8,Antigua and Barbuda,1732,Oilcrops Primary,5419,Yield,hg/ha,147,Fc,155,Fc,150,Fc,144,Fc,144,Fc,144,Fc,144,Fc,137,Fc,144,Fc,144,Fc,149,Fc,149,Fc,186,Fc,184,Fc,202,Fc
+8,Antigua and Barbuda,1732,Oilcrops Primary,5510,Production,tonnes,9,A,9,A,10,A,10,A,10,A,10,A,10,A,10,A,10,A,10,A,10,A,10,A,10,A,10,A,12,A
+8,Antigua and Barbuda,1732,Oilcrops Primary,5525,Seed,tonnes,3,A,3,A,3,A,3,A,3,A,3,A,3,A,3,A,3,A,3,A,3,A,3,A,3,A,3,A,,
+8,Antigua and Barbuda,1720,"Roots and Tubers,Total",5312,Area harvested,ha,58,A,57,A,65,A,73,A,85,A,89,A,96,A,100,A,104,A,106,A,108,A,110,A,110,A,115,A,119,A
+8,Antigua and Barbuda,1720,"Roots and Tubers,Total",5419,Yield,hg/ha,48074,Fc,47855,Fc,47846,Fc,46027,Fc,45882,Fc,47667,Fc,47784,Fc,48342,Fc,48888,Fc,48577,Fc,48493,Fc,48405,Fc,49091,Fc,48208,Fc,48180,Fc
+8,Antigua and Barbuda,1720,"Roots and Tubers,Total",5510,Production,tonnes,279,A,275,A,311,A,336,A,390,A,423,A,458,A,481,A,510,A,514,A,522,A,531,A,540,A,556,A,574,A
+8,Antigua and Barbuda,1735,Vegetables Primary,5312,Area harvested,ha,367,A,375,A,399,A,426,A,453,A,448,A,460,A,466,A,475,A,478,A,478,A,495,A,497,A,521,A,525,A
+8,Antigua and Barbuda,1735,Vegetables Primary,5419,Yield,hg/ha,70862,Fc,70562,Fc,70346,Fc,69366,Fc,69426,Fc,69292,Fc,68646,Fc,68495,Fc,67541,Fc,67420,Fc,67280,Fc,66583,Fc,66137,Fc,65362,Fc,65801,Fc
+8,Antigua and Barbuda,1735,Vegetables Primary,5510,Production,tonnes,2601,A,2647,A,2806,A,2955,A,3145,A,3102,A,3156,A,3193,A,3207,A,3221,A,3217,A,3295,A,3287,A,3404,A,3457,A
+8,Antigua and Barbuda,1800,"Vegetables&Melons, Total",5312,Area harvested,ha,367,A,375,A,399,A,426,A,453,A,448,A,460,A,466,A,475,A,478,A,478,A,495,A,497,A,521,A,525,A
+8,Antigua and Barbuda,1800,"Vegetables&Melons, Total",5419,Yield,hg/ha,70862,Fc,70562,Fc,70346,Fc,69366,Fc,69426,Fc,69292,Fc,68646,Fc,68495,Fc,67541,Fc,67420,Fc,67280,Fc,66583,Fc,66137,Fc,65362,Fc,65801,Fc
+8,Antigua and Barbuda,1800,"Vegetables&Melons, Total",5510,Production,tonnes,2601,A,2647,A,2806,A,2955,A,3145,A,3102,A,3156,A,3193,A,3207,A,3221,A,3217,A,3295,A,3287,A,3404,A,3457,A
+9,Argentina,221,"Almonds, with shell",5312,Area harvested,ha,246,Im,248,Im,250,F,252,Im,254,Im,257,Im,260,F,270,F,283,Im,300,F,300,F,300,F,400,F,382,Im,347,Im
+9,Argentina,221,"Almonds, with shell",5419,Yield,hg/ha,19237,Fc,19189,Fc,19200,Fc,19120,Fc,19093,Fc,19056,Fc,18846,Fc,18519,Fc,19010,Fc,19202,Fc,20667,Fc,20667,Fc,16250,Fc,17580,Fc,19006,Fc
+9,Argentina,221,"Almonds, with shell",5510,Production,tonnes,473,Im,476,Im,480,F,482,Im,486,Im,489,Im,490,F,500,F,538,Im,576,Im,620,F,620,F,650,F,671,Im,660,Im
+9,Argentina,711,"Anise, badian, fennel, coriander",5312,Area harvested,ha,3300,F,3327,Im,3350,F,3332,Im,3333,F,3317,Im,3350,F,3400,F,3347,Im,3340,Im,3338,Im,3333,Im,3200,F,3321,Im,3228,Im
+9,Argentina,711,"Anise, badian, fennel, coriander",5419,Yield,hg/ha,7576,Fc,7705,Fc,7612,Fc,7725,Fc,7600,Fc,7763,Fc,7612,Fc,7647,Fc,7934,Fc,8086,Fc,8213,Fc,8346,Fc,9063,Fc,8589,Fc,8413,Fc
+9,Argentina,711,"Anise, badian, fennel, coriander",5510,Production,tonnes,2500,F,2564,Im,2550,F,2574,Im,2533,F,2575,Im,2550,F,2600,F,2656,Im,2701,Im,2741,Im,2782,Im,2900,F,2852,Im,2716,Im
+9,Argentina,515,Apples,5312,Area harvested,ha,46000,F,48000,F,50000,*,50000,*,40000,F,43712,Im,40125,Im,36109,Im,33864,Im,33435,Im,35576,Im,35818,Im,32125,Im,32805,Im,33508,Im
+9,Argentina,515,Apples,5419,Yield,hg/ha,181157,Fc,297667,Fc,231366,Fc,261492,Fc,315610,Fc,275943,Fc,274146,Fc,276938,Fc,280537,Fc,284137,Fc,287736,Fc,291336,Fc,294935,Fc,298535,Fc,302134,Fc
+9,Argentina,515,Apples,5510,Production,tonnes,833322,,1428802,,1156830,,1307460,,1262440,,1206210,,1100000,F,1000000,F,950000,F,950000,F,1023657,Im,1043512,,947486,,979332,Im,1012390,Im
+9,Argentina,526,Apricots,5312,Area harvested,ha,2200,F,2150,F,2200,F,2249,Im,2275,Im,2310,Im,2300,F,2400,F,2503,Im,2453,Im,2445,Im,2451,Im,2458,Im,2465,Im,2472,Im
+9,Argentina,526,Apricots,5419,Yield,hg/ha,110341,Fc,114828,Fc,113636,Fc,112502,Fc,111670,Fc,110631,Fc,109565,Fc,106250,Fc,104865,Fc,108292,Fc,108025,Fc,108329,Fc,108632,Fc,108936,Fc,109240,Fc
+9,Argentina,526,Apricots,5510,Production,tonnes,24275,,24688,,25000,F,25298,Im,25404,Im,25557,Im,25200,F,25500,F,26247,Im,26567,Im,26408,Im,26556,Im,26704,Im,26852,Im,27000,Im
+9,Argentina,366,Artichokes,5312,Area harvested,ha,4354,Im,4422,Im,4600,F,4700,F,4600,F,4664,Im,4701,Im,4700,F,4637,Im,4561,Im,4478,Im,4393,Im,4000,F,4238,Im,4748,Im
+9,Argentina,366,Artichokes,5419,Yield,hg/ha,192343,Fc,192291,Fc,186957,Fc,187234,Fc,193602,Fc,194551,Fc,195851,Fc,191489,Fc,205098,Fc,212427,Fc,220402,Fc,228845,Fc,265000,Fc,245713,Fc,221664,Fc
+9,Argentina,366,Artichokes,5510,Production,tonnes,83737,Im,85034,Im,86000,F,88000,F,89057,Im,90735,Im,92074,Im,90000,F,95106,Im,96890,Im,98691,Im,100523,Im,106000,F,104135,Im,105236,Im
+9,Argentina,367,Asparagus,5312,Area harvested,ha,1666,Im,1711,Im,1800,F,1850,F,1783,F,1866,Im,1790,F,1800,F,1998,Im,2119,Im,2224,Im,2335,Im,2650,F,2551,Im,2495,Im
+9,Argentina,367,Asparagus,5419,Yield,hg/ha,39407,Fc,39180,Fc,38333,Fc,37838,Fc,38862,Fc,39130,Fc,39665,Fc,40000,Fc,39582,Fc,39566,Fc,39536,Fc,39495,Fc,39623,Fc,39428,Fc,39432,Fc
+9,Argentina,367,Asparagus,5510,Production,tonnes,6565,Im,6702,Im,6900,F,7000,F,6929,Im,7302,Im,7100,F,7200,F,7910,Im,8385,Im,8792,Im,9221,Im,10500,F,10057,Im,9837,Im
+9,Argentina,572,Avocados,5312,Area harvested,ha,528,Im,537,Im,550,F,542,Im,533,F,541,Im,550,F,570,F,540,Im,548,Im,559,Im,568,Im,580,F,581,Im,579,Im
+9,Argentina,572,Avocados,5419,Yield,hg/ha,64249,Fc,63992,Fc,63636,Fc,64239,Fc,64409,Fc,64220,Fc,62727,Fc,63158,Fc,64786,Fc,65651,Fc,66516,Fc,67431,Fc,70690,Fc,69176,Fc,66925,Fc
+9,Argentina,572,Avocados,5510,Production,tonnes,3395,Im,3435,Im,3500,F,3484,Im,3433,F,3474,Im,3450,F,3600,F,3500,*,3600,F,3722,Im,3827,Im,4100,F,4021,Im,3877,Im
+9,Argentina,486,Bananas,5312,Area harvested,ha,8500,,8427,Im,8600,F,8491,Im,8465,Im,8500,F,8600,F,8700,F,8623,Im,8144,Im,8121,Im,8366,Im,8373,Im,8374,Im,8374,Im
+9,Argentina,486,Bananas,5419,Yield,hg/ha,205882,Fc,208357,Fc,209302,Fc,207975,Fc,208162,Fc,208324,Fc,210465,Fc,209195,Fc,208735,Fc,208744,Fc,208834,Fc,208949,Fc,209064,Fc,209180,Fc,209295,Fc
+9,Argentina,486,Bananas,5510,Production,tonnes,175000,,175580,Im,180000,F,176600,Im,176211,Im,177076,Im,181000,F,182000,F,180000,F,170000,F,169594,Im,174809,Im,175060,Im,175163,Im,175267,Im
+9,Argentina,44,Barley,5312,Area harvested,ha,247830,,246490,,250760,,334348,,275307,,267450,,337592,,416325,,570125,,502640,,746435,,1121278,,1694545,,1203306,,888873,
+9,Argentina,44,Barley,5419,Yield,hg/ha,29153,Fc,21504,Fc,21927,Fc,30072,Fc,32495,Fc,29891,Fc,37574,Fc,35417,Fc,29500,Fc,26974,Fc,39710,Fc,36439,Fc,30440,Fc,39102,Fc,32642,Fc
+9,Argentina,44,Barley,5510,Production,tonnes,722490,,530045,,549830,,1005460,,894610,,799423,,1268465,,1474510,,1681880,,1355801,,2964075,,4085770,,5158180,,4705160,,2901492,
+9,Argentina,44,Barley,5525,Seed,tonnes,30800,F,31700,F,40500,F,33000,F,32500,F,40303,Fc,48391,Fc,64815,Fc,59937,Fc,83096,Fc,128385,Fc,128385,Fc,128385,Fc,,M,,
+9,Argentina,176,"Beans, dry",5312,Area harvested,ha,276170,,257050,,256750,,185400,,120525,,142660,,235090,,251190,,254940,,276670,,268105,,272745,,299963,,144540,,350150,
+9,Argentina,176,"Beans, dry",5419,Yield,hg/ha,10760,Fc,10231,Fc,10832,Fc,11626,Fc,12552,Fc,11864,Fc,13730,Fc,13068,Fc,13210,Fc,11313,Fc,12611,Fc,12201,Fc,12040,Fc,6649,Fc,12276,Fc
+9,Argentina,176,"Beans, dry",5510,Production,tonnes,297157,,262985,,278100,,215550,,151278,,169257,,322775,,328249,,336779,,312998,,338120,,332782,,361153,,96109,,429832,
+9,Argentina,176,"Beans, dry",5525,Seed,tonnes,19240,Fc,18382,Fc,14429,Fc,9366,Fc,10192,Fc,16472,Fc,17590,Fc,17858,Fc,19528,Fc,18787,Fc,19100,Fc,19100,Fc,19100,Fc,19100,Fc,,
+9,Argentina,414,"Beans, green",5312,Area harvested,ha,600,F,633,Im,650,F,643,Im,633,F,633,Im,650,F,700,F,757,Im,817,Im,882,Im,949,Im,1050,F,1148,Im,898,Im
+9,Argentina,414,"Beans, green",5419,Yield,hg/ha,66667,Fc,64508,Fc,63077,Fc,63491,Fc,64398,Fc,64772,Fc,63846,Fc,60000,Fc,55202,Fc,50397,Fc,45374,Fc,40203,Fc,34286,Fc,29651,Fc,45003,Fc
+9,Argentina,414,"Beans, green",5510,Production,tonnes,4000,F,4083,Im,4100,F,4080,Im,4076,Im,4100,Im,4150,F,4200,F,4181,Im,4118,Im,4000,F,3817,Im,3600,F,3403,Im,4040,Im
+9,Argentina,181,"Broad beans, horse beans, dry",5312,Area harvested,ha,1550,F,1600,F,1600,F,1650,F,1650,F,1650,F,1660,F,1700,F,1700,F,1725,Im,1750,F,1766,Im,1800,F,1800,F,1803,Im
+9,Argentina,181,"Broad beans, horse beans, dry",5419,Yield,hg/ha,90323,Fc,90625,Fc,90625,Fc,90909,Fc,90909,Fc,90909,Fc,91566,Fc,91176,Fc,91176,Fc,90749,Fc,90205,Fc,89804,Fc,88889,Fc,88889,Fc,88975,Fc
+9,Argentina,181,"Broad beans, horse beans, dry",5510,Production,tonnes,14000,F,14500,F,14500,F,15000,F,15000,F,15000,F,15200,F,15500,F,15500,F,15652,Im,15786,Im,15862,Im,16000,F,16000,F,16041,Im
+9,Argentina,181,"Broad beans, horse beans, dry",5525,Seed,tonnes,238,Fc,238,Fc,245,Fc,245,Fc,245,Fc,245,Fc,245,Fc,245,Fc,266,Fc,252,Fc,252,Fc,252,Fc,252,Fc,252,Fc,,
+9,Argentina,101,Canary seed,5312,Area harvested,ha,23415,,19825,,15575,,18460,,16125,,15395,,13260,,10215,,11065,,10480,,16685,,14270,,13940,,28270,,24235,
+9,Argentina,101,Canary seed,5419,Yield,hg/ha,9488,Fc,9712,Fc,10697,Fc,9868,Fc,10825,Fc,10719,Fc,11089,Fc,8742,Fc,9058,Fc,9316,Fc,16433,Fc,16314,Fc,13059,Fc,18737,Fc,13063,Fc
+9,Argentina,101,Canary seed,5510,Production,tonnes,22217,,19255,,16660,,18216,,17456,,16502,,14704,,8930,,10023,,9763,,27419,,23280,,18204,,52970,,31657,
+9,Argentina,101,Canary seed,5525,Seed,tonnes,602,Fc,478,Fc,573,Fc,489,Fc,466,Fc,400,Fc,336,Fc,338,Fc,332,Fc,510,Fc,432,Fc,432,Fc,432,Fc,432,Fc,,
+9,Argentina,426,Carrots and turnips,5312,Area harvested,ha,8500,F,9000,F,9500,F,8878,Im,9023,Im,9179,Im,9600,F,9700,F,9660,Im,10020,Im,10279,Im,10497,Im,10722,Im,10956,Im,11197,Im
+9,Argentina,426,Carrots and turnips,5419,Yield,hg/ha,260931,Fc,313937,Fc,263158,Fc,259074,Fc,258668,Fc,254905,Fc,239688,Fc,238144,Fc,245124,Fc,241617,Fc,234796,Fc,230862,Fc,226928,Fc,222994,Fc,219060,Fc
+9,Argentina,426,Carrots and turnips,5510,Production,tonnes,221791,,282543,,250000,F,230000,F,233391,Im,233969,Im,230100,F,231000,F,236798,Im,242102,Im,241345,Im,242332,Im,243318,Im,244305,Im,245291,Im
+9,Argentina,125,Cassava,5312,Area harvested,ha,17000,F,16500,F,16500,F,17000,F,17500,F,18000,F,17200,F,17500,F,17500,F,17700,F,18000,F,18500,F,18700,F,18500,F,18764,Im
+9,Argentina,125,Cassava,5419,Yield,hg/ha,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,101695,Fc,101000,Fc,100000,Fc,100000,Fc,99459,Fc,99631,Fc
+9,Argentina,125,Cassava,5510,Production,tonnes,170000,F,165000,F,165000,F,170000,F,175000,F,180000,F,172000,F,175000,F,175000,F,180000,F,181800,F,185000,F,187000,F,184000,F,186944,Im
+9,Argentina,265,Castor oil seed,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+9,Argentina,265,Castor oil seed,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Argentina,265,Castor oil seed,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+9,Argentina,265,Castor oil seed,5525,Seed,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,
+9,Argentina,108,"Cereals, nes",5312,Area harvested,ha,20000,F,20000,F,22000,F,22000,F,22000,F,22000,F,22200,F,22500,F,22500,F,23000,F,26000,F,26000,F,37000,F,28000,F,27970,Im
+9,Argentina,108,"Cereals, nes",5419,Yield,hg/ha,6500,Fc,6500,Fc,6818,Fc,6818,Fc,6818,Fc,6818,Fc,6847,Fc,6889,Fc,6889,Fc,6957,Fc,7299,Fc,6330,Fc,3986,Fc,6964,Fc,6358,Fc
+9,Argentina,108,"Cereals, nes",5510,Production,tonnes,13000,F,13000,F,15000,F,15000,F,15000,F,15000,F,15200,F,15500,F,15500,F,16000,F,18978,,16459,,14750,,19500,F,17782,Im
+9,Argentina,108,"Cereals, nes",5525,Seed,tonnes,220,Fc,242,Fc,242,Fc,242,Fc,242,Fc,242,Fc,248,Fc,248,Fc,253,Fc,286,Fc,286,Fc,286,Fc,286,Fc,286,Fc,,
+9,Argentina,531,Cherries,5312,Area harvested,ha,1296,Im,1305,Im,1350,F,1328,Im,1333,F,1347,Im,1350,F,1400,F,1482,Im,1576,Im,1800,F,1782,Im,1800,F,2044,Im,1805,Im
+9,Argentina,531,Cherries,5419,Yield,hg/ha,50183,Fc,50282,Fc,50370,Fc,50215,Fc,50263,Fc,50029,Fc,50000,Fc,48571,Fc,46565,Fc,44368,Fc,42052,Fc,39549,Fc,36111,Fc,34098,Fc,39504,Fc
+9,Argentina,531,Cherries,5510,Production,tonnes,6503,Im,6561,Im,6800,F,6669,Im,6700,F,6740,Im,6750,F,6800,F,6903,Im,6992,Im,7569,Im,7050,Im,6500,F,6969,Im,7132,Im
+9,Argentina,191,Chick peas,5312,Area harvested,ha,1300,F,1300,F,1300,F,1350,F,1400,F,1500,F,4500,F,4500,F,10500,F,18500,F,17500,F,55000,F,48000,F,50000,F,51574,Im
+9,Argentina,191,Chick peas,5419,Yield,hg/ha,9231,Fc,10000,Fc,10000,Fc,10000,Fc,10000,Fc,10000,Fc,10000,Fc,10000,Fc,10000,Fc,10000,Fc,11143,Fc,10000,Fc,10833,Fc,10700,Fc,10569,Fc
+9,Argentina,191,Chick peas,5510,Production,tonnes,1200,F,1300,F,1300,F,1350,F,1400,F,1500,F,4500,F,4500,F,10500,F,18500,F,19500,F,55000,F,52000,F,53500,F,54508,Im
+9,Argentina,191,Chick peas,5525,Seed,tonnes,68,Fc,68,Fc,70,Fc,73,Fc,78,Fc,240,Fc,240,Fc,550,Fc,950,Fc,900,Fc,2750,Fc,2750,Fc,2750,Fc,2750,Fc,,
+9,Argentina,689,"Chillies and peppers, dry",5312,Area harvested,ha,2903,Im,2966,Im,3100,F,3000,Im,3067,F,2997,Im,3100,F,3200,F,3000,Im,2932,Im,2881,Im,2829,Im,2500,F,2786,Im,2878,Im
+9,Argentina,689,"Chillies and peppers, dry",5419,Yield,hg/ha,10679,Fc,10630,Fc,10323,Fc,10555,Fc,10326,Fc,10577,Fc,10323,Fc,10313,Fc,10676,Fc,10851,Fc,10988,Fc,11134,Fc,12000,Fc,11383,Fc,11104,Fc
+9,Argentina,689,"Chillies and peppers, dry",5510,Production,tonnes,3100,F,3153,Im,3200,F,3167,Im,3167,F,3170,Im,3200,F,3300,F,3203,Im,3181,Im,3166,Im,3150,Im,3000,F,3171,Im,3196,Im
+9,Argentina,401,"Chillies and peppers, green",5312,Area harvested,ha,8112,Im,8100,F,8200,F,8300,F,7524,Im,6920,Im,6300,F,6400,F,6584,Im,6712,Im,7094,Im,6859,Im,6744,Im,6702,Im,6662,Im
+9,Argentina,401,"Chillies and peppers, green",5419,Yield,hg/ha,148229,Fc,150617,Fc,150000,Fc,150602,Fc,166864,Fc,182184,Fc,200000,Fc,198438,Fc,202061,Fc,208586,Fc,205105,Fc,208408,Fc,211710,Fc,215013,Fc,218316,Fc
+9,Argentina,401,"Chillies and peppers, green",5510,Production,tonnes,120241,,122000,F,123000,F,125000,F,125546,Im,126071,Im,126000,F,127000,F,133042,Im,140000,F,145506,Im,142941,Im,142785,Im,144110,Im,145436,Im
+9,Argentina,767,Cotton lint,5510,Production,tonnes,134000,*,167000,*,61800,,65000,*,112000,*,160000,*,145000,F,170000,F,166265,,135000,,248000,,340000,,234000,,190000,*,327000,F
+9,Argentina,329,Cottonseed,5510,Production,tonnes,223000,*,257000,*,104000,,111000,*,190000,F,246400,F,229773,F,299960,F,271500,F,213700,F,414450,F,567898,F,389750,F,298650,F,520000,*
+9,Argentina,329,Cottonseed,5525,Seed,tonnes,22600,Fc,9572,Fc,8701,Fc,14651,Fc,22353,Fc,17006,Fc,22200,Fc,17074,Fc,16424,Fc,26928,Fc,37930,Fc,34218,Fc,22586,Fc,22586,Fc,,
+9,Argentina,821,Fibre crops nes,5312,Area harvested,ha,1400,F,1416,Im,1450,F,1446,Im,1442,Im,1442,Im,1443,Im,1443,Im,1442,Im,1458,Im,1500,Im,1540,Im,1590,F,1600,F,1658,Im
+9,Argentina,821,Fibre crops nes,5419,Yield,hg/ha,10000,Fc,10055,Fc,10000,Fc,10061,Fc,10059,Fc,10054,Fc,10051,Fc,10050,Fc,10052,Fc,10057,Fc,10067,Fc,10082,Fc,10063,Fc,10313,Fc,10193,Fc
+9,Argentina,821,Fibre crops nes,5510,Production,tonnes,1400,F,1424,Im,1450,F,1455,Im,1450,F,1450,F,1450,F,1450,F,1450,F,1467,Im,1510,Im,1553,Im,1600,F,1650,F,1690,Im
+9,Argentina,569,Figs,5312,Area harvested,ha,268,Im,267,Im,260,F,265,Im,257,F,264,Im,260,F,270,F,275,Im,268,Im,268,Im,268,Im,270,F,268,Im,267,Im
+9,Argentina,569,Figs,5419,Yield,hg/ha,33079,Fc,33283,Fc,34615,Fc,33421,Fc,33735,Fc,33212,Fc,33462,Fc,32593,Fc,32729,Fc,32696,Fc,32606,Fc,32521,Fc,31481,Fc,32384,Fc,32585,Fc
+9,Argentina,569,Figs,5510,Production,tonnes,887,Im,888,Im,900,F,887,Im,867,F,875,Im,870,F,880,F,900,F,876,Im,874,Im,872,Im,850,F,868,Im,870,Im
+9,Argentina,773,Flax fibre and tow,5312,Area harvested,ha,2724,Im,2725,Im,2733,Im,2742,Im,2751,Im,2764,Im,2800,F,2900,F,2898,Im,2948,Im,2990,Im,3045,Im,3000,F,3000,F,2900,F
+9,Argentina,773,Flax fibre and tow,5419,Yield,hg/ha,7008,Fc,7036,Fc,7064,Fc,7103,Fc,7155,Fc,7208,Fc,7143,Fc,7241,Fc,7557,Fc,7736,Fc,7931,Fc,8138,Fc,8667,Fc,9000,Fc,8796,Fc
+9,Argentina,773,Flax fibre and tow,5510,Production,tonnes,1909,Im,1917,Im,1930,Im,1947,Im,1968,Im,1992,Im,2000,F,2100,F,2190,Im,2280,Im,2371,Im,2478,Im,2600,F,2700,F,2551,Im
+9,Argentina,406,Garlic,5312,Area harvested,ha,15500,F,13500,F,13000,F,14500,F,14000,F,11991,Im,15500,F,15600,F,15227,Im,15476,Im,15307,Im,15468,Im,15631,Im,15794,Im,15958,Im
+9,Argentina,406,Garlic,5419,Yield,hg/ha,96249,Fc,99124,Fc,96329,Fc,100614,Fc,101954,Fc,97111,Fc,87423,Fc,89744,Fc,94958,Fc,95271,Fc,94556,Fc,94252,Fc,93948,Fc,93644,Fc,93340,Fc
+9,Argentina,406,Garlic,5510,Production,tonnes,149186,,133818,,125228,,145891,,142735,,116441,,135505,,140000,F,144591,Im,147445,Im,144737,Im,145791,Im,146845,Im,147899,Im,148953,Im
+9,Argentina,507,Grapefruit (inc. pomelos),5312,Area harvested,ha,11700,*,12000,*,12000,*,12000,*,12000,*,12500,F,11500,F,10500,F,14000,F,13500,F,7685,,6383,,6207,,8116,Im,8755,Im
+9,Argentina,507,Grapefruit (inc. pomelos),5419,Yield,hg/ha,186244,Fc,166241,Fc,170626,Fc,153468,Fc,147675,Fc,218163,Fc,208696,Fc,209524,Fc,174068,Fc,175910,Fc,245699,Fc,270064,Fc,212979,Fc,201694,Fc,225877,Fc
+9,Argentina,507,Grapefruit (inc. pomelos),5510,Production,tonnes,217905,,199489,,204751,,184162,,177210,,272704,,240000,*,220000,*,243695,,237479,,188820,,172382,,132196,,163694,Im,197761,Im
+9,Argentina,560,Grapes,5312,Area harvested,ha,187740,,201971,,205919,,205721,*,206300,*,212030,*,216340,*,219070,*,226450,,228575,,217750,,218499,,221202,,223580,,226388,
+9,Argentina,560,Grapes,5419,Yield,hg/ha,131025,Fc,122866,Fc,110781,Fc,113720,Fc,128501,Fc,133458,Fc,133167,Fc,141165,Fc,124606,Fc,95442,Fc,120306,Fc,132280,Fc,101456,Fc,128444,Fc,116398,Fc
+9,Argentina,560,Grapes,5510,Production,tonnes,2459860,,2481530,*,2281190,*,2339460,*,2650972,*,2829711,*,2880927,*,3092509,,2821696,,2181567,,2619661,,2890296,,2244220,,2871749,,2635109,
+9,Argentina,242,"Groundnuts, with shell",5312,Area harvested,ha,219260,,251060,,222370,,156426,,167473,,210820,,163677,,215060,,227389,,257430,,218828,,264568,,307166,,404022,,409312,
+9,Argentina,242,"Groundnuts, with shell",5419,Yield,hg/ha,19137,Fc,15725,Fc,16275,Fc,14122,Fc,17492,Fc,21099,Fc,21220,Fc,27901,Fc,27501,Fc,23521,Fc,27923,Fc,26516,Fc,22324,Fc,25391,Fc,28485,Fc
+9,Argentina,242,"Groundnuts, with shell",5510,Production,tonnes,419600,,394800,,361900,,220900,,292950,,444800,,347323,,600035,,625349,,605491,,611040,,701535,,685722,,1025857,,1165924,
+9,Argentina,242,"Groundnuts, with shell",5525,Seed,tonnes,20197,Fc,17790,Fc,12586,Fc,13618,Fc,16887,Fc,13923,Fc,17253,Fc,18231,Fc,21154,Fc,17764,Fc,21168,Fc,21168,Fc,21168,Fc,21168,Fc,,
+9,Argentina,677,Hops,5312,Area harvested,ha,250,F,250,F,240,F,246,Im,243,F,243,F,245,F,370,F,370,F,370,F,370,F,370,F,370,F,370,Im,380,Im
+9,Argentina,677,Hops,5419,Yield,hg/ha,12000,Fc,12000,Fc,12083,Fc,12057,Fc,12058,Fc,12063,Fc,12041,Fc,12162,Fc,12162,Fc,12162,Fc,12162,Fc,12162,Fc,12162,Fc,12181,Fc,12199,Fc
+9,Argentina,677,Hops,5510,Production,tonnes,300,F,300,F,290,F,297,Im,293,F,293,Im,295,F,450,F,450,F,450,F,450,F,450,F,450,F,451,Im,464,Im
+9,Argentina,497,Lemons and limes,5312,Area harvested,ha,34000,*,40000,*,42000,*,44000,*,45000,*,52000,F,55000,F,55000,F,53000,F,50732,Im,43575,,48628,,46794,,41000,*,47582,Im
+9,Argentina,497,Lemons and limes,5419,Yield,hg/ha,344558,Fc,304417,Fc,312683,Fc,280973,Fc,297811,Fc,288156,Fc,267273,Fc,254545,Fc,257017,Fc,280992,Fc,255508,Fc,361181,Fc,311166,Fc,298574,Fc,294651,Fc
+9,Argentina,497,Lemons and limes,5510,Production,tonnes,1171498,,1217666,,1313270,,1236280,,1340150,,1498410,,1470000,*,1400000,*,1362190,,1425529,,1113375,,1756351,,1456069,,1224152,Im,1402011,Im
+9,Argentina,201,Lentils,5312,Area harvested,ha,6000,F,3000,F,2000,F,1500,F,1500,F,1500,F,1600,F,1700,F,1700,F,1460,Im,1472,Im,1685,Im,1692,Im,1698,Im,1705,Im
+9,Argentina,201,Lentils,5419,Yield,hg/ha,18167,Fc,6000,Fc,15000,Fc,16667,Fc,16667,Fc,16667,Fc,13438,Fc,13529,Fc,13529,Fc,14608,Fc,14998,Fc,14599,Fc,14543,Fc,14486,Fc,14430,Fc
+9,Argentina,201,Lentils,5510,Production,tonnes,10900,,1800,,3000,,2500,F,2500,F,2500,F,2150,F,2300,F,2300,F,2133,Im,2208,Im,2460,Im,2460,Im,2460,Im,2460,Im
+9,Argentina,201,Lentils,5525,Seed,tonnes,540,Fc,330,Fc,180,Fc,180,Fc,180,Fc,180,Fc,180,Fc,180,Fc,180,Fc,180,Fc,192,Fc,192,Fc,192,Fc,192,Fc,,
+9,Argentina,333,Linseed,5312,Area harvested,ha,67875,,28135,,19540,,13800,,28800,,37180,,46690,,28400,,9450,,17370,,25600,,16630,,14600,,17900,,14700,
+9,Argentina,333,Linseed,5419,Yield,hg/ha,6912,Fc,7926,Fc,7932,Fc,8152,Fc,10167,Fc,9710,Fc,11519,Fc,11995,Fc,10121,Fc,11229,Fc,12566,Fc,12862,Fc,11692,Fc,11413,Fc,11738,Fc
+9,Argentina,333,Linseed,5510,Production,tonnes,46917,,22300,,15500,,11250,,29280,,36100,,53780,,34065,,9564,,19505,,32170,,21390,,17070,,20430,,17255,
+9,Argentina,333,Linseed,5525,Seed,tonnes,565,Fc,398,Fc,276,Fc,577,Fc,744,Fc,941,Fc,583,Fc,189,Fc,348,Fc,770,Fc,515,Fc,333,Fc,292,Fc,292,Fc,,
+9,Argentina,210,Lupins,5312,Area harvested,ha,80,F,80,F,90,F,90,F,87,F,87,F,90,F,90,F,90,F,94,Im,99,Im,102,Im,110,F,100,F,105,Im
+9,Argentina,210,Lupins,5419,Yield,hg/ha,15000,Fc,15000,Fc,14444,Fc,14444,Fc,14943,Fc,14943,Fc,15000,Fc,16667,Fc,16667,Fc,15855,Fc,15420,Fc,15174,Fc,14545,Fc,15400,Fc,15269,Fc
+9,Argentina,210,Lupins,5510,Production,tonnes,120,F,120,F,130,F,130,F,130,F,130,F,135,F,150,F,150,F,149,Im,153,Im,155,Im,160,F,154,F,161,Im
+9,Argentina,56,Maize,5312,Area harvested,ha,3088715,,2815504,,2420124,,2322857,,2338602,,2783436,,2447166,,2838072,,3412155,,2353175,,2904035,,3747838,,3696300,,4863801,,4836655,
+9,Argentina,56,Maize,5419,Yield,hg/ha,54329,Fc,54553,Fc,60791,Fc,64767,Fc,63931,Fc,73587,Fc,59030,Fc,76655,Fc,64525,Fc,55760,Fc,78040,Fc,63503,Fc,57346,Fc,66037,Fc,68409,Fc
+9,Argentina,56,Maize,5510,Production,tonnes,16780650,,15359397,,14712079,,15044529,,14950825,,20482572,,14445538,,21755364,,22016926,,13121380,,22663095,,23799830,,21196637,,32119211,,33087165,
+9,Argentina,56,Maize,5525,Seed,tonnes,80000,F,80000,F,75000,F,75000,F,75000,F,95000,F,105000,F,125000,F,90000,F,90000,F,180000,F,200000,F,262000,F,280000,F,,
+9,Argentina,571,"Mangoes, mangosteens, guavas",5312,Area harvested,ha,234,Im,238,Im,250,F,242,Im,233,F,244,Im,250,F,270,F,265,Im,265,Im,265,Im,265,Im,270,F,268,Im,272,Im
+9,Argentina,571,"Mangoes, mangosteens, guavas",5419,Yield,hg/ha,79571,Fc,79508,Fc,76000,Fc,79595,Fc,80129,Fc,80160,Fc,80000,Fc,81481,Fc,79875,Fc,79806,Fc,79745,Fc,79684,Fc,77778,Fc,79538,Fc,79289,Fc
+9,Argentina,571,"Mangoes, mangosteens, guavas",5510,Production,tonnes,1866,Im,1891,Im,1900,F,1924,Im,1867,F,1956,Im,2000,F,2200,F,2117,Im,2113,Im,2114,Im,2114,Im,2100,F,2135,Im,2160,Im
+9,Argentina,671,Maté,5312,Area harvested,ha,178000,,176400,,175100,,156050,,160950,,166100,,171500,F,168450,,173940,,175550,,204221,,178500,,178500,,178995,,175165,Im
+9,Argentina,671,Maté,5419,Yield,hg/ha,16011,Fc,17574,Fc,16276,Fc,18263,Fc,15652,Fc,15965,Fc,16327,Fc,17216,Fc,13675,Fc,13016,Fc,12277,Fc,13748,Fc,14058,Fc,13484,Fc,13537,Fc
+9,Argentina,671,Maté,5510,Production,tonnes,285000,,310000,,285000,,285000,,251922,,265181,,280000,F,290000,F,237858,,228499,,250723,,245399,,250928,,241365,,237114,Im
+9,Argentina,568,"Melons, other (inc.cantaloupes)",5312,Area harvested,ha,4400,F,4100,F,4700,F,4694,Im,4800,F,4816,Im,5000,F,5500,F,5398,Im,4896,Im,4975,Im,4989,Im,5002,Im,5016,Im,5029,Im
+9,Argentina,568,"Melons, other (inc.cantaloupes)",5419,Yield,hg/ha,169150,Fc,170590,Fc,170630,Fc,168295,Fc,165625,Fc,165412,Fc,160000,Fc,154545,Fc,161176,Fc,164946,Fc,162721,Fc,162620,Fc,162519,Fc,162419,Fc,162318,Fc
+9,Argentina,568,"Melons, other (inc.cantaloupes)",5510,Production,tonnes,74426,,69942,,80196,,79000,F,79500,F,79656,Im,80000,F,85000,F,87000,Im,80759,Im,80954,Im,81125,Im,81295,Im,81466,Im,81636,Im
+9,Argentina,79,Millet,5312,Area harvested,ha,31650,,17680,,14730,,11850,,7207,,9368,,9770,,10230,,10475,,3410,,6675,,4700,,9890,,6120,,2250,
+9,Argentina,79,Millet,5419,Yield,hg/ha,15141,Fc,17653,Fc,19056,Fc,18439,Fc,15783,Fc,17375,Fc,15883,Fc,14158,Fc,14152,Fc,17243,Fc,13655,Fc,17000,Fc,17608,Fc,18288,Fc,11867,Fc
+9,Argentina,79,Millet,5510,Production,tonnes,47920,,31210,,28070,,21850,,11375,,16277,,15518,,14484,,14824,,5880,,9115,,7990,,17414,,11192,,2670,
+9,Argentina,79,Millet,5525,Seed,tonnes,1193,Fc,828,Fc,748,Fc,747,Fc,415,Fc,461,Fc,575,Fc,629,Fc,389,Fc,492,Fc,551,Fc,551,Fc,551,Fc,551,Fc,,
+9,Argentina,75,Oats,5312,Area harvested,ha,335534,,362545,,292315,,220785,,291307,,148225,,138025,,224250,,211805,,139368,,284570,,196135,,260240,,226109,,224528,
+9,Argentina,75,Oats,5419,Yield,hg/ha,19198,Fc,18336,Fc,16678,Fc,15037,Fc,18403,Fc,15308,Fc,17603,Fc,21067,Fc,13717,Fc,13058,Fc,23200,Fc,21158,Fc,19057,Fc,19673,Fc,23370,Fc
+9,Argentina,75,Oats,5510,Production,tonnes,644150,,664760,,487510,,331994,,536091,,226910,,242960,,472420,,290525,,181990,,660200,,414990,,495940,,444820,,524715,
+9,Argentina,75,Oats,5525,Seed,tonnes,160000,F,160000,F,150000,F,120000,F,100000,F,96046,Fc,100162,Fc,94971,Fc,82509,Fc,101997,Fc,95101,Fc,95101,Fc,,M,,M,,
+9,Argentina,339,Oilseeds nes,5510,Production,tonnes,0,,0,,0,,0,F,0,Im,0,F,0,F,0,F,0,F,0,F,0,F,0,F,0,F,0,F,0,F
+9,Argentina,260,Olives,5312,Area harvested,ha,35000,F,29000,F,30000,F,33000,F,45000,F,50000,F,55000,F,58500,F,61000,F,56000,F,55979,Im,58633,Im,64000,F,63000,F,61393,Im
+9,Argentina,260,Olives,5419,Yield,hg/ha,31429,Fc,31034,Fc,31000,Fc,30000,Fc,32800,Fc,31000,Fc,30909,Fc,30085,Fc,30000,Fc,30179,Fc,29475,Fc,28994,Fc,27344,Fc,27302,Fc,28155,Fc
+9,Argentina,260,Olives,5510,Production,tonnes,110000,F,90000,F,93000,F,99000,F,147600,F,155000,F,170000,F,176000,F,183000,F,169000,F,165000,F,170000,F,175000,F,172000,F,172850,Im
+9,Argentina,403,"Onions, dry",5312,Area harvested,ha,20000,F,21000,F,24000,F,25000,F,24781,Im,26000,F,24000,F,24064,Im,23941,Im,22233,Im,23855,Im,24662,Im,24219,Im,24282,Im,24344,Im
+9,Argentina,403,"Onions, dry",5419,Yield,hg/ha,272562,Fc,276113,Fc,269092,Fc,271299,Fc,282269,Fc,294144,Fc,290643,Fc,290891,Fc,293775,Fc,292357,Fc,294157,Fc,295957,Fc,297757,Fc,299557,Fc,301357,Fc
+9,Argentina,403,"Onions, dry",5510,Production,tonnes,545123,,579837,,645821,,678248,,699480,,764775,,697542,,700000,F,703321,Im,650000,F,701714,Im,729883,Im,721141,Im,727380,Im,733619,Im
+9,Argentina,490,Oranges,5312,Area harvested,ha,49173,*,52104,*,56000,F,58000,*,58000,*,67000,F,58000,F,59000,F,55000,F,56000,F,48229,,48891,,43702,,40000,*,46062,Im
+9,Argentina,490,Oranges,5419,Yield,hg/ha,160067,Fc,176243,Fc,136938,Fc,118508,Fc,132759,Fc,132220,Fc,170690,Fc,135593,Fc,171371,Fc,160488,Fc,172818,Fc,231142,Fc,213612,Fc,200000,Fc,195130,Fc
+9,Argentina,490,Oranges,5510,Production,tonnes,787096,,918294,,766854,,687346,,770000,*,885871,,990000,*,800000,*,942541,,898732,,833486,,1130074,,933526,,800000,*,898812,Im
+9,Argentina,600,Papayas,5312,Area harvested,ha,154,Im,155,Im,160,F,158,Im,157,F,159,Im,160,F,170,F,167,Im,169,Im,171,Im,173,Im,180,F,181,Im,176,Im
+9,Argentina,600,Papayas,5419,Yield,hg/ha,136435,Fc,136055,Fc,137500,Fc,135360,Fc,136561,Fc,134916,Fc,134375,Fc,135294,Fc,132066,Fc,128684,Fc,126234,Fc,123702,Fc,111111,Fc,118738,Fc,122296,Fc
+9,Argentina,600,Papayas,5510,Production,tonnes,2096,Im,2115,Im,2200,F,2133,F,2144,F,2139,Im,2150,F,2300,F,2203,Im,2179,Im,2160,Im,2140,Im,2000,F,2147,Im,2158,Im
+9,Argentina,534,Peaches and nectarines,5312,Area harvested,ha,24000,F,23500,F,23000,F,25969,Im,26000,F,26214,Im,25000,F,26000,F,25525,Im,27421,Im,25792,Im,25644,Im,25721,Im,25733,Im,25745,Im
+9,Argentina,534,Peaches and nectarines,5419,Yield,hg/ha,87348,Fc,109689,Fc,92140,Fc,98498,Fc,104785,Fc,103951,Fc,104000,Fc,103846,Fc,106699,Fc,109406,Fc,108566,Fc,109684,Fc,110802,Fc,111920,Fc,113038,Fc
+9,Argentina,534,Peaches and nectarines,5510,Production,tonnes,209634,,257768,,211922,,255785,,272442,,272500,F,260000,F,270000,F,272353,Im,300000,F,280009,Im,281273,Im,284997,Im,288005,Im,291014,Im
+9,Argentina,521,Pears,5312,Area harvested,ha,20336,Im,23000,F,18000,*,17000,*,19600,F,25000,F,25745,Im,25095,Im,25310,Im,24315,Im,26457,Im,28742,Im,29457,Im,27000,*,26995,Im
+9,Argentina,521,Pears,5419,Yield,hg/ha,252539,Fc,254456,Fc,298498,Fc,375899,Fc,300729,Fc,299491,Fc,291318,Fc,286906,Fc,292373,Fc,287892,Fc,285330,Fc,282731,Fc,280106,Fc,255556,Fc,285706,Fc
+9,Argentina,521,Pears,5510,Production,tonnes,513554,,585249,,537297,,639029,,589429,,748727,,750000,F,720000,*,740000,F,700000,*,754908,Im,812633,,825115,,690000,*,771271,Im
+9,Argentina,187,"Peas, dry",5312,Area harvested,ha,10000,F,15000,F,18000,F,20000,F,25000,F,32000,F,46000,F,42000,F,42000,F,44564,Im,48000,F,48500,F,46000,F,47200,F,48295,Im
+9,Argentina,187,"Peas, dry",5419,Yield,hg/ha,11200,Fc,13333,Fc,12222,Fc,12000,Fc,11200,Fc,11250,Fc,11957,Fc,11905,Fc,11905,Fc,11547,Fc,11518,Fc,11587,Fc,11482,Fc,11376,Fc,11270,Fc
+9,Argentina,187,"Peas, dry",5510,Production,tonnes,11200,,20000,,22000,F,24000,F,28000,F,36000,F,55000,F,50000,F,50000,F,51457,Im,55285,Im,56198,Im,52815,Im,53694,Im,54429,Im
+9,Argentina,187,"Peas, dry",5525,Seed,tonnes,1620,Fc,1800,Fc,1980,Fc,2430,Fc,3150,Fc,4500,Fc,4050,Fc,4050,Fc,4185,Fc,4365,Fc,4410,Fc,4410,Fc,4410,Fc,4410,Fc,,
+9,Argentina,417,"Peas, green",5312,Area harvested,ha,11996,Im,12131,Im,12500,F,12377,Im,12333,F,12519,Im,12500,F,13000,F,13113,Im,13162,Im,13289,Im,13412,Im,13500,F,13672,Im,13805,Im
+9,Argentina,417,"Peas, green",5419,Yield,hg/ha,20968,Fc,20868,Fc,20400,Fc,20701,Fc,20684,Fc,20663,Fc,20560,Fc,20385,Fc,20470,Fc,20452,Fc,20443,Fc,20441,Fc,20741,Fc,20384,Fc,20185,Fc
+9,Argentina,417,"Peas, green",5510,Production,tonnes,25153,Im,25316,Im,25500,F,25622,Im,25510,Im,25867,Im,25700,F,26500,F,26841,Im,26918,Im,27167,Im,27414,Im,28000,F,27869,Im,27865,Im
+9,Argentina,748,Peppermint,5510,Production,tonnes,7000,F,7000,F,7100,F,7100,F,7100,F,7100,F,7100,F,7100,F,7100,F,7100,F,7100,F,7100,F,7100,F,7071,Im,7021,Im
+9,Argentina,574,Pineapples,5312,Area harvested,ha,160,F,164,Im,165,F,166,Im,163,F,167,Im,170,F,180,F,179,Im,178,Im,178,Im,179,Im,180,F,180,Im,179,Im
+9,Argentina,574,Pineapples,5419,Yield,hg/ha,196875,Fc,194389,Fc,193939,Fc,193468,Fc,195276,Fc,191517,Fc,188235,Fc,183333,Fc,186273,Fc,186243,Fc,186166,Fc,186093,Fc,186111,Fc,184877,Fc,184246,Fc
+9,Argentina,574,Pineapples,5510,Production,tonnes,3150,F,3188,Im,3200,F,3206,Im,3183,F,3199,Im,3200,F,3300,F,3329,Im,3311,Im,3320,Im,3329,Im,3350,F,3331,Im,3302,Im
+9,Argentina,536,Plums and sloes,5312,Area harvested,ha,10500,F,14000,F,15300,F,20069,Im,14867,F,14894,Im,18000,F,13000,F,16000,F,15000,F,13895,Im,16010,Im,16071,Im,16298,Im,16566,Im
+9,Argentina,536,Plums and sloes,5419,Yield,hg/ha,71030,Fc,75888,Fc,68990,Fc,75421,Fc,85702,Fc,85603,Fc,86111,Fc,83077,Fc,85000,Fc,103333,Fc,113049,Fc,100917,Fc,100770,Fc,102065,Fc,103360,Fc
+9,Argentina,536,Plums and sloes,5510,Production,tonnes,74581,,106243,,105554,,151362,,127413,,127500,F,155000,F,108000,F,136000,F,155000,F,157085,Im,161573,Im,161942,Im,166345,Im,171232,Im
+9,Argentina,116,Potatoes,5312,Area harvested,ha,80000,F,88000,F,90000,F,75000,F,70000,F,63000,F,68000,F,68000,F,68000,F,68264,Im,63433,Im,55092,Im,50514,Im,48083,Im,46323,Im
+9,Argentina,116,Potatoes,5419,Yield,hg/ha,277566,Fc,283768,Fc,251347,Fc,279269,Fc,288717,Fc,283917,Fc,285828,Fc,286765,Fc,279412,Fc,285655,Fc,292327,Fc,289408,Fc,290977,Fc,292545,Fc,294113,Fc
+9,Argentina,116,Potatoes,5510,Production,tonnes,2220529,,2497156,,2262120,,2094520,,2021020,,1788677,,1943632,,1950000,F,1900000,F,1950000,F,1854315,Im,1594420,Im,1469842,Im,1406641,Im,1362407,Im
+9,Argentina,116,Potatoes,5525,Seed,tonnes,81782,Fc,83317,Fc,69483,Fc,63903,Fc,58500,Fc,63000,Fc,63000,Fc,63000,Fc,63000,Fc,64800,Fc,64800,Fc,64800,Fc,64800,Fc,64800,Fc,,
+9,Argentina,394,"Pumpkins, squash and gourds",5312,Area harvested,ha,21000,F,18000,F,18838,Im,19256,Im,20000,F,19676,Im,19431,Im,21000,F,19312,Im,18626,Im,18958,Im,18721,Im,18485,Im,18251,Im,18018,Im
+9,Argentina,394,"Pumpkins, squash and gourds",5419,Yield,hg/ha,152899,Fc,161437,Fc,154474,Fc,152682,Fc,148000,Fc,149703,Fc,149249,Fc,142857,Fc,150306,Fc,153588,Fc,151410,Fc,151960,Fc,152511,Fc,153062,Fc,153612,Fc
+9,Argentina,394,"Pumpkins, squash and gourds",5510,Production,tonnes,321088,,290587,,291000,F,294000,F,296000,F,294552,Im,290000,F,300000,F,290275,Im,286068,Im,287047,Im,284480,Im,281914,Im,279347,Im,276780,Im
+9,Argentina,523,Quinces,5312,Area harvested,ha,3089,Im,3122,Im,3200,F,3156,Im,3133,F,3156,Im,3150,F,3200,F,3214,Im,3202,Im,3206,Im,3209,Im,3200,F,3206,Im,3201,Im
+9,Argentina,523,Quinces,5419,Yield,hg/ha,82357,Fc,82237,Fc,81250,Fc,82255,Fc,81925,Fc,82697,Fc,82540,Fc,84375,Fc,84185,Fc,84239,Fc,84477,Fc,84710,Fc,85938,Fc,85109,Fc,85101,Fc
+9,Argentina,523,Quinces,5510,Production,tonnes,25442,Im,25677,Im,26000,F,25956,Im,25667,F,26099,Im,26000,F,27000,F,27055,Im,26974,Im,27081,Im,27185,Im,27500,F,27283,Im,27242,Im
+9,Argentina,270,Rapeseed,5312,Area harvested,ha,3725,,8725,,2150,,7680,,15876,,16560,,6160,,8986,,12716,,39256,,12405,,29465,,87555,,69305,,54600,
+9,Argentina,270,Rapeseed,5419,Yield,hg/ha,16148,Fc,17628,Fc,10791,Fc,13607,Fc,12777,Fc,15731,Fc,14838,Fc,12497,Fc,16051,Fc,15582,Fc,18811,Fc,17180,Fc,14656,Fc,16146,Fc,19203,Fc
+9,Argentina,270,Rapeseed,5510,Production,tonnes,6015,,15380,,2320,,10450,,20285,,26050,,9140,,11230,,20411,,61167,,23335,,50620,,128320,,111900,,104848,
+9,Argentina,270,Rapeseed,5525,Seed,tonnes,44,Fc,11,Fc,39,Fc,92,Fc,84,Fc,34,Fc,53,Fc,70,Fc,209,Fc,60,Fc,64,Fc,151,Fc,151,Fc,151,Fc,,
+9,Argentina,27,"Rice, paddy",5312,Area harvested,ha,189050,,151870,,124010,,132890,,169178,,158938,,169025,,164635,,182460,,193800,,215670,,257445,,235372,,232700,,243200,
+9,Argentina,27,"Rice, paddy",5419,Yield,hg/ha,47798,Fc,57495,Fc,57197,Fc,54002,Fc,62661,Fc,60165,Fc,70610,Fc,65604,Fc,68278,Fc,68842,Fc,57646,Fc,67901,Fc,66617,Fc,67187,Fc,65042,Fc
+9,Argentina,27,"Rice, paddy",5510,Production,tonnes,903630,,873183,,709295,,717630,,1060083,,956253,,1193492,,1080070,,1245800,,1334155,,1243259,,1748075,,1567971,,1563450,,1581810,
+9,Argentina,27,"Rice, paddy",5525,Seed,tonnes,30000,F,30000,F,25000,F,20000,F,38500,F,27412,Fc,26928,Fc,29368,Fc,32872,Fc,35274,Fc,41256,Fc,37928,Fc,37928,Fc,,M,,
+9,Argentina,71,Rye,5312,Area harvested,ha,89495,,64029,,56450,,38601,,62460,,28675,,14750,,38700,,33580,,26430,,24100,,23405,,22725,,31965,,51112,
+9,Argentina,71,Rye,5419,Yield,hg/ha,14498,Fc,13514,Fc,14021,Fc,9500,Fc,14709,Fc,11533,Fc,11853,Fc,19943,Fc,10083,Fc,9510,Fc,18448,Fc,18419,Fc,17470,Fc,16308,Fc,19056,Fc
+9,Argentina,71,Rye,5510,Production,tonnes,129750,,86530,,79150,,36670,,91870,,33070,,17483,,77180,,33859,,25135,,44460,,43110,,39700,,52130,,97398,
+9,Argentina,71,Rye,5525,Seed,tonnes,20000,F,15000,F,12000,F,12000,F,12000,F,11055,Fc,11359,Fc,10143,Fc,7605,Fc,7930,Fc,7802,Fc,7575,Fc,10650,Fc,10650,Fc,,
+9,Argentina,280,Safflower seed,5312,Area harvested,ha,34400,,53400,,29500,,22000,,30400,,47800,,25250,,74300,,44100,,96968,,66100,,79256,,161479,,87470,,5724,
+9,Argentina,280,Safflower seed,5419,Yield,hg/ha,8968,Fc,8180,Fc,7966,Fc,6045,Fc,5921,Fc,10619,Fc,7050,Fc,7806,Fc,7592,Fc,8971,Fc,6634,Fc,7077,Fc,6704,Fc,5690,Fc,5398,Fc
+9,Argentina,280,Safflower seed,5510,Production,tonnes,30850,,43680,,23500,,13300,,18000,,50760,,17800,,58000,,33480,,86991,,43850,,56086,,108250,,49770,,3090,
+9,Argentina,280,Safflower seed,5525,Seed,tonnes,2628,Fc,1485,Fc,1035,Fc,1368,Fc,2196,Fc,1204,Fc,3398,Fc,1985,Fc,4486,Fc,3317,Fc,4160,Fc,7692,Fc,7692,Fc,7692,Fc,,
+9,Argentina,328,Seed cotton,5312,Area harvested,ha,332090,,388153,,164731,,145723,,254913,,374700,,304397,,393005,,303383,,289785,,440872,,623399,,528221,,342755,,512821,
+9,Argentina,328,Seed cotton,5419,Yield,hg/ha,12577,Fc,13124,Fc,13243,Fc,13828,Fc,13879,Fc,11965,Fc,13725,Fc,13877,Fc,16270,Fc,13407,Fc,17091,Fc,16563,Fc,13416,Fc,15172,Fc,19883,Fc
+9,Argentina,328,Seed cotton,5510,Production,tonnes,417680,,509405,,218159,,201506,,353799,,448315,,417770,,545382,,493601,,388528,,753502,,1032542,,708650,,520028,,1019653,
+9,Argentina,83,Sorghum,5312,Area harvested,ha,719598,,613285,,540367,,533595,,475494,,557962,,497640,,594410,,618625,,379660,,755235,,1012617,,913815,,889993,,787657,
+9,Argentina,83,Sorghum,5419,Yield,hg/ha,46477,Fc,47429,Fc,52691,Fc,50315,Fc,45531,Fc,51872,Fc,46778,Fc,47021,Fc,47474,Fc,38752,Fc,48163,Fc,44029,Fc,46534,Fc,40852,Fc,44009,Fc
+9,Argentina,83,Sorghum,5510,Production,tonnes,3344493,,2908775,,2847225,,2684780,,2164953,,2894250,,2327865,,2794967,,2936840,,1471270,,3637427,,4458442,,4252310,,3635837,,3466410,
+9,Argentina,83,Sorghum,5525,Seed,tonnes,10473,Fc,8880,Fc,8891,Fc,8177,Fc,9262,Fc,8655,Fc,10500,Fc,12105,Fc,9922,Fc,15483,Fc,18502,Fc,18502,Fc,18502,Fc,18502,Fc,,
+9,Argentina,236,Soybeans,5312,Area harvested,ha,8637503,,10400193,,11405247,,12419995,,14304539,,14032198,,15130038,,15981264,,16387438,,16771003,,18130800,,18764850,,17577320,,19418824,,19252552,
+9,Argentina,236,Soybeans,5419,Yield,hg/ha,23312,Fc,25846,Fc,26304,Fc,28034,Fc,22075,Fc,27287,Fc,26793,Fc,29712,Fc,28216,Fc,18480,Fc,29053,Fc,26053,Fc,22814,Fc,25391,Fc,27735,Fc
+9,Argentina,236,Soybeans,5510,Production,tonnes,20135800,,26880852,,30000000,,34818552,,31576752,,38289744,,40537364,,47482784,,46238088,,30993380,,52675464,,48888536,,40100196,,49306200,,53397715,
+9,Argentina,236,Soybeans,5525,Seed,tonnes,586538,Fc,640158,Fc,693376,Fc,798963,Fc,791722,Fc,846641,Fc,887774,Fc,913194,Fc,992359,Fc,1008917,Fc,1039624,Fc,1039624,Fc,1039624,Fc,1039624,Fc,,
+9,Argentina,723,"Spices, nes",5312,Area harvested,ha,1560,Im,1559,Im,1550,F,1553,Im,1543,F,1531,Im,1550,F,1500,F,1479,Im,1457,Im,1437,Im,1417,Im,1300,F,1384,Im,1404,Im
+9,Argentina,723,"Spices, nes",5419,Yield,hg/ha,9066,Fc,9147,Fc,9355,Fc,9312,Fc,9507,Fc,9536,Fc,9677,Fc,9333,Fc,9763,Fc,10048,Fc,10248,Fc,10456,Fc,11538,Fc,10800,Fc,10690,Fc
+9,Argentina,723,"Spices, nes",5510,Production,tonnes,1414,Im,1426,Im,1450,F,1446,Im,1467,F,1460,Im,1500,F,1400,F,1444,Im,1463,Im,1473,Im,1482,Im,1500,F,1494,Im,1501,Im
+9,Argentina,544,Strawberries,5312,Area harvested,ha,924,Im,933,Im,950,F,928,Im,933,F,899,Im,950,F,877,Im,967,Im,1042,Im,1131,Im,1122,Im,1000,F,1123,Im,1069,Im
+9,Argentina,544,Strawberries,5419,Yield,hg/ha,93772,Fc,94591,Fc,94737,Fc,96530,Fc,94673,Fc,99100,Fc,93158,Fc,102627,Fc,105127,Fc,107776,Fc,110538,Fc,113375,Fc,132000,Fc,118458,Fc,117899,Fc
+9,Argentina,544,Strawberries,5510,Production,tonnes,8667,Im,8824,Im,9000,F,8956,Im,8833,F,8911,Im,8850,F,9000,F,10170,Im,11234,Im,12500,F,12723,Im,13200,F,13308,Im,12605,Im
+9,Argentina,423,String beans,5312,Area harvested,ha,5162,Im,5255,Im,5500,F,5600,F,5367,F,5517,Im,5500,F,5641,Im,5719,Im,5795,Im,5873,Im,5952,Im,6100,F,6107,Im,6171,Im
+9,Argentina,423,String beans,5419,Yield,hg/ha,85032,Fc,84052,Fc,80909,Fc,80357,Fc,81964,Fc,81831,Fc,82727,Fc,81259,Fc,80638,Fc,80073,Fc,79501,Fc,78923,Fc,77869,Fc,77810,Fc,77529,Fc
+9,Argentina,423,String beans,5510,Production,tonnes,43897,Im,44168,Im,44500,F,45000,F,43990,Im,45147,Im,45500,F,45837,Im,46118,Im,46404,Im,46692,Im,46978,Im,47500,F,47519,Im,47840,Im
+9,Argentina,156,Sugar cane,5312,Area harvested,ha,280000,F,292000,F,294000,F,295000,F,281886,,284639,,315000,F,320000,F,360000,F,345000,F,267021,Im,301049,Im,360000,*,370000,*,368215,Im
+9,Argentina,156,Sugar cane,5419,Yield,hg/ha,657143,Fc,641096,Fc,654762,Fc,747458,Fc,741434,Fc,857226,Fc,839683,Fc,748750,Fc,748889,Fc,781449,Fc,707431,Fc,657930,Fc,549066,Fc,640541,Fc,665447,Fc
+9,Argentina,156,Sugar cane,5510,Production,tonnes,18400000,F,18720000,F,19250000,F,22050000,F,20900000,F,24400000,F,26450000,F,23960000,F,26960000,F,26960000,F,18889878,,19806890,,19766388,,23700000,*,24502741,Im
+9,Argentina,267,Sunflower seed,5312,Area harvested,ha,3477120,,1903925,,2014915,,2324510,,1835238,,1922909,,2167074,,2351348,,2569136,,1820030,,1495317,,1743040,,1823412,,1620081,,1261640,
+9,Argentina,267,Sunflower seed,5419,Yield,hg/ha,17456,Fc,16697,Fc,19076,Fc,15978,Fc,17222,Fc,19045,Fc,17349,Fc,14875,Fc,18101,Fc,13645,Fc,14927,Fc,21065,Fc,18320,Fc,19162,Fc,16355,Fc
+9,Argentina,267,Sunflower seed,5510,Production,tonnes,6069655,,3179043,,3843579,,3714000,,3160672,,3662109,,3759736,,3497732,,4650365,,2483437,,2232034,,3671748,,3340520,,3104420,,2063410,
+9,Argentina,267,Sunflower seed,5525,Seed,tonnes,13833,Fc,14353,Fc,16646,Fc,12936,Fc,13766,Fc,15622,Fc,16670,Fc,18289,Fc,13772,Fc,10845,Fc,12310,Fc,12959,Fc,12959,Fc,12959,Fc,,
+9,Argentina,122,Sweet potatoes,5312,Area harvested,ha,17612,Im,17500,F,18000,F,18199,Im,22600,F,24600,F,23000,F,24000,F,22564,Im,21674,Im,22084,Im,22295,Im,22507,Im,22721,Im,22937,Im
+9,Argentina,122,Sweet potatoes,5419,Yield,hg/ha,151565,Fc,155212,Fc,155890,Fc,154185,Fc,154867,Fc,154472,Fc,143478,Fc,141667,Fc,145008,Fc,150793,Fc,148994,Fc,148397,Fc,147799,Fc,147201,Fc,146604,Fc
+9,Argentina,122,Sweet potatoes,5510,Production,tonnes,266936,,271621,,280602,,280602,,350000,F,380000,F,330000,F,340000,F,327190,Im,326835,Im,329038,Im,330846,Im,332654,Im,334463,Im,336271,Im
+9,Argentina,495,"Tangerines, mandarins, clementines, satsumas",5312,Area harvested,ha,30900,*,31187,*,35000,*,32000,*,30000,F,26810,Im,31000,F,32000,F,34000,F,33000,F,34930,,35568,,32691,,30000,*,32082,Im
+9,Argentina,495,"Tangerines, mandarins, clementines, satsumas",5419,Yield,hg/ha,212286,Fc,224582,Fc,191053,Fc,176470,Fc,143333,Fc,145467,Fc,141935,Fc,109375,Fc,120774,Fc,121680,Fc,121310,Fc,155938,Fc,114395,Fc,123333,Fc,120441,Fc
+9,Argentina,495,"Tangerines, mandarins, clementines, satsumas",5510,Production,tonnes,655963,,700404,,668687,,564705,,430000,*,390000,*,440000,*,350000,*,410630,,401543,,423737,,554640,,373970,,370000,*,386396,Im
+9,Argentina,667,Tea,5312,Area harvested,ha,38620,,37420,,36400,,36380,,36670,,36335,,38000,F,40000,F,39000,,37201,,37221,,36989,,39322,,36763,Im,35986,Im
+9,Argentina,667,Tea,5419,Yield,hg/ha,19227,Fc,19005,Fc,19356,Fc,19205,Fc,19195,Fc,18679,Fc,18981,Fc,19000,Fc,20549,Fc,19278,Fc,24829,Fc,25113,Fc,21060,Fc,21876,Fc,23732,Fc
+9,Argentina,667,Tea,5510,Production,tonnes,74256,,71117,,70457,,69866,,70389,,67871,,72129,,76000,F,80142,,71715,,92417,,92892,,82813,,80423,,85401,Im
+9,Argentina,826,"Tobacco, unmanufactured",5312,Area harvested,ha,59612,,56829,,65988,,65702,,77597,,83169,,78255,,73267,,67498,,74546,,67674,,75715,,59238,,59162,,62247,Im
+9,Argentina,826,"Tobacco, unmanufactured",5419,Yield,hg/ha,19209,Fc,17264,Fc,20070,Fc,17631,Fc,20271,Fc,19366,Fc,18445,Fc,17435,Fc,19316,Fc,18181,Fc,19634,Fc,17862,Fc,19470,Fc,18990,Fc,19187,Fc
+9,Argentina,826,"Tobacco, unmanufactured",5510,Production,tonnes,114509,,98110,,132437,,115837,,157294,,161064,,144345,,127740,,130381,,135531,,132870,,135241,,115334,,112348,,119434,Im
+9,Argentina,388,Tomatoes,5312,Area harvested,ha,18500,F,17500,F,17000,F,17500,F,17333,F,17392,Im,17000,F,18000,F,17209,Im,16438,Im,16752,Im,16553,Im,16357,Im,16164,Im,15975,Im
+9,Argentina,388,Tomatoes,5419,Yield,hg/ha,374807,Fc,370522,Fc,392796,Fc,382857,Fc,389431,Fc,390258,Fc,394118,Fc,377778,Fc,391535,Fc,409560,Fc,403618,Fc,407248,Fc,410879,Fc,414509,Fc,418139,Fc
+9,Argentina,388,Tomatoes,5510,Production,tonnes,693393,,648413,,667753,,670000,F,675000,F,678734,Im,670000,F,680000,F,673806,Im,673233,Im,676152,Im,674107,Im,672062,Im,670017,Im,667972,Im
+9,Argentina,275,Tung nuts,5312,Area harvested,ha,1030,,4750,,3080,,4180,,3530,,5100,,5797,Im,3889,Im,2880,,2515,,1285,,1439,Im,2223,Im,2269,Im,2225,Im
+9,Argentina,275,Tung nuts,5419,Yield,hg/ha,19903,Fc,25284,Fc,18571,Fc,23589,Fc,19433,Fc,25294,Fc,22425,Fc,22322,Fc,18990,Fc,27085,Fc,26763,Fc,24443,Fc,23734,Fc,24040,Fc,24259,Fc
+9,Argentina,275,Tung nuts,5510,Production,tonnes,2050,,12010,,5720,,9860,,6860,,12900,,13000,F,8680,Im,5469,,6812,,3439,,3518,Im,5275,Im,5456,Im,5397,Im
+9,Argentina,463,"Vegetables, fresh nes",5312,Area harvested,ha,53278,Im,53324,Im,53500,F,54000,F,53500,F,52891,Im,54000,F,55000,F,56000,F,58000,F,56850,Im,57845,Im,52000,F,60567,Im,55261,Im
+9,Argentina,463,"Vegetables, fresh nes",5419,Yield,hg/ha,120371,Fc,120586,Fc,120561,Fc,120000,Fc,120000,Fc,122365,Fc,120370,Fc,120000,Fc,121429,Fc,120690,Fc,129876,Fc,134751,Fc,160577,Fc,143340,Fc,135059,Fc
+9,Argentina,463,"Vegetables, fresh nes",5510,Production,tonnes,641312,Im,643018,Im,645000,F,648000,F,642000,F,647198,Im,650000,F,660000,F,680000,F,700000,F,738347,Im,779472,Im,835000,F,868164,Im,746342,Im
+9,Argentina,222,"Walnuts, with shell",5312,Area harvested,ha,3665,Im,3704,Im,3600,F,3823,Im,3896,Im,3972,Im,3700,F,4064,Im,4109,Im,4168,Im,4800,F,4463,Im,4800,F,4753,Im,4727,Im
+9,Argentina,222,"Walnuts, with shell",5419,Yield,hg/ha,24880,Fc,24885,Fc,25000,Fc,24936,Fc,24975,Fc,25000,Fc,27027,Fc,25093,Fc,24969,Fc,24868,Fc,20833,Fc,24637,Fc,26667,Fc,24864,Fc,24820,Fc
+9,Argentina,222,"Walnuts, with shell",5510,Production,tonnes,9120,Im,9217,Im,9000,F,9532,Im,9731,Im,9930,Im,10000,F,10197,Im,10260,Im,10365,Im,10000,F,10994,Im,12800,F,11817,Im,11733,Im
+9,Argentina,567,Watermelons,5312,Area harvested,ha,9094,Im,9119,Im,9200,F,9143,Im,9133,F,9120,Im,9150,F,9200,F,9162,Im,9148,Im,9146,Im,9142,Im,9000,F,9146,Im,9131,Im
+9,Argentina,567,Watermelons,5419,Yield,hg/ha,138027,Fc,137896,Fc,136957,Fc,137806,Fc,137597,Fc,137937,Fc,137377,Fc,136957,Fc,137842,Fc,138161,Fc,138377,Fc,138603,Fc,141111,Fc,138863,Fc,138355,Fc
+9,Argentina,567,Watermelons,5510,Production,tonnes,125518,Im,125752,Im,126000,F,125992,Im,125667,F,125800,Im,125700,F,126000,F,126286,Im,126392,Im,126556,Im,126717,Im,127000,F,127005,Im,126325,Im
+9,Argentina,15,Wheat,5312,Area harvested,ha,6222980,,6475695,,6887970,,6089630,,5782072,,6123570,,5028140,,5589230,,5831684,,4334780,,3325457,,4582575,,4560213,,3060199,,3492735,
+9,Argentina,15,Wheat,5419,Yield,hg/ha,24873,Fc,24934,Fc,22398,Fc,20361,Fc,25441,Fc,26356,Fc,25302,Fc,26234,Fc,28271,Fc,19628,Fc,27113,Fc,35063,Fc,32199,Fc,26581,Fc,26670,Fc
+9,Argentina,15,Wheat,5510,Production,tonnes,15478660,,16146620,,15427820,,12399040,,14710175,,16139170,,12721976,,14662945,,16486532,,8508156,,9016373,,16067929,,14683475,,8134409,,9315049,
+9,Argentina,15,Wheat,5525,Seed,tonnes,715655,Fc,634301,Fc,608676,Fc,631737,Fc,527573,Fc,572493,Fc,600723,Fc,481036,Fc,361710,Fc,443039,Fc,462880,Fc,316214,Fc,364807,Fc,,M,,
+9,Argentina,1817,Cereals (Rice Milled Eqv),5312,Area harvested,ha,10968267,A,10786923,A,10624301,A,9725016,A,9439752,A,10115019,A,8677568,A,9908567,A,10904474,A,7966743,A,8304862,A,10986263,A,11444040,A,10570463,A,10579215,A
+9,Argentina,1817,Cereals (Rice Milled Eqv),5419,Yield,hg/ha,34450,Fc,33691,Fc,32601,Fc,32942,Fc,36123,Fc,40792,Fc,36722,Fc,42384,Fc,40642,Fc,32115,Fc,48008,Fc,45588,Fc,41002,Fc,47508,Fc,47735,Fc
+9,Argentina,1817,Cereals (Rice Milled Eqv),5510,Production,tonnes,37786051,A,36342005,A,34636444,A,32036198,A,34099430,A,41260995,A,31865768,A,41996707,A,44317858,A,25585256,A,39870396,A,50083766,A,46922447,A,50218050,A,50499405,A
+9,Argentina,1817,Cereals (Rice Milled Eqv),5525,Seed,tonnes,1048942,A,961429,A,921629,A,901391,A,795958,A,852067,A,904221,A,818653,A,645529,A,778108,A,935195,A,804974,A,823541,A,310420,A,,
+9,Argentina,1717,"Cereals,Total",5312,Area harvested,ha,10968267,A,10786923,A,10624301,A,9725016,A,9439752,A,10115019,A,8677568,A,9908567,A,10904474,A,7966743,A,8304862,A,10986263,A,11444040,A,10570463,A,10579215,A
+9,Argentina,1717,"Cereals,Total",5419,Yield,hg/ha,34725,Fc,33960,Fc,32823,Fc,33188,Fc,36497,Fc,41107,Fc,37180,Fc,42747,Fc,41022,Fc,32673,Fc,48507,Fc,46117,Fc,41458,Fc,48000,Fc,48232,Fc
+9,Argentina,1717,"Cereals,Total",5510,Production,tonnes,38086960,A,36632775,A,34872639,A,32275169,A,34452438,A,41579427,A,32263201,A,42356370,A,44732709,A,26029530,A,40284401,A,50665875,A,47444581,A,50738679,A,51026148,A
+9,Argentina,1717,"Cereals,Total",5525,Seed,tonnes,1048942,A,961429,A,921629,A,901391,A,795958,A,852067,A,904221,A,818653,A,645529,A,778108,A,935195,A,804974,A,823541,A,310420,A,,
+9,Argentina,1804,"Citrus Fruit,Total",5312,Area harvested,ha,125773,A,135291,A,145000,A,146000,A,145000,A,158310,A,155500,A,156500,A,156000,A,153232,A,134419,A,139470,A,129394,A,119116,A,134481,A
+9,Argentina,1804,"Citrus Fruit,Total",5419,Yield,hg/ha,225204,Fc,224394,Fc,203694,Fc,183047,Fc,187404,Fc,192469,Fc,201929,Fc,176997,Fc,189683,Fc,193385,Fc,190406,Fc,259084,Fc,223794,Fc,214736,Fc,214527,Fc
+9,Argentina,1804,"Citrus Fruit,Total",5510,Production,tonnes,2832462,A,3035853,A,2953562,A,2672493,A,2717360,A,3046985,A,3140000,A,2770000,A,2959056,A,2963283,A,2559418,A,3613447,A,2895761,A,2557846,A,2884980,A
+9,Argentina,1814,"Coarse Grain, Total",5312,Area harvested,ha,4556237,A,4159358,A,3612321,A,3502496,A,3488502,A,3832511,A,3480403,A,4154702,A,4890330,A,3438163,A,4763735,A,6146243,A,6648455,A,7277564,A,6843280,A
+9,Argentina,1814,"Coarse Grain, Total",5419,Yield,hg/ha,47637,Fc,47154,Fc,51866,Fc,54700,Fc,53554,Fc,63885,Fc,52717,Fc,64056,Fc,55212,Fc,47081,Fc,63028,Fc,53447,Fc,46918,Fc,56394,Fc,58640,Fc
+9,Argentina,1814,"Coarse Grain, Total",5510,Production,tonnes,21704670,A,19612972,A,18735524,A,19158499,A,18682180,A,24484004,A,18347733,A,26613355,A,27000377,A,16187219,A,30024769,A,32849871,A,31193135,A,41040820,A,40129289,A
+9,Argentina,1814,"Coarse Grain, Total",5525,Seed,tonnes,303287,A,297128,A,287954,A,249655,A,229885,A,252162,A,276570,A,308249,A,250946,A,299795,A,431059,A,450832,A,420805,A,310420,A,,
+9,Argentina,1753,Fibre Crops Primary,5312,Area harvested,ha,336214,A,392294,A,168914,A,149910,A,259105,A,378906,A,308640,A,397348,A,307723,A,294191,A,445362,A,627984,A,532811,A,347355,A,517379,A
+9,Argentina,1753,Fibre Crops Primary,5419,Yield,hg/ha,4084,Fc,4342,Fc,3859,Fc,4563,Fc,4454,Fc,4314,Fc,4810,Fc,4368,Fc,5521,Fc,4716,Fc,5656,Fc,5478,Fc,4471,Fc,5595,Fc,6402,Fc
+9,Argentina,1753,Fibre Crops Primary,5510,Production,tonnes,137309,A,170341,A,65180,A,68402,A,115418,A,163442,A,148450,A,173550,A,169905,A,138747,A,251882,A,344031,A,238200,A,194350,A,331240,A
+9,Argentina,1801,"Fruit excl Melons,Total",5312,Area harvested,ha,431703,A,463060,A,474904,A,482283,A,469249,A,497747,A,498450,A,493812,A,501365,A,499823,A,472034,A,482568,A,472282,A,463222,A,482080,A
+9,Argentina,1801,"Fruit excl Melons,Total",5419,Yield,hg/ha,166195,Fc,175966,Fc,158029,Fc,158013,Fc,167808,Fc,170521,Fc,171440,Fc,166523,Fc,162387,Fc,150127,Fc,162066,Fc,187815,Fc,161363,Fc,168717,Fc,166520,Fc
+9,Argentina,1801,"Fruit excl Melons,Total",5510,Production,tonnes,7174693,A,8148292,A,7504855,A,7620702,A,7874365,A,8487659,A,8545397,A,8223089,A,8141529,A,7503698,A,7650079,A,9063339,A,7620886,A,7815355,A,8027608,A
+9,Argentina,1841,Oilcakes Equivalent,5312,Area harvested,ha,12771973,A,13033591,A,13858453,A,15090134,A,16637239,A,16642167,A,17843286,A,19052363,A,19553612,A,19291842,A,20389922,A,21521208,A,20499753,A,21960357,A,21511349,A
+9,Argentina,1841,Oilcakes Equivalent,5419,Yield,hg/ha,14944,Fc,17694,Fc,18561,Fc,19493,Fc,16037,Fc,19430,Fc,19106,Fc,20785,Fc,20011,Fc,13526,Fc,21171,Fc,19043,Fc,16519,Fc,18699,Fc,20425,Fc
+9,Argentina,1841,Oilcakes Equivalent,5510,Production,tonnes,19085800,A,23061913,A,25723006,A,29414525,A,26681328,A,32335129,A,34091340,A,39601065,A,39129223,A,26094852,A,43168131,A,40983058,A,33864490,A,41064479,A,43937975,A
+9,Argentina,1841,Oilcakes Equivalent,5525,Seed,tonnes,491105,A,525305,A,565661,A,651188,A,651650,A,691524,A,729593,A,747066,A,810022,A,825236,A,857460,A,858035,A,852077,A,852077,A,,
+9,Argentina,1732,Oilcrops Primary,5312,Area harvested,ha,12808003,A,13067341,A,13891533,A,15127314,A,16685769,A,16697267,A,17904083,A,19114752,A,19617492,A,19350357,A,20447186,A,21581281,A,20565976,A,22025626,A,21574967,A
+9,Argentina,1732,Oilcrops Primary,5419,Yield,hg/ha,4941,Fc,4861,Fc,5138,Fc,5229,Fc,4289,Fc,5176,Fc,5053,Fc,5381,Fc,5365,Fc,3572,Fc,5242,Fc,4954,Fc,4370,Fc,4817,Fc,5088,Fc
+9,Argentina,1732,Oilcrops Primary,5510,Production,tonnes,6328595,A,6352180,A,7136984,A,7910030,A,7155802,A,8642947,A,9047184,A,10285574,A,10524507,A,6911644,A,10718666,A,10690992,A,8987693,A,10609274,A,10976418,A
+9,Argentina,1732,Oilcrops Primary,5525,Seed,tonnes,122057,A,128645,A,137274,A,156262,A,157858,A,166462,A,176775,A,180862,A,195017,A,197142,A,206259,A,207137,A,205261,A,205261,A,,
+9,Argentina,1726,"Pulses,Total",5312,Area harvested,ha,295100,A,278030,A,279740,A,209990,A,150162,A,179397,A,288940,A,301180,A,310930,A,343012,A,336926,A,379799,A,397565,A,245338,A,453633,A
+9,Argentina,1726,"Pulses,Total",5419,Yield,hg/ha,11338,Fc,10816,Fc,11405,Fc,12312,Fc,13206,Fc,12508,Fc,13835,Fc,13304,Fc,13354,Fc,11687,Fc,12794,Fc,12176,Fc,12189,Fc,9045,Fc,12288,Fc
+9,Argentina,1726,"Pulses,Total",5510,Production,tonnes,334577,A,300705,A,319030,A,258530,A,198308,A,224387,A,399760,A,400699,A,415229,A,400889,A,431052,A,462458,A,484588,A,221917,A,557431,A
+9,Argentina,1726,"Pulses,Total",5525,Seed,tonnes,21705,A,20818,A,16904,A,12293,A,13845,A,21637,A,22305,A,22883,A,25109,A,24484,A,26704,A,26704,A,26704,A,26704,A,,
+9,Argentina,1720,"Roots and Tubers,Total",5312,Area harvested,ha,114612,A,122000,A,124500,A,110199,A,110100,A,105600,A,108200,A,109500,A,108064,A,107639,A,103517,A,95887,A,91721,A,89304,A,88024,A
+9,Argentina,1720,"Roots and Tubers,Total",5419,Yield,hg/ha,231866,Fc,240474,Fc,217488,Fc,230957,Fc,231246,Fc,222413,Fc,226029,Fc,225114,Fc,222294,Fc,228249,Fc,228480,Fc,220078,Fc,216907,Fc,215567,Fc,214218,Fc
+9,Argentina,1720,"Roots and Tubers,Total",5510,Production,tonnes,2657465,A,2933777,A,2707722,A,2545122,A,2546020,A,2348677,A,2445632,A,2465000,A,2402190,A,2456835,A,2365152,A,2110266,A,1989496,A,1925103,A,1885622,A
+9,Argentina,1720,"Roots and Tubers,Total",5525,Seed,tonnes,81782,A,83317,A,69483,A,63903,A,58500,A,63000,A,63000,A,63000,A,63000,A,64800,A,64800,A,64800,A,64800,A,64800,A,,
+9,Argentina,1729,"Treenuts,Total",5312,Area harvested,ha,3911,A,3952,A,3850,A,4075,A,4151,A,4229,A,3960,A,4334,A,4392,A,4468,A,5100,A,4763,A,5200,A,5135,A,5075,A
+9,Argentina,1729,"Treenuts,Total",5419,Yield,hg/ha,24526,Fc,24527,Fc,24623,Fc,24576,Fc,24615,Fc,24640,Fc,26490,Fc,24684,Fc,24585,Fc,24488,Fc,20824,Fc,24387,Fc,25865,Fc,24323,Fc,24422,Fc
+9,Argentina,1729,"Treenuts,Total",5510,Production,tonnes,9592,A,9693,A,9480,A,10014,A,10216,A,10419,A,10490,A,10697,A,10798,A,10941,A,10620,A,11614,A,13450,A,12489,A,12394,A
+9,Argentina,1735,Vegetables Primary,5312,Area harvested,ha,182161,A,177796,A,182988,A,186440,A,184809,A,183182,A,185122,A,190305,A,188718,A,188004,A,189962,A,191776,A,185460,A,194592,A,189690,A
+9,Argentina,1735,Vegetables Primary,5419,Yield,hg/ha,167732,Fc,172176,Fc,170557,Fc,169804,Fc,172550,Fc,176892,Fc,171745,Fc,169346,Fc,172494,Fc,171737,Fc,175177,Fc,177019,Fc,185860,Fc,178973,Fc,177509,Fc
+9,Argentina,1735,Vegetables Primary,5510,Production,tonnes,3055430,A,3061213,A,3120998,A,3165832,A,3188882,A,3240347,A,3179371,A,3222737,A,3255275,A,3228715,A,3327701,A,3394801,A,3446959,A,3482675,A,3367172,A
+9,Argentina,1800,"Vegetables&Melons, Total",5312,Area harvested,ha,182161,A,177796,A,182988,A,186440,A,184809,A,183182,A,185122,A,190305,A,188718,A,188004,A,189962,A,191776,A,185460,A,194592,A,189690,A
+9,Argentina,1800,"Vegetables&Melons, Total",5419,Yield,hg/ha,167732,Fc,172176,Fc,170557,Fc,169804,Fc,172550,Fc,176892,Fc,171745,Fc,169346,Fc,172494,Fc,171737,Fc,175177,Fc,177019,Fc,185860,Fc,178973,Fc,177509,Fc
+9,Argentina,1800,"Vegetables&Melons, Total",5510,Production,tonnes,3055430,A,3061213,A,3120998,A,3165832,A,3188882,A,3240347,A,3179371,A,3222737,A,3255275,A,3228715,A,3327701,A,3394801,A,3446959,A,3482675,A,3367172,A
+12,Bahamas,572,Avocados,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,97,,99,,100,,103,Im,105,F
+12,Bahamas,572,Avocados,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,123711,Fc,122828,Fc,123200,Fc,123444,Fc,123810,Fc
+12,Bahamas,572,Avocados,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,1200,,1216,,1232,,1267,Im,1300,F
+12,Bahamas,486,Bananas,5312,Area harvested,ha,250,,250,,250,F,270,F,280,F,280,F,300,F,350,Im,385,Im,346,Im,385,,389,,391,,415,Im,572,Im
+12,Bahamas,486,Bananas,5419,Yield,hg/ha,130000,Fc,132600,Fc,128000,Fc,125926,Fc,125000,Fc,125000,Fc,125000,Fc,142693,Fc,168880,Fc,188072,Fc,208238,Fc,242134,Fc,241995,Fc,229339,Fc,182562,Fc
+12,Bahamas,486,Bananas,5510,Production,tonnes,3250,,3315,,3200,F,3400,F,3500,F,3500,F,3750,F,5000,F,6500,F,6500,F,8017,Im,9419,,9462,,9507,Im,10435,Im
+12,Bahamas,358,Cabbages and other brassicas,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,40,,45,,47,,50,Im,53,Im
+12,Bahamas,358,Cabbages and other brassicas,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,269500,Fc,267333,Fc,269362,Fc,269031,Fc,268782,Fc
+12,Bahamas,358,Cabbages and other brassicas,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,1078,,1203,,1266,,1337,Im,1437,Im
+12,Bahamas,125,Cassava,5312,Area harvested,ha,13,,13,,13,F,13,Im,15,F,16,Im,16,F,18,F,30,Im,36,Im,39,,39,,40,,41,Im,42,Im
+12,Bahamas,125,Cassava,5419,Yield,hg/ha,100000,Fc,102308,Fc,100000,Fc,101078,Fc,103333,Fc,107167,Fc,106250,Fc,105556,Fc,139524,Fc,181027,Fc,221795,Fc,225128,Fc,223000,Fc,221599,Fc,225138,Fc
+12,Bahamas,125,Cassava,5510,Production,tonnes,130,,133,,130,F,135,F,155,F,175,Im,170,F,190,F,413,Im,647,Im,865,,878,,892,,910,Im,938,Im
+12,Bahamas,249,Coconuts,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,270,,307,,326,,330,F,333,Im
+12,Bahamas,249,Coconuts,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,78444,Fc,78567,Fc,78497,Fc,78788,Fc,78857,Fc
+12,Bahamas,249,Coconuts,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,2118,,2412,,2559,,2600,F,2630,Im
+12,Bahamas,603,"Fruit, tropical fresh nes",5312,Area harvested,ha,402,Im,450,F,439,Im,500,F,553,Im,545,Im,566,Im,594,Im,626,Im,654,Im,610,Im,641,Im,660,Im,680,Im,700,Im
+12,Bahamas,603,"Fruit, tropical fresh nes",5419,Yield,hg/ha,79656,Fc,77778,Fc,75248,Fc,72000,Fc,68729,Fc,73078,Fc,73088,Fc,72482,Fc,71876,Fc,71270,Fc,70664,Fc,70057,Fc,69451,Fc,68845,Fc,68239,Fc
+12,Bahamas,603,"Fruit, tropical fresh nes",5510,Production,tonnes,3200,F,3500,F,3300,F,3600,F,3800,F,3983,Im,4134,Im,4308,Im,4500,F,4658,Im,4314,Im,4488,Im,4583,Im,4678,Im,4773,Im
+12,Bahamas,507,Grapefruit (inc. pomelos),5312,Area harvested,ha,500,F,500,F,480,F,490,F,520,F,500,F,530,F,650,F,630,F,500,F,520,,521,,521,,522,Im,548,Im
+12,Bahamas,507,Grapefruit (inc. pomelos),5419,Yield,hg/ha,234300,Fc,250000,Fc,250000,Fc,255102,Fc,298077,Fc,300000,Fc,339623,Fc,369231,Fc,365079,Fc,374131,Fc,392346,Fc,391593,Fc,391593,Fc,400684,Fc,424214,Fc
+12,Bahamas,507,Grapefruit (inc. pomelos),5510,Production,tonnes,11715,,12500,F,12000,F,12500,F,15500,F,15000,F,18000,F,24000,F,23000,F,18707,Im,20402,,20402,,20402,,20927,Im,23249,Im
+12,Bahamas,497,Lemons and limes,5312,Area harvested,ha,260,F,260,F,260,F,270,F,280,F,280,F,250,F,220,F,180,F,140,F,186,,194,,196,,185,Im,169,Im
+12,Bahamas,497,Lemons and limes,5419,Yield,hg/ha,313346,Fc,300000,Fc,307692,Fc,314815,Fc,310714,Fc,310714,Fc,300000,Fc,295455,Fc,277778,Fc,250000,Fc,160376,Fc,159433,Fc,158622,Fc,159359,Fc,148218,Fc
+12,Bahamas,497,Lemons and limes,5510,Production,tonnes,8147,,7800,F,8000,F,8500,F,8700,F,8700,F,7500,F,6500,F,5000,F,3500,F,2983,,3093,,3109,,2942,Im,2498,Im
+12,Bahamas,372,Lettuce and chicory,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,7,,7,,8,,8,Im,9,Im
+12,Bahamas,372,Lettuce and chicory,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,132857,Fc,141429,Fc,132500,Fc,135280,Fc,135638,Fc
+12,Bahamas,372,Lettuce and chicory,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,93,,99,,106,,113,Im,120,Im
+12,Bahamas,56,Maize,5312,Area harvested,ha,126,F,100,F,100,F,100,F,100,F,100,F,100,F,100,F,105,F,100,F,90,,94,,94,,88,Im,55,Im
+12,Bahamas,56,Maize,5419,Yield,hg/ha,24762,Fc,30000,Fc,30500,Fc,34000,Fc,35500,Fc,36000,Fc,38000,Fc,40000,Fc,47619,Fc,60000,Fc,75333,Fc,73085,Fc,73404,Fc,74179,Fc,81873,Fc
+12,Bahamas,56,Maize,5510,Production,tonnes,312,,300,F,305,F,340,F,355,F,360,F,380,F,400,F,500,F,600,F,678,,687,,690,,656,Im,447,Im
+12,Bahamas,56,Maize,5525,Seed,tonnes,4,Fc,4,Fc,4,Fc,4,Fc,4,Fc,7,F,4,Fc,4,Fc,4,Fc,4,Fc,4,Fc,4,Fc,4,Fc,4,Fc,,
+12,Bahamas,571,"Mangoes, mangosteens, guavas",5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,132,,136,,136,,138,Im,140,Im
+12,Bahamas,571,"Mangoes, mangosteens, guavas",5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,179924,Fc,179338,Fc,179338,Fc,179229,Fc,178981,Fc
+12,Bahamas,571,"Mangoes, mangosteens, guavas",5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,2375,,2439,,2439,,2472,Im,2500,F
+12,Bahamas,79,Millet,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+12,Bahamas,79,Millet,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+12,Bahamas,430,Okra,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,19,,19,,19,,19,Im,19,Im
+12,Bahamas,430,Okra,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,233158,Fc,236316,Fc,240000,Fc,243199,Fc,246167,Fc
+12,Bahamas,430,Okra,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,443,,449,,456,,463,Im,469,Im
+12,Bahamas,403,"Onions, dry",5312,Area harvested,ha,70,,70,,70,Im,70,Im,72,Im,73,Im,75,F,80,F,85,Im,99,Im,115,Im,117,Im,118,Im,119,Im,120,Im
+12,Bahamas,403,"Onions, dry",5419,Yield,hg/ha,99286,Fc,101286,Fc,100226,Fc,97813,Fc,97283,Fc,96771,Fc,96000,Fc,92500,Fc,88890,Fc,78243,Fc,70767,Fc,71274,Fc,72197,Fc,73120,Fc,74042,Fc
+12,Bahamas,403,"Onions, dry",5510,Production,tonnes,695,,709,,700,F,688,Im,696,Im,707,Im,720,F,740,F,754,Im,778,Im,815,Im,833,Im,850,Im,868,Im,885,Im
+12,Bahamas,402,"Onions, shallots, green",5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,74,,75,,77,,78,Im,80,Im
+12,Bahamas,402,"Onions, shallots, green",5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,77973,Fc,78533,Fc,78052,Fc,78129,Fc,78341,Fc
+12,Bahamas,402,"Onions, shallots, green",5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,577,,589,,601,,613,Im,625,Im
+12,Bahamas,490,Oranges,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,161,,161,,161,,161,Im,161,Im
+12,Bahamas,490,Oranges,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,227019,Fc,227205,Fc,227391,Fc,227451,Fc,227530,Fc
+12,Bahamas,490,Oranges,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,3655,,3658,,3661,,3664,Im,3667,Im
+12,Bahamas,600,Papayas,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,34,,34,,34,,34,Im,35,Im
+12,Bahamas,600,Papayas,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,158529,Fc,158824,Fc,158824,Fc,158872,Fc,159033,Fc
+12,Bahamas,600,Papayas,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,539,,540,,540,,545,Im,552,F
+12,Bahamas,197,Pigeon peas,5312,Area harvested,ha,170,F,160,F,170,F,175,F,180,F,181,Im,190,F,200,F,167,Im,148,Im,128,,130,,131,,135,F,136,Im
+12,Bahamas,197,Pigeon peas,5419,Yield,hg/ha,6765,Fc,6875,Fc,6765,Fc,6857,Fc,6944,Fc,7085,Fc,6842,Fc,6750,Fc,8839,Fc,10826,Fc,13438,Fc,13385,Fc,13435,Fc,13333,Fc,13365,Fc
+12,Bahamas,197,Pigeon peas,5510,Production,tonnes,115,,110,F,115,F,120,F,125,F,128,Im,130,F,135,F,147,Im,160,Im,172,,174,,176,,180,F,182,Im
+12,Bahamas,197,Pigeon peas,5525,Seed,tonnes,3,Fc,3,Fc,4,Fc,4,Fc,3,Fc,4,F,4,Fc,4,Fc,5,Fc,3,Fc,3,Fc,3,Fc,3,Fc,3,Fc,,
+12,Bahamas,489,Plantains,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,21,,22,,23,,24,Im,25,Im
+12,Bahamas,489,Plantains,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,79048,Fc,78182,Fc,77391,Fc,77057,Fc,76718,Fc
+12,Bahamas,489,Plantains,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,166,,172,,178,,184,Im,190,Im
+12,Bahamas,116,Potatoes,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+12,Bahamas,116,Potatoes,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+12,Bahamas,394,"Pumpkins, squash and gourds",5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,103,,104,,105,,105,Im,106,Im
+12,Bahamas,394,"Pumpkins, squash and gourds",5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,200583,Fc,199904,Fc,198190,Fc,197704,Fc,197442,Fc
+12,Bahamas,394,"Pumpkins, squash and gourds",5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,2066,,2079,,2081,,2083,Im,2088,Im
+12,Bahamas,156,Sugar cane,5312,Area harvested,ha,2500,F,3000,F,2200,F,2000,F,2000,F,2000,F,2300,F,2300,F,2300,F,2300,F,2300,F,2300,F,2300,F,2300,F,2330,Im
+12,Bahamas,156,Sugar cane,5419,Yield,hg/ha,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,250000,Fc,248844,Fc
+12,Bahamas,156,Sugar cane,5510,Production,tonnes,62500,F,75000,F,55000,F,50000,F,50000,F,50000,F,57500,F,57500,F,57500,F,57500,F,57500,F,57500,F,57500,F,57500,F,57982,Im
+12,Bahamas,122,Sweet potatoes,5312,Area harvested,ha,230,F,180,F,240,F,250,F,260,F,299,Im,333,Im,339,Im,362,Im,385,Im,409,Im,431,Im,454,Im,476,Im,499,Im
+12,Bahamas,122,Sweet potatoes,5419,Yield,hg/ha,35304,Fc,30556,Fc,34792,Fc,34000,Fc,33846,Fc,34310,Fc,34503,Fc,34351,Fc,34457,Fc,34562,Fc,34668,Fc,34773,Fc,34879,Fc,34985,Fc,35090,Fc
+12,Bahamas,122,Sweet potatoes,5510,Production,tonnes,812,,550,F,835,F,850,F,880,F,1025,Im,1149,Im,1166,Im,1249,Im,1332,Im,1416,Im,1499,Im,1583,Im,1666,Im,1749,Im
+12,Bahamas,495,"Tangerines, mandarins, clementines, satsumas",5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,38,,40,,40,,41,Im,42,Im
+12,Bahamas,495,"Tangerines, mandarins, clementines, satsumas",5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,177895,Fc,180000,Fc,180000,Fc,180346,Fc,181522,Fc
+12,Bahamas,495,"Tangerines, mandarins, clementines, satsumas",5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,676,,720,,720,,744,Im,771,Im
+12,Bahamas,136,Taro (cocoyam),5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+12,Bahamas,136,Taro (cocoyam),5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+12,Bahamas,388,Tomatoes,5312,Area harvested,ha,372,,372,,370,F,400,F,410,F,350,F,450,F,200,F,150,F,120,F,113,,124,,130,,138,Im,146,Im
+12,Bahamas,388,Tomatoes,5419,Yield,hg/ha,90108,Fc,91909,Fc,94595,Fc,98750,Fc,97561,Fc,100000,Fc,97778,Fc,152252,Fc,270291,Fc,389303,Fc,449558,Fc,449516,Fc,447769,Fc,426616,Fc,335546,Fc
+12,Bahamas,388,Tomatoes,5510,Production,tonnes,3352,,3419,,3500,F,3950,F,4000,F,3500,F,4400,F,3045,Im,4054,Im,4672,Im,5080,,5574,,5821,,5867,Im,4905,Im
+12,Bahamas,463,"Vegetables, fresh nes",5312,Area harvested,ha,2000,F,2000,F,2100,F,2200,F,2300,F,2300,F,2300,F,2350,F,2350,F,2402,Im,2422,Im,2422,Im,2700,F,2403,Im,2318,Im
+12,Bahamas,463,"Vegetables, fresh nes",5419,Yield,hg/ha,80000,Fc,82500,Fc,83333,Fc,86364,Fc,86957,Fc,86957,Fc,86957,Fc,87234,Fc,87234,Fc,83663,Fc,80544,Fc,78033,Fc,66667,Fc,73386,Fc,80420,Fc
+12,Bahamas,463,"Vegetables, fresh nes",5510,Production,tonnes,16000,F,16500,F,17500,F,19000,F,20000,F,20000,F,20000,F,20500,F,20500,F,20096,Im,19507,Im,18899,Im,18000,F,17636,Im,18645,Im
+12,Bahamas,1817,Cereals (Rice Milled Eqv),5312,Area harvested,ha,126,A,100,A,100,A,100,A,100,A,100,A,100,A,100,A,105,A,100,A,90,A,94,A,94,A,88,A,55,A
+12,Bahamas,1817,Cereals (Rice Milled Eqv),5419,Yield,hg/ha,24762,Fc,30000,Fc,30500,Fc,34000,Fc,35500,Fc,36000,Fc,38000,Fc,40000,Fc,47619,Fc,60000,Fc,75333,Fc,73085,Fc,73404,Fc,74179,Fc,81873,Fc
+12,Bahamas,1817,Cereals (Rice Milled Eqv),5510,Production,tonnes,312,A,300,A,305,A,340,A,355,A,360,A,380,A,400,A,500,A,600,A,678,A,687,A,690,A,656,A,447,A
+12,Bahamas,1817,Cereals (Rice Milled Eqv),5525,Seed,tonnes,4,A,4,A,4,A,4,A,4,A,7,A,4,A,4,A,4,A,4,A,4,A,4,A,4,A,4,A,,
+12,Bahamas,1717,"Cereals,Total",5312,Area harvested,ha,126,A,100,A,100,A,100,A,100,A,100,A,100,A,100,A,105,A,100,A,90,A,94,A,94,A,88,A,55,A
+12,Bahamas,1717,"Cereals,Total",5419,Yield,hg/ha,24762,Fc,30000,Fc,30500,Fc,34000,Fc,35500,Fc,36000,Fc,38000,Fc,40000,Fc,47619,Fc,60000,Fc,75333,Fc,73085,Fc,73404,Fc,74179,Fc,81873,Fc
+12,Bahamas,1717,"Cereals,Total",5510,Production,tonnes,312,A,300,A,305,A,340,A,355,A,360,A,380,A,400,A,500,A,600,A,678,A,687,A,690,A,656,A,447,A
+12,Bahamas,1717,"Cereals,Total",5525,Seed,tonnes,4,A,4,A,4,A,4,A,4,A,7,A,4,A,4,A,4,A,4,A,4,A,4,A,4,A,4,A,,
+12,Bahamas,1804,"Citrus Fruit,Total",5312,Area harvested,ha,760,A,760,A,740,A,760,A,800,A,780,A,780,A,870,A,810,A,640,A,905,A,916,A,918,A,909,A,920,A
+12,Bahamas,1804,"Citrus Fruit,Total",5419,Yield,hg/ha,261342,Fc,267105,Fc,270270,Fc,276316,Fc,302500,Fc,303846,Fc,326923,Fc,350575,Fc,345679,Fc,346977,Fc,306254,Fc,304290,Fc,303834,Fc,310993,Fc,328021,Fc
+12,Bahamas,1804,"Citrus Fruit,Total",5510,Production,tonnes,19862,A,20300,A,20000,A,21000,A,24200,A,23700,A,25500,A,30500,A,28000,A,22207,A,27716,A,27873,A,27892,A,28277,A,30185,A
+12,Bahamas,1814,"Coarse Grain, Total",5312,Area harvested,ha,126,A,100,A,100,A,100,A,100,A,100,A,100,A,100,A,105,A,100,A,90,A,94,A,94,A,88,A,55,A
+12,Bahamas,1814,"Coarse Grain, Total",5419,Yield,hg/ha,24762,Fc,30000,Fc,30500,Fc,34000,Fc,35500,Fc,36000,Fc,38000,Fc,40000,Fc,47619,Fc,60000,Fc,75333,Fc,73085,Fc,73404,Fc,74179,Fc,81873,Fc
+12,Bahamas,1814,"Coarse Grain, Total",5510,Production,tonnes,312,A,300,A,305,A,340,A,355,A,360,A,380,A,400,A,500,A,600,A,678,A,687,A,690,A,656,A,447,A
+12,Bahamas,1814,"Coarse Grain, Total",5525,Seed,tonnes,4,A,4,A,4,A,4,A,4,A,7,A,4,A,4,A,4,A,4,A,4,A,4,A,4,A,4,A,,
+12,Bahamas,1801,"Fruit excl Melons,Total",5312,Area harvested,ha,1412,A,1460,A,1429,A,1530,A,1633,A,1605,A,1646,A,1815,A,1821,A,1639,A,2184,A,2237,A,2262,A,2302,A,2496,A
+12,Bahamas,1801,"Fruit excl Melons,Total",5419,Yield,hg/ha,186381,Fc,185719,Fc,185503,Fc,183007,Fc,192909,Fc,194277,Fc,202868,Fc,219361,Fc,214172,Fc,203542,Fc,202918,Fc,206328,Fc,204813,Fc,203863,Fc,200104,Fc
+12,Bahamas,1801,"Fruit excl Melons,Total",5510,Production,tonnes,26312,A,27115,A,26500,A,28000,A,31500,A,31183,A,33384,A,39808,A,39000,A,33365,A,44327,A,46147,A,46326,A,46929,A,49936,A
+12,Bahamas,1841,Oilcakes Equivalent,5312,Area harvested,ha,,A,,A,,A,,A,,A,,A,,A,,A,,A,,A,270,A,307,A,326,A,330,A,333,A
+12,Bahamas,1841,Oilcakes Equivalent,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,6276,Fc,6285,Fc,6280,Fc,6303,Fc,6309,Fc
+12,Bahamas,1841,Oilcakes Equivalent,5510,Production,tonnes,,A,,A,,A,,A,,A,,A,,A,,A,,A,,A,169,A,193,A,205,A,208,A,210,A
+12,Bahamas,1732,Oilcrops Primary,5312,Area harvested,ha,,A,,A,,A,,A,,A,,A,,A,,A,,A,,A,270,A,307,A,326,A,330,A,333,A
+12,Bahamas,1732,Oilcrops Primary,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,10198,Fc,10214,Fc,10205,Fc,10242,Fc,10251,Fc
+12,Bahamas,1732,Oilcrops Primary,5510,Production,tonnes,,A,,A,,A,,A,,A,,A,,A,,A,,A,,A,275,A,314,A,333,A,338,A,342,A
+12,Bahamas,1726,"Pulses,Total",5312,Area harvested,ha,170,A,160,A,170,A,175,A,180,A,181,A,190,A,200,A,167,A,148,A,128,A,130,A,131,A,135,A,136,A
+12,Bahamas,1726,"Pulses,Total",5419,Yield,hg/ha,6765,Fc,6875,Fc,6765,Fc,6857,Fc,6944,Fc,7085,Fc,6842,Fc,6750,Fc,8839,Fc,10826,Fc,13438,Fc,13385,Fc,13435,Fc,13333,Fc,13365,Fc
+12,Bahamas,1726,"Pulses,Total",5510,Production,tonnes,115,A,110,A,115,A,120,A,125,A,128,A,130,A,135,A,147,A,160,A,172,A,174,A,176,A,180,A,182,A
+12,Bahamas,1726,"Pulses,Total",5525,Seed,tonnes,3,A,3,A,4,A,4,A,3,A,4,A,4,A,4,A,5,A,3,A,3,A,3,A,3,A,3,A,,
+12,Bahamas,1720,"Roots and Tubers,Total",5312,Area harvested,ha,243,A,193,A,253,A,263,A,275,A,315,A,349,A,357,A,392,A,421,A,448,A,470,A,494,A,517,A,540,A
+12,Bahamas,1720,"Roots and Tubers,Total",5419,Yield,hg/ha,38765,Fc,35389,Fc,38142,Fc,37402,Fc,37636,Fc,38079,Fc,37793,Fc,37936,Fc,42390,Fc,46988,Fc,50975,Fc,50568,Fc,50118,Fc,49799,Fc,49755,Fc
+12,Bahamas,1720,"Roots and Tubers,Total",5510,Production,tonnes,942,A,683,A,965,A,985,A,1035,A,1200,A,1319,A,1356,A,1662,A,1979,A,2281,A,2377,A,2475,A,2576,A,2688,A
+12,Bahamas,1735,Vegetables Primary,5312,Area harvested,ha,2442,A,2442,A,2540,A,2670,A,2782,A,2723,A,2825,A,2630,A,2585,A,2622,A,2893,A,2913,A,3204,A,2920,A,2851,A
+12,Bahamas,1735,Vegetables Primary,5419,Yield,hg/ha,82093,Fc,84472,Fc,85438,Fc,88521,Fc,88785,Fc,88896,Fc,88920,Fc,92339,Fc,97911,Fc,97448,Fc,102517,Fc,102051,Fc,91084,Fc,99233,Fc,102325,Fc
+12,Bahamas,1735,Vegetables Primary,5510,Production,tonnes,20047,A,20628,A,21700,A,23638,A,24696,A,24207,A,25120,A,24285,A,25309,A,25546,A,29659,A,29725,A,29181,A,28979,A,29174,A
+12,Bahamas,1800,"Vegetables&Melons, Total",5312,Area harvested,ha,2442,A,2442,A,2540,A,2670,A,2782,A,2723,A,2825,A,2630,A,2585,A,2622,A,2893,A,2913,A,3204,A,2920,A,2851,A
+12,Bahamas,1800,"Vegetables&Melons, Total",5419,Yield,hg/ha,82093,Fc,84472,Fc,85438,Fc,88521,Fc,88785,Fc,88896,Fc,88920,Fc,92339,Fc,97911,Fc,97448,Fc,102517,Fc,102051,Fc,91084,Fc,99233,Fc,102325,Fc
+12,Bahamas,1800,"Vegetables&Melons, Total",5510,Production,tonnes,20047,A,20628,A,21700,A,23638,A,24696,A,24207,A,25120,A,24285,A,25309,A,25546,A,29659,A,29725,A,29181,A,28979,A,29174,A
+14,Barbados,572,Avocados,5312,Area harvested,ha,90,F,95,F,100,F,105,,110,F,115,F,120,F,120,F,125,F,131,Im,137,Im,143,Im,155,F,150,Im,150,F
+14,Barbados,572,Avocados,5419,Yield,hg/ha,48889,Fc,49474,Fc,49000,Fc,48571,Fc,48182,Fc,47826,Fc,48333,Fc,48333,Fc,48000,Fc,47534,Fc,47134,Fc,46766,Fc,45161,Fc,46430,Fc,46667,Fc
+14,Barbados,572,Avocados,5510,Production,tonnes,440,F,470,F,490,F,510,,530,F,550,F,580,F,580,F,600,F,621,Im,647,Im,667,Im,700,F,696,Im,700,F
+14,Barbados,486,Bananas,5312,Area harvested,ha,95,F,100,F,105,F,110,,115,F,120,F,125,F,130,F,137,Im,143,Im,150,Im,158,F,160,F,169,Im,170,F
+14,Barbados,486,Bananas,5419,Yield,hg/ha,54737,Fc,55000,Fc,54286,Fc,54545,Fc,55217,Fc,55000,Fc,54400,Fc,55385,Fc,55744,Fc,56123,Fc,56412,Fc,56611,Fc,59375,Fc,56593,Fc,57647,Fc
+14,Barbados,486,Bananas,5510,Production,tonnes,520,F,550,F,570,F,600,,635,F,660,F,680,F,720,F,761,Im,804,Im,847,Im,894,Im,950,F,957,Im,980,F
+14,Barbados,176,"Beans, dry",5312,Area harvested,ha,60,F,65,F,70,,90,,39,,60,F,65,F,40,F,30,F,30,F,39,Im,47,Im,38,Im,19,Im,19,Im
+14,Barbados,176,"Beans, dry",5419,Yield,hg/ha,56667,Fc,56154,Fc,56286,Fc,56111,Fc,62462,Fc,57167,Fc,57077,Fc,63000,Fc,56000,Fc,55333,Fc,57416,Fc,57995,Fc,57968,Fc,58013,Fc,58057,Fc
+14,Barbados,176,"Beans, dry",5510,Production,tonnes,340,F,365,F,394,,505,,244,,343,,371,,252,,168,,166,,222,,270,,219,,112,,113,*
+14,Barbados,176,"Beans, dry",5525,Seed,tonnes,35,F,37,F,40,F,50,F,25,F,40,F,25,F,18,F,18,F,25,F,30,F,30,F,30,F,30,F,,
+14,Barbados,358,Cabbages and other brassicas,5312,Area harvested,ha,38,F,35,F,22,,29,,14,,20,F,30,F,11,F,20,F,13,F,3,Im,12,Im,12,Im,9,Im,15,Im
+14,Barbados,358,Cabbages and other brassicas,5419,Yield,hg/ha,210526,Fc,200000,Fc,227727,Fc,220690,Fc,300000,Fc,202500,Fc,214000,Fc,230909,Fc,219000,Fc,195385,Fc,209037,Fc,217842,Fc,211517,Fc,210726,Fc,209935,Fc
+14,Barbados,358,Cabbages and other brassicas,5510,Production,tonnes,800,F,700,F,501,,640,,432,,405,,642,,254,,438,,254,,60,,262,,261,,182,,323,
+14,Barbados,426,Carrots and turnips,5312,Area harvested,ha,75,F,50,F,48,,60,,44,,27,F,20,F,18,F,15,F,12,F,16,Im,8,Im,14,Im,17,Im,18,Im
+14,Barbados,426,Carrots and turnips,5419,Yield,hg/ha,153333,Fc,162000,Fc,166667,Fc,168667,Fc,187955,Fc,172963,Fc,159000,Fc,169444,Fc,168667,Fc,165000,Fc,163308,Fc,172387,Fc,170489,Fc,171187,Fc,171885,Fc
+14,Barbados,426,Carrots and turnips,5510,Production,tonnes,1150,F,810,F,800,,1012,,827,,467,,318,,305,,253,,198,,264,,146,,244,,295,,310,
+14,Barbados,125,Cassava,5312,Area harvested,ha,29,F,25,F,24,,24,,10,,10,Im,20,F,25,F,24,Im,34,Im,20,Im,15,Im,11,Im,15,Im,27,Im
+14,Barbados,125,Cassava,5419,Yield,hg/ha,172414,Fc,172000,Fc,165417,Fc,171667,Fc,317000,Fc,207900,Fc,187500,Fc,179200,Fc,193649,Fc,200292,Fc,202450,Fc,203452,Fc,204455,Fc,217397,Fc,206459,Fc
+14,Barbados,125,Cassava,5510,Production,tonnes,500,F,430,F,397,,412,,317,,199,,375,,448,,466,,691,,400,,308,,220,,336,Im,553,
+14,Barbados,401,"Chillies and peppers, green",5312,Area harvested,ha,80,F,66,F,76,,115,,42,,50,F,44,F,39,F,25,F,33,F,28,Im,27,Im,17,Im,38,Im,7,Im
+14,Barbados,401,"Chillies and peppers, green",5419,Yield,hg/ha,116250,Fc,143939,Fc,145789,Fc,165565,Fc,208115,Fc,137800,Fc,139545,Fc,136923,Fc,138000,Fc,137879,Fc,143224,Fc,145509,Fc,141656,Fc,141324,Fc,140991,Fc
+14,Barbados,401,"Chillies and peppers, green",5510,Production,tonnes,930,F,950,F,1108,,1904,,872,,689,,614,,534,,345,,455,,394,,396,,239,,535,,93,
+14,Barbados,249,Coconuts,5312,Area harvested,ha,520,F,550,F,550,F,550,,600,F,650,F,700,F,750,F,687,Im,627,Im,580,F,550,F,500,F,550,F,570,F
+14,Barbados,249,Coconuts,5419,Yield,hg/ha,29808,Fc,30000,Fc,30000,Fc,30000,Fc,30000,Fc,30000,Fc,30000,Fc,30000,Fc,31112,Fc,32146,Fc,32496,Fc,34545,Fc,40000,Fc,40000,Fc,40351,Fc
+14,Barbados,249,Coconuts,5510,Production,tonnes,1550,F,1650,F,1650,F,1650,,1800,F,1950,F,2100,F,2250,F,2136,Im,2017,Im,1885,Im,1900,F,2000,F,2200,F,2300,F
+14,Barbados,397,Cucumbers and gherkins,5312,Area harvested,ha,68,F,70,F,76,,90,,57,,60,F,60,F,65,F,36,F,49,Im,47,Im,48,Im,34,Im,34,Im,41,Im
+14,Barbados,397,Cucumbers and gherkins,5419,Yield,hg/ha,220588,Fc,221429,Fc,223947,Fc,224222,Fc,240212,Fc,231333,Fc,220667,Fc,223077,Fc,225556,Fc,231534,Fc,242987,Fc,239105,Fc,241107,Fc,243109,Fc,245111,Fc
+14,Barbados,397,Cucumbers and gherkins,5510,Production,tonnes,1500,F,1550,F,1702,,2018,,1362,,1388,,1324,,1450,,812,,1141,,1148,,1144,,816,,824,,994,
+14,Barbados,619,"Fruit, fresh nes",5312,Area harvested,ha,55,F,55,F,60,F,65,F,70,F,75,F,77,Im,81,Im,85,F,88,Im,91,Im,97,Im,100,F,90,F,100,F
+14,Barbados,619,"Fruit, fresh nes",5419,Yield,hg/ha,109091,Fc,109091,Fc,108333,Fc,107692,Fc,107143,Fc,106667,Fc,108561,Fc,108821,Fc,107059,Fc,111232,Fc,113611,Fc,116216,Fc,120000,Fc,122222,Fc,120000,Fc
+14,Barbados,619,"Fruit, fresh nes",5510,Production,tonnes,600,F,600,F,650,F,700,F,750,F,800,F,839,Im,877,Im,910,F,977,Im,1036,Im,1131,Im,1200,F,1100,F,1200,F
+14,Barbados,603,"Fruit, tropical fresh nes",5312,Area harvested,ha,150,F,148,F,160,F,160,F,175,F,175,F,180,F,180,Im,190,F,215,F,216,Im,219,Im,210,F,222,Im,220,F
+14,Barbados,603,"Fruit, tropical fresh nes",5419,Yield,hg/ha,66667,Fc,67568,Fc,68750,Fc,68750,Fc,68571,Fc,68571,Fc,67778,Fc,70090,Fc,68421,Fc,71860,Fc,73237,Fc,74552,Fc,80952,Fc,76062,Fc,77273,Fc
+14,Barbados,603,"Fruit, tropical fresh nes",5510,Production,tonnes,1000,F,1000,F,1100,F,1100,F,1200,F,1200,F,1220,F,1263,Im,1300,F,1545,Im,1580,Im,1636,Im,1700,F,1688,Im,1700,F
+14,Barbados,242,"Groundnuts, with shell",5312,Area harvested,ha,30,F,15,F,15,Im,30,,17,,13,F,11,Im,5,F,14,F,24,F,8,Im,10,Im,10,Im,9,Im,8,Im
+14,Barbados,242,"Groundnuts, with shell",5419,Yield,hg/ha,20000,Fc,20000,Fc,20097,Fc,21000,Fc,16471,Fc,17692,Fc,18488,Fc,18000,Fc,17143,Fc,20833,Fc,19312,Fc,18604,Fc,18902,Fc,18823,Fc,18743,Fc
+14,Barbados,242,"Groundnuts, with shell",5510,Production,tonnes,60,F,30,F,30,,63,,28,,23,,21,,9,,24,,50,,16,,19,Im,19,Im,17,Im,15,Im
+14,Barbados,372,Lettuce and chicory,5312,Area harvested,ha,15,F,16,F,9,,16,,15,,18,F,25,F,25,F,9,F,35,F,20,Im,29,Im,10,Im,13,Im,19,Im
+14,Barbados,372,Lettuce and chicory,5419,Yield,hg/ha,183333,Fc,187500,Fc,173333,Fc,174375,Fc,212752,Fc,158333,Fc,175600,Fc,167200,Fc,160000,Fc,163429,Fc,170268,Fc,170443,Fc,167683,Fc,167038,Fc,166392,Fc
+14,Barbados,372,Lettuce and chicory,5510,Production,tonnes,275,F,300,F,156,,279,,317,,285,,439,,418,,144,,572,,339,,499,,171,,213,,313,
+14,Barbados,56,Maize,5312,Area harvested,ha,115,F,96,F,83,F,100,,94,F,95,F,100,F,105,F,97,Im,93,Im,90,F,90,F,100,F,120,F,30,F
+14,Barbados,56,Maize,5419,Yield,hg/ha,26087,Fc,26042,Fc,26265,Fc,26300,Fc,26596,Fc,27368,Fc,27000,Fc,26667,Fc,27380,Fc,28214,Fc,28775,Fc,29816,Fc,32000,Fc,28333,Fc,27000,Fc
+14,Barbados,56,Maize,5510,Production,tonnes,300,F,250,F,218,,263,,250,,260,F,270,F,280,F,266,Im,261,Im,259,Im,268,Im,320,F,340,F,81,
+14,Barbados,56,Maize,5525,Seed,tonnes,3,Fc,2,Fc,3,Fc,3,Fc,3,Fc,3,Fc,3,Fc,3,Fc,4,Fc,3,Fc,3,Fc,3,Fc,4,Fc,4,Fc,,
+14,Barbados,446,"Maize, green",5312,Area harvested,ha,163,F,165,F,168,F,170,F,175,F,180,F,190,F,195,F,197,Im,192,Im,189,Im,184,Im,183,F,176,Im,170,F
+14,Barbados,446,"Maize, green",5419,Yield,hg/ha,40184,Fc,40000,Fc,40476,Fc,41176,Fc,40000,Fc,40000,Fc,40000,Fc,40000,Fc,38832,Fc,37274,Fc,36018,Fc,34879,Fc,32787,Fc,34515,Fc,35294,Fc
+14,Barbados,446,"Maize, green",5510,Production,tonnes,655,F,660,F,680,F,700,F,700,F,720,F,760,F,780,F,765,Im,717,Im,679,Im,643,Im,600,F,608,Im,600,F
+14,Barbados,568,"Melons, other (inc.cantaloupes)",5312,Area harvested,ha,18,Im,17,Im,17,,20,,17,,18,F,15,F,24,F,10,F,12,F,11,Im,15,Im,17,Im,18,Im,22,Im
+14,Barbados,568,"Melons, other (inc.cantaloupes)",5419,Yield,hg/ha,169521,Fc,171580,Fc,165294,Fc,171500,Fc,221176,Fc,211111,Fc,206667,Fc,198750,Fc,185000,Fc,209167,Fc,213347,Fc,212133,Fc,210068,Fc,211684,Fc,213300,Fc
+14,Barbados,568,"Melons, other (inc.cantaloupes)",5510,Production,tonnes,300,F,290,Im,281,,343,,376,,380,,310,,477,,185,,251,,241,,327,Im,353,Im,374,Im,467,
+14,Barbados,430,Okra,5312,Area harvested,ha,100,F,105,F,115,,131,,50,F,45,F,47,F,59,F,38,F,21,F,26,Im,26,Im,22,Im,19,Im,22,Im
+14,Barbados,430,Okra,5419,Yield,hg/ha,115000,Fc,114286,Fc,112087,Fc,111908,Fc,114000,Fc,110000,Fc,111702,Fc,111525,Fc,111579,Fc,116667,Fc,118673,Fc,118302,Fc,116918,Fc,117363,Fc,117809,Fc
+14,Barbados,430,Okra,5510,Production,tonnes,1150,F,1200,F,1289,,1466,,570,,495,,525,,658,,424,,245,,303,,312,,262,,221,,264,
+14,Barbados,403,"Onions, dry",5312,Area harvested,ha,15,F,18,Im,17,,19,,23,,15,F,20,F,14,F,20,F,30,F,23,Im,17,Im,24,Im,22,Im,13,Im
+14,Barbados,403,"Onions, dry",5419,Yield,hg/ha,213333,Fc,192289,Fc,182941,Fc,177895,Fc,242731,Fc,231333,Fc,222000,Fc,205000,Fc,212000,Fc,208667,Fc,221224,Fc,234729,Fc,227976,Fc,230929,Fc,233881,Fc
+14,Barbados,403,"Onions, dry",5510,Production,tonnes,320,F,350,F,311,,338,,551,,347,,444,,287,,424,,626,,498,,393,,550,,504,,315,
+14,Barbados,211,"Pulses, nes",5312,Area harvested,ha,615,F,615,F,620,F,630,F,650,F,670,F,700,F,720,F,750,F,747,Im,712,Im,684,Im,680,F,700,F,690,F
+14,Barbados,211,"Pulses, nes",5419,Yield,hg/ha,12520,Fc,12520,Fc,12500,Fc,12540,Fc,12538,Fc,12388,Fc,12571,Fc,12500,Fc,12667,Fc,14625,Fc,17952,Fc,21347,Fc,23529,Fc,23571,Fc,23188,Fc
+14,Barbados,211,"Pulses, nes",5510,Production,tonnes,770,F,770,F,775,F,790,F,815,F,830,F,880,F,900,F,950,F,1092,Im,1278,Im,1461,Im,1600,F,1650,F,1600,F
+14,Barbados,211,"Pulses, nes",5525,Seed,tonnes,18,Fc,19,Fc,19,Fc,20,Fc,20,Fc,21,Fc,22,Fc,23,Fc,23,Fc,22,Fc,20,Fc,20,Fc,21,Fc,21,Fc,,
+14,Barbados,394,"Pumpkins, squash and gourds",5312,Area harvested,ha,45,F,49,F,26,,44,,56,,25,F,15,F,20,F,30,F,25,F,24,Im,22,Im,25,Im,72,Im,145,Im
+14,Barbados,394,"Pumpkins, squash and gourds",5419,Yield,hg/ha,88889,Fc,91837,Fc,101923,Fc,101364,Fc,51964,Fc,81600,Fc,80667,Fc,80000,Fc,83000,Fc,76400,Fc,74645,Fc,75791,Fc,74902,Fc,73772,Fc,72642,Fc
+14,Barbados,394,"Pumpkins, squash and gourds",5510,Production,tonnes,400,F,450,F,265,,446,,291,,204,,121,,160,,249,,191,,180,,166,,188,,533,,1051,
+14,Barbados,423,String beans,5312,Area harvested,ha,158,F,160,F,165,F,170,F,175,F,180,F,190,F,195,F,159,Im,131,Im,50,Im,64,Im,200,F,28,Im,170,F
+14,Barbados,423,String beans,5419,Yield,hg/ha,53165,Fc,53125,Fc,54545,Fc,54706,Fc,54857,Fc,55000,Fc,55263,Fc,56410,Fc,48939,Fc,46336,Fc,44152,Fc,42281,Fc,11300,Fc,40035,Fc,50000,Fc
+14,Barbados,423,String beans,5510,Production,tonnes,840,F,850,F,900,F,930,F,960,F,990,F,1050,F,1100,F,778,Im,606,Im,222,,270,,226,,112,,850,F
+14,Barbados,156,Sugar cane,5312,Area harvested,ha,8700,,8300,,7952,,7400,,6993,,7100,,6700,,6300,,6900,,6800,,5500,,5480,,4940,,4240,,9443,
+14,Barbados,156,Sugar cane,5419,Yield,hg/ha,627586,Fc,506024,Fc,525462,Fc,492642,Fc,516569,Fc,623099,Fc,519851,Fc,561111,Fc,450290,Fc,524559,Fc,470545,Fc,520821,Fc,523482,Fc,408218,Fc,169017,Fc
+14,Barbados,156,Sugar cane,5510,Production,tonnes,546000,,420000,,417847,,364555,,361237,,442400,,348300,,353500,,310700,,356700,,258800,,285410,,258600,,173085,,159607,
+14,Barbados,122,Sweet potatoes,5312,Area harvested,ha,170,F,165,F,93,,166,,59,,95,F,100,F,100,F,52,Im,42,Im,57,Im,24,Im,56,Im,55,Im,55,Im
+14,Barbados,122,Sweet potatoes,5419,Yield,hg/ha,158824,Fc,157576,Fc,157849,Fc,157229,Fc,324237,Fc,219368,Fc,220100,Fc,133500,Fc,171396,Fc,211932,Fc,206803,Fc,211539,Fc,216276,Fc,221012,Fc,225749,Fc
+14,Barbados,122,Sweet potatoes,5510,Production,tonnes,2700,F,2600,F,1468,,2610,,1913,,2084,,2201,,1335,,884,,888,,1176,,507,,1202,,1220,,1232,
+14,Barbados,136,Taro (cocoyam),5312,Area harvested,ha,45,F,45,Im,50,F,55,,60,F,51,F,46,F,44,F,12,F,7,F,65,Im,6,Im,27,Im,28,Im,29,Im
+14,Barbados,136,Taro (cocoyam),5419,Yield,hg/ha,40000,Fc,38373,Fc,40000,Fc,40000,Fc,33333,Fc,34314,Fc,34130,Fc,34318,Fc,34167,Fc,34286,Fc,34821,Fc,35369,Fc,35244,Fc,35058,Fc,34872,Fc
+14,Barbados,136,Taro (cocoyam),5510,Production,tonnes,180,F,173,Im,200,F,220,,200,F,175,,157,,151,,41,,24,,228,,20,,96,Im,99,Im,101,Im
+14,Barbados,388,Tomatoes,5312,Area harvested,ha,55,F,54,Im,54,,73,,43,,55,F,60,F,63,F,45,F,40,F,40,Im,42,Im,55,Im,51,Im,40,Im
+14,Barbados,388,Tomatoes,5419,Yield,hg/ha,160000,Fc,166524,Fc,169815,Fc,169041,Fc,195105,Fc,179455,Fc,173500,Fc,194286,Fc,181111,Fc,179750,Fc,179568,Fc,193131,Fc,192545,Fc,194739,Fc,196933,Fc
+14,Barbados,388,Tomatoes,5510,Production,tonnes,880,F,900,F,917,,1234,,837,,987,,1041,,1224,,815,,719,,718,,813,,1050,,989,,781,
+14,Barbados,463,"Vegetables, fresh nes",5312,Area harvested,ha,310,F,315,F,330,F,350,F,370,F,400,F,420,F,420,F,430,F,416,Im,407,Im,401,Im,375,F,400,Im,400,F
+14,Barbados,463,"Vegetables, fresh nes",5419,Yield,hg/ha,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,100000,Fc,106518,Fc,111681,Fc,115896,Fc,126667,Fc,119182,Fc,120000,Fc
+14,Barbados,463,"Vegetables, fresh nes",5510,Production,tonnes,3100,F,3150,F,3300,F,3500,F,3700,F,4000,F,4200,F,4200,F,4300,F,4434,Im,4546,Im,4643,Im,4750,F,4770,Im,4800,F
+14,Barbados,137,Yams,5312,Area harvested,ha,85,F,90,F,26,,91,,58,,65,F,60,F,62,F,25,F,65,F,63,Im,21,Im,30,Im,66,Im,50,Im
+14,Barbados,137,Yams,5419,Yield,hg/ha,135294,Fc,133333,Fc,134231,Fc,134066,Fc,103966,Fc,125846,Fc,132333,Fc,104355,Fc,112000,Fc,126769,Fc,128248,Fc,118306,Fc,115193,Fc,114233,Fc,113272,Fc
+14,Barbados,137,Yams,5510,Production,tonnes,1150,F,1200,F,349,,1220,,603,,818,,794,,647,,280,,824,,807,,243,,348,,749,,567,
+14,Barbados,1817,Cereals (Rice Milled Eqv),5312,Area harvested,ha,115,A,96,A,83,A,100,A,94,A,95,A,100,A,105,A,97,A,93,A,90,A,90,A,100,A,120,A,30,A
+14,Barbados,1817,Cereals (Rice Milled Eqv),5419,Yield,hg/ha,26087,Fc,26042,Fc,26265,Fc,26300,Fc,26596,Fc,27368,Fc,27000,Fc,26667,Fc,27380,Fc,28214,Fc,28775,Fc,29816,Fc,32000,Fc,28333,Fc,27000,Fc
+14,Barbados,1817,Cereals (Rice Milled Eqv),5510,Production,tonnes,300,A,250,A,218,A,263,A,250,A,260,A,270,A,280,A,266,A,261,A,259,A,268,A,320,A,340,A,81,A
+14,Barbados,1817,Cereals (Rice Milled Eqv),5525,Seed,tonnes,3,A,2,A,3,A,3,A,3,A,3,A,3,A,3,A,4,A,3,A,3,A,3,A,4,A,4,A,,
+14,Barbados,1717,"Cereals,Total",5312,Area harvested,ha,115,A,96,A,83,A,100,A,94,A,95,A,100,A,105,A,97,A,93,A,90,A,90,A,100,A,120,A,30,A
+14,Barbados,1717,"Cereals,Total",5419,Yield,hg/ha,26087,Fc,26042,Fc,26265,Fc,26300,Fc,26596,Fc,27368,Fc,27000,Fc,26667,Fc,27380,Fc,28214,Fc,28775,Fc,29816,Fc,32000,Fc,28333,Fc,27000,Fc
+14,Barbados,1717,"Cereals,Total",5510,Production,tonnes,300,A,250,A,218,A,263,A,250,A,260,A,270,A,280,A,266,A,261,A,259,A,268,A,320,A,340,A,81,A
+14,Barbados,1717,"Cereals,Total",5525,Seed,tonnes,3,A,2,A,3,A,3,A,3,A,3,A,3,A,3,A,4,A,3,A,3,A,3,A,4,A,4,A,,
+14,Barbados,1814,"Coarse Grain, Total",5312,Area harvested,ha,115,A,96,A,83,A,100,A,94,A,95,A,100,A,105,A,97,A,93,A,90,A,90,A,100,A,120,A,30,A
+14,Barbados,1814,"Coarse Grain, Total",5419,Yield,hg/ha,26087,Fc,26042,Fc,26265,Fc,26300,Fc,26596,Fc,27368,Fc,27000,Fc,26667,Fc,27380,Fc,28214,Fc,28775,Fc,29816,Fc,32000,Fc,28333,Fc,27000,Fc
+14,Barbados,1814,"Coarse Grain, Total",5510,Production,tonnes,300,A,250,A,218,A,263,A,250,A,260,A,270,A,280,A,266,A,261,A,259,A,268,A,320,A,340,A,81,A
+14,Barbados,1814,"Coarse Grain, Total",5525,Seed,tonnes,3,A,2,A,3,A,3,A,3,A,3,A,3,A,3,A,4,A,3,A,3,A,3,A,4,A,4,A,,
+14,Barbados,1801,"Fruit excl Melons,Total",5312,Area harvested,ha,390,A,398,A,425,A,440,A,470,A,485,A,502,A,511,A,537,A,577,A,594,A,617,A,625,A,631,A,640,A
+14,Barbados,1801,"Fruit excl Melons,Total",5419,Yield,hg/ha,65641,Fc,65829,Fc,66118,Fc,66136,Fc,66277,Fc,66186,Fc,66080,Fc,67346,Fc,66557,Fc,68437,Fc,69157,Fc,70110,Fc,72800,Fc,70389,Fc,71563,Fc
+14,Barbados,1801,"Fruit excl Melons,Total",5510,Production,tonnes,2560,A,2620,A,2810,A,2910,A,3115,A,3210,A,3319,A,3440,A,3571,A,3947,A,4109,A,4329,A,4550,A,4441,A,4580,A
+14,Barbados,1841,Oilcakes Equivalent,5312,Area harvested,ha,550,A,565,A,565,A,580,A,617,A,663,A,711,A,755,A,701,A,651,A,588,A,560,A,510,A,559,A,578,A
+14,Barbados,1841,Oilcakes Equivalent,5419,Yield,hg/ha,2669,Fc,2538,Fc,2538,Fc,2689,Fc,2506,Fc,2485,Fc,2474,Fc,2429,Fc,2569,Fc,2769,Fc,2666,Fc,2841,Fc,3277,Fc,3264,Fc,3284,Fc
+14,Barbados,1841,Oilcakes Equivalent,5510,Production,tonnes,147,A,143,A,143,A,156,A,155,A,165,A,176,A,183,A,180,A,180,A,157,A,159,A,167,A,182,A,190,A
+14,Barbados,1732,Oilcrops Primary,5312,Area harvested,ha,550,A,565,A,565,A,580,A,617,A,663,A,711,A,755,A,701,A,651,A,588,A,560,A,510,A,559,A,578,A
+14,Barbados,1732,Oilcrops Primary,5419,Yield,hg/ha,3991,Fc,3956,Fc,3956,Fc,4024,Fc,3929,Fc,3928,Fc,3926,Fc,3910,Fc,4066,Fc,4255,Fc,4247,Fc,4510,Fc,5209,Fc,5207,Fc,5251,Fc
+14,Barbados,1732,Oilcrops Primary,5510,Production,tonnes,220,A,224,A,224,A,233,A,242,A,260,A,279,A,295,A,285,A,277,A,250,A,253,A,266,A,291,A,304,A
+14,Barbados,1726,"Pulses,Total",5312,Area harvested,ha,675,A,680,A,690,A,720,A,689,A,730,A,765,A,760,A,780,A,777,A,751,A,731,A,718,A,719,A,709,A
+14,Barbados,1726,"Pulses,Total",5419,Yield,hg/ha,16444,Fc,16691,Fc,16942,Fc,17986,Fc,15364,Fc,16068,Fc,16353,Fc,15158,Fc,14333,Fc,16197,Fc,19984,Fc,23681,Fc,25342,Fc,24496,Fc,24145,Fc
+14,Barbados,1726,"Pulses,Total",5510,Production,tonnes,1110,A,1135,A,1169,A,1295,A,1059,A,1173,A,1251,A,1152,A,1118,A,1258,A,1500,A,1731,A,1819,A,1762,A,1713,A
+14,Barbados,1726,"Pulses,Total",5525,Seed,tonnes,53,A,56,A,59,A,70,A,45,A,61,A,47,A,41,A,41,A,47,A,50,A,50,A,51,A,51,A,,
+14,Barbados,1720,"Roots and Tubers,Total",5312,Area harvested,ha,329,A,325,A,193,A,336,A,187,A,221,A,226,A,231,A,113,A,148,A,205,A,65,A,124,A,164,A,160,A
+14,Barbados,1720,"Roots and Tubers,Total",5419,Yield,hg/ha,137690,Fc,135448,Fc,125078,Fc,132798,Fc,162193,Fc,148523,Fc,156062,Fc,111732,Fc,148348,Fc,163544,Fc,127350,Fc,165083,Fc,150616,Fc,146254,Fc,152920,Fc
+14,Barbados,1720,"Roots and Tubers,Total",5510,Production,tonnes,4530,A,4403,A,2414,A,4462,A,3033,A,3276,A,3527,A,2581,A,1671,A,2427,A,2611,A,1078,A,1866,A,2404,A,2453,A
+14,Barbados,1735,Vegetables Primary,5312,Area harvested,ha,1140,A,1120,A,1123,A,1287,A,1081,A,1093,A,1136,A,1148,A,1034,A,1010,A,883,A,896,A,989,A,896,A,1081,A
+14,Barbados,1735,Vegetables Primary,5419,Yield,hg/ha,107923,Fc,108557,Fc,108727,Fc,115074,Fc,109162,Fc,103907,Fc,103768,Fc,103197,Fc,96053,Fc,103095,Fc,108620,Fc,111731,Fc,98224,Fc,113373,Fc,103200,Fc
+14,Barbados,1735,Vegetables Primary,5510,Production,tonnes,12300,A,12160,A,12210,A,14810,A,11795,A,11357,A,11788,A,11847,A,9932,A,10409,A,9593,A,10014,A,9710,A,10160,A,11161,A
+14,Barbados,1800,"Vegetables&Melons, Total",5312,Area harvested,ha,1140,A,1120,A,1123,A,1287,A,1081,A,1093,A,1136,A,1148,A,1034,A,1010,A,883,A,896,A,989,A,896,A,1081,A
+14,Barbados,1800,"Vegetables&Melons, Total",5419,Yield,hg/ha,107923,Fc,108557,Fc,108727,Fc,115074,Fc,109162,Fc,103907,Fc,103768,Fc,103197,Fc,96053,Fc,103095,Fc,108620,Fc,111731,Fc,98224,Fc,113373,Fc,103200,Fc
+14,Barbados,1800,"Vegetables&Melons, Total",5510,Production,tonnes,12300,A,12160,A,12210,A,14810,A,11795,A,11357,A,11788,A,11847,A,9932,A,10409,A,9593,A,10014,A,9710,A,10160,A,11161,A
+17,Bermuda,486,Bananas,5312,Area harvested,ha,20,Im,20,Im,20,F,20,F,20,F,20,F,20,F,21,Im,22,F,22,F,20,F,20,F,20,F,21,Im,21,Im
+17,Bermuda,486,Bananas,5419,Yield,hg/ha,163130,Fc,162886,Fc,164813,Fc,163225,Fc,161770,Fc,159690,Fc,158169,Fc,157103,Fc,145455,Fc,154546,Fc,155550,Fc,156603,Fc,162500,Fc,157169,Fc,155515,Fc
+17,Bermuda,486,Bananas,5510,Production,tonnes,325,Im,325,Im,330,Im,326,Im,324,Im,319,Im,316,Im,323,Im,320,F,340,Im,311,Im,313,Im,325,F,325,Im,325,Im
+17,Bermuda,414,"Beans, green",5312,Area harvested,ha,5,F,5,F,5,F,5,F,5,F,5,F,5,F,5,F,6,F,6,F,6,Im,5,Im,5,F,5,Im,5,Im
+17,Bermuda,414,"Beans, green",5419,Yield,hg/ha,40000,Fc,39476,Fc,40000,Fc,40000,Fc,39966,Fc,40000,Fc,40000,Fc,40000,Fc,40000,Fc,40971,Fc,41364,Fc,41723,Fc,44000,Fc,42447,Fc,42404,Fc
+17,Bermuda,414,"Beans, green",5510,Production,tonnes,20,F,20,Im,20,F,20,F,20,Im,20,F,20,F,20,F,24,F,25,Im,24,Im,23,Im,22,F,21,Im,23,Im
+17,Bermuda,358,Cabbages and other brassicas,5312,Area harvested,ha,12,Im,13,Im,13,F,13,F,13,F,13,F,13,F,13,F,13,F,13,F,14,F,14,Im,13,Im,13,Im,13,Im
+17,Bermuda,358,Cabbages and other brassicas,5419,Yield,hg/ha,182874,Fc,175234,Fc,167594,Fc,161569,Fc,160989,Fc,160408,Fc,159828,Fc,159247,Fc,158667,Fc,158086,Fc,157506,Fc,156926,Fc,156345,Fc,155765,Fc,155782,Fc
+17,Bermuda,358,Cabbages and other brassicas,5510,Production,tonnes,228,Im,225,Im,218,Im,210,Im,209,Im,209,Im,208,Im,207,Im,206,Im,206,Im,221,Im,214,Im,199,Im,202,Im,201,Im
+17,Bermuda,426,Carrots and turnips,5312,Area harvested,ha,15,Im,14,F,14,F,14,F,14,F,15,Im,15,F,18,F,20,F,19,Im,19,Im,19,Im,20,F,19,Im,19,Im
+17,Bermuda,426,Carrots and turnips,5419,Yield,hg/ha,237253,Fc,245032,Fc,242573,Fc,239987,Fc,239382,Fc,233924,Fc,233333,Fc,211111,Fc,217859,Fc,214204,Fc,210562,Fc,206919,Fc,200000,Fc,199183,Fc,198368,Fc
+17,Bermuda,426,Carrots and turnips,5510,Production,tonnes,351,Im,343,Im,340,Im,336,Im,335,Im,352,Im,350,F,380,F,436,Im,407,Im,401,Im,396,Im,400,F,383,Im,383,Im
+17,Bermuda,403,"Onions, dry",5312,Area harvested,ha,5,F,5,F,5,F,5,F,5,F,5,F,5,F,5,F,6,F,6,F,6,F,6,F,6,Im,5,Im,5,Im
+17,Bermuda,403,"Onions, dry",5419,Yield,hg/ha,118124,Fc,115415,Fc,115139,Fc,113283,Fc,112276,Fc,111290,Fc,110479,Fc,110051,Fc,100000,Fc,108612,Fc,108879,Fc,117570,Fc,117636,Fc,117702,Fc,117768,Fc
+17,Bermuda,403,"Onions, dry",5510,Production,tonnes,59,Im,58,Im,58,Im,57,Im,56,Im,56,Im,55,Im,55,Im,60,F,65,Im,65,Im,71,Im,72,Im,58,Im,57,Im
+17,Bermuda,116,Potatoes,5312,Area harvested,ha,55,F,50,F,45,F,50,F,40,F,35,F,40,F,45,F,45,F,45,F,45,Im,45,Im,45,F,45,F,46,Im
+17,Bermuda,116,Potatoes,5419,Yield,hg/ha,227273,Fc,240000,Fc,222222,Fc,220000,Fc,250000,Fc,234286,Fc,225000,Fc,244444,Fc,242391,Fc,241950,Fc,241706,Fc,241192,Fc,244444,Fc,244444,Fc,240743,Fc
+17,Bermuda,116,Potatoes,5510,Production,tonnes,1250,F,1200,F,1000,F,1100,F,1000,F,820,F,900,F,1100,F,1091,Im,1089,Im,1091,Im,1095,Im,1100,F,1100,F,1098,Im
+17,Bermuda,122,Sweet potatoes,5312,Area harvested,ha,8,F,8,F,8,Im,8,Im,8,Im,8,F,8,F,9,F,9,F,9,F,10,Im,12,Im,12,F,15,F,14,Im
+17,Bermuda,122,Sweet potatoes,5419,Yield,hg/ha,114264,Fc,115139,Fc,115510,Fc,115424,Fc,115308,Fc,114603,Fc,115046,Fc,111111,Fc,114981,Fc,115353,Fc,115680,Fc,115947,Fc,126667,Fc,103333,Fc,114467,Fc
+17,Bermuda,122,Sweet potatoes,5510,Production,tonnes,91,Im,92,Im,93,Im,92,Im,92,Im,92,Im,92,Im,100,F,103,Im,104,Im,120,Im,134,Im,152,F,155,F,164,Im
+17,Bermuda,388,Tomatoes,5312,Area harvested,ha,10,F,10,F,10,Im,10,Im,10,F,10,F,10,F,10,F,10,F,10,Im,10,Im,10,Im,10,F,10,Im,10,Im
+17,Bermuda,388,Tomatoes,5419,Yield,hg/ha,126818,Fc,127372,Fc,127932,Fc,128635,Fc,131689,Fc,132786,Fc,133882,Fc,134976,Fc,136070,Fc,137162,Fc,138253,Fc,139344,Fc,140000,Fc,137749,Fc,137940,Fc
+17,Bermuda,388,Tomatoes,5510,Production,tonnes,127,Im,127,Im,131,Im,132,Im,132,Im,133,Im,134,Im,135,Im,136,Im,137,Im,137,Im,138,Im,140,F,139,Im,135,Im
+17,Bermuda,463,"Vegetables, fresh nes",5312,Area harvested,ha,208,Im,218,Im,182,Im,202,Im,203,Im,204,Im,205,Im,210,F,197,Im,216,Im,211,Im,211,Im,212,F,209,Im,212,Im
+17,Bermuda,463,"Vegetables, fresh nes",5419,Yield,hg/ha,113544,Fc,114593,Fc,115702,Fc,117051,Fc,118654,Fc,120364,Fc,122197,Fc,119048,Fc,126783,Fc,129520,Fc,132351,Fc,135244,Fc,146226,Fc,140216,Fc,138828,Fc
+17,Bermuda,463,"Vegetables, fresh nes",5510,Production,tonnes,2366,Im,2500,F,2100,F,2360,Im,2407,Im,2456,Im,2506,Im,2500,F,2500,F,2800,F,2787,Im,2848,Im,3100,F,2936,Im,2943,Im
+17,Bermuda,1801,"Fruit excl Melons,Total",5312,Area harvested,ha,20,A,20,A,20,A,20,A,20,A,20,A,20,A,21,A,22,A,22,A,20,A,20,A,20,A,21,A,21,A
+17,Bermuda,1801,"Fruit excl Melons,Total",5419,Yield,hg/ha,163130,Fc,162886,Fc,164813,Fc,163225,Fc,161770,Fc,159690,Fc,158169,Fc,157103,Fc,145455,Fc,154546,Fc,155550,Fc,156603,Fc,162500,Fc,157169,Fc,155515,Fc
+17,Bermuda,1801,"Fruit excl Melons,Total",5510,Production,tonnes,325,A,325,A,330,A,326,A,324,A,319,A,316,A,323,A,320,A,340,A,311,A,313,A,325,A,325,A,325,A
+17,Bermuda,1720,"Roots and Tubers,Total",5312,Area harvested,ha,63,A,58,A,53,A,58,A,48,A,43,A,48,A,54,A,54,A,54,A,56,A,57,A,57,A,60,A,60,A
+17,Bermuda,1720,"Roots and Tubers,Total",5419,Yield,hg/ha,212922,Fc,222778,Fc,206098,Fc,205600,Fc,227629,Fc,212019,Fc,206674,Fc,222222,Fc,221156,Fc,220850,Fc,218178,Fc,215716,Fc,219649,Fc,209167,Fc,210503,Fc
+17,Bermuda,1720,"Roots and Tubers,Total",5510,Production,tonnes,1341,A,1292,A,1093,A,1192,A,1092,A,912,A,992,A,1200,A,1194,A,1193,A,1211,A,1229,A,1252,A,1255,A,1263,A
+17,Bermuda,1735,Vegetables Primary,5312,Area harvested,ha,256,A,265,A,229,A,249,A,250,A,252,A,253,A,261,A,252,A,270,A,265,A,265,A,266,A,262,A,264,A
+17,Bermuda,1735,Vegetables Primary,5419,Yield,hg/ha,123244,Fc,123500,Fc,125296,Fc,125145,Fc,126442,Fc,127925,Fc,129324,Fc,126323,Fc,133315,Fc,134707,Fc,137015,Fc,139358,Fc,147942,Fc,142943,Fc,141593,Fc
+17,Bermuda,1735,Vegetables Primary,5510,Production,tonnes,3151,A,3273,A,2866,A,3114,A,3159,A,3224,A,3273,A,3297,A,3362,A,3639,A,3635,A,3690,A,3933,A,3739,A,3742,A
+17,Bermuda,1800,"Vegetables&Melons, Total",5312,Area harvested,ha,256,A,265,A,229,A,249,A,250,A,252,A,253,A,261,A,252,A,270,A,265,A,265,A,266,A,262,A,264,A
+17,Bermuda,1800,"Vegetables&Melons, Total",5419,Yield,hg/ha,123244,Fc,123500,Fc,125296,Fc,125145,Fc,126442,Fc,127925,Fc,129324,Fc,126323,Fc,133315,Fc,134707,Fc,137015,Fc,139358,Fc,147942,Fc,142943,Fc,141593,Fc
+17,Bermuda,1800,"Vegetables&Melons, Total",5510,Production,tonnes,3151,A,3273,A,2866,A,3114,A,3159,A,3224,A,3273,A,3297,A,3362,A,3639,A,3635,A,3690,A,3933,A,3739,A,3742,A
+19,Bolivia (Plurinational State of),515,Apples,5312,Area harvested,ha,1480,,1485,,1485,,1480,,1100,F,900,F,500,F,495,,505,,501,,501,,504,,512,,534,,560,
+19,Bolivia (Plurinational State of),515,Apples,5419,Yield,hg/ha,66216,Fc,66027,Fc,66061,Fc,66216,Fc,54545,Fc,44444,Fc,40000,Fc,39616,Fc,40099,Fc,38782,Fc,39722,Fc,39992,Fc,39547,Fc,38534,Fc,38314,Fc
+19,Bolivia (Plurinational State of),515,Apples,5510,Production,tonnes,9800,,9805,,9810,,9800,,6000,F,4000,F,2000,F,1961,,2025,,1943,,1989,,2014,,2025,,2057,,2145,
+19,Bolivia (Plurinational State of),572,Avocados,5312,Area harvested,ha,830,,835,,835,,469,,474,,480,,486,,492,,497,,880,,869,,849,,860,,914,,933,
+19,Bolivia (Plurinational State of),572,Avocados,5419,Yield,hg/ha,91566,Fc,91138,Fc,91162,Fc,63475,Fc,64262,Fc,65000,Fc,65782,Fc,65894,Fc,66519,Fc,63273,Fc,63450,Fc,63901,Fc,64435,Fc,62119,Fc,63177,Fc
+19,Bolivia (Plurinational State of),572,Avocados,5510,Production,tonnes,7600,,7610,,7612,,2977,,3046,,3120,,3197,,3242,,3306,,5568,,5514,,5426,,5541,,5681,,5896,
+19,Bolivia (Plurinational State of),486,Bananas,5312,Area harvested,ha,15807,,17482,,17691,,18362,,18663,,18893,,18910,,19173,,19315,,17114,,17393,,17830,,18680,,18545,,18670,
+19,Bolivia (Plurinational State of),486,Bananas,5419,Yield,hg/ha,102439,Fc,93461,Fc,96156,Fc,94189,Fc,94821,Fc,95748,Fc,96104,Fc,95181,Fc,94903,Fc,90117,Fc,91808,Fc,92346,Fc,90802,Fc,88572,Fc,87705,Fc
+19,Bolivia (Plurinational State of),486,Bananas,5510,Production,tonnes,161926,,163388,,170110,,172950,,176965,,180896,,181732,,182490,,183305,,154227,,159681,,164657,,169615,,164256,,163749,
+19,Bolivia (Plurinational State of),44,Barley,5312,Area harvested,ha,88569,,89476,,88140,,90325,,90918,,92083,,92619,,93260,,93991,,55943,,57451,,57834,,53133,,57240,,59751,
+19,Bolivia (Plurinational State of),44,Barley,5419,Yield,hg/ha,7514,Fc,7633,Fc,7057,Fc,7745,Fc,7989,Fc,8036,Fc,8122,Fc,7784,Fc,7791,Fc,8510,Fc,8584,Fc,8746,Fc,9764,Fc,7955,Fc,7401,Fc
+19,Bolivia (Plurinational State of),44,Barley,5510,Production,tonnes,66550,,68300,,62204,,69955,,72636,,73996,,75226,,72589,,73228,,47608,,49314,,50580,,51877,,45535,,44224,
+19,Bolivia (Plurinational State of),44,Barley,5525,Seed,tonnes,8163,,8153,,7933,,7896,,8000,F,8000,F,8100,F,8100,F,8100,F,8100,F,8100,F,8100,F,7500,F,8000,F,,
+19,Bolivia (Plurinational State of),176,"Beans, dry",5312,Area harvested,ha,13350,,13500,,19421,,27042,,28371,,27303,,26984,,29400,,25781,,29821,,58587,,41844,,62524,,76153,,69741,
+19,Bolivia (Plurinational State of),176,"Beans, dry",5419,Yield,hg/ha,9963,Fc,10074,Fc,10066,Fc,12751,Fc,10981,Fc,12543,Fc,13193,Fc,13333,Fc,14076,Fc,12918,Fc,13091,Fc,19707,Fc,9554,Fc,10269,Fc,9891,Fc
+19,Bolivia (Plurinational State of),176,"Beans, dry",5510,Production,tonnes,13300,,13600,,19550,,34482,,31153,,34247,,35600,,39200,,36289,,38522,,76697,,82464,,59735,,78200,,68984,
+19,Bolivia (Plurinational State of),176,"Beans, dry",5525,Seed,tonnes,945,Fc,1359,Fc,1893,Fc,1986,Fc,1911,Fc,1889,Fc,2058,Fc,1805,Fc,2087,Fc,4101,Fc,2929,Fc,3738,Fc,4225,Fc,4225,Fc,,
+19,Bolivia (Plurinational State of),414,"Beans, green",5312,Area harvested,ha,168,,174,,182,,185,,188,,191,,195,,198,,202,,206,,206,Im,324,Im,428,,436,,448,
+19,Bolivia (Plurinational State of),414,"Beans, green",5419,Yield,hg/ha,18333,Fc,18333,Fc,18407,Fc,18378,Fc,18617,Fc,18743,Fc,18821,Fc,18990,Fc,19109,Fc,19029,Fc,20676,Fc,22640,Fc,24946,Fc,27355,Fc,27809,Fc
+19,Bolivia (Plurinational State of),414,"Beans, green",5510,Production,tonnes,308,,319,,335,,340,,350,,358,,367,,376,,386,,392,,425,F,733,Im,1068,,1192,,1247,
+19,Bolivia (Plurinational State of),216,"Brazil nuts, with shell",5510,Production,tonnes,36000,,38000,F,37523,Im,38500,F,40000,F,40415,Im,41000,F,42000,F,43232,Im,45000,F,45000,F,45000,F,47000,F,47500,F,47500,F
+19,Bolivia (Plurinational State of),181,"Broad beans, horse beans, dry",5312,Area harvested,ha,13819,Im,12983,Im,12000,F,12500,F,13170,F,13215,Im,13200,F,13395,Im,13356,Im,13354,Im,13321,Im,13271,Im,13500,F,14000,F,13086,Im
+19,Bolivia (Plurinational State of),181,"Broad beans, horse beans, dry",5419,Yield,hg/ha,10131,Fc,10243,Fc,10833,Fc,10800,Fc,10309,Fc,10234,Fc,10303,Fc,10128,Fc,10105,Fc,10060,Fc,10007,Fc,9932,Fc,9630,Fc,8929,Fc,9436,Fc
+19,Bolivia (Plurinational State of),181,"Broad beans, horse beans, dry",5510,Production,tonnes,14000,F,13298,Im,13000,F,13500,F,13577,Im,13525,Im,13600,F,13566,Im,13496,Im,13435,Im,13331,Im,13181,Im,13000,F,12500,F,12348,Im
+19,Bolivia (Plurinational State of),181,"Broad beans, horse beans, dry",5525,Seed,tonnes,1700,Fc,1750,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,1775,Fc,,
+19,Bolivia (Plurinational State of),358,Cabbages and other brassicas,5312,Area harvested,ha,1360,,1362,,1365,,549,,553,,557,,561,,565,,570,,574,,540,,544,,540,,523,,526,
+19,Bolivia (Plurinational State of),358,Cabbages and other brassicas,5419,Yield,hg/ha,102941,Fc,102827,Fc,102637,Fc,107231,Fc,108336,Fc,109390,Fc,110392,Fc,111398,Fc,112386,Fc,106690,Fc,81906,Fc,80892,Fc,80829,Fc,83036,Fc,81244,Fc
+19,Bolivia (Plurinational State of),358,Cabbages and other brassicas,5510,Production,tonnes,14000,,14005,,14010,,5887,,5991,,6093,,6193,,6294,,6406,,6124,,4423,,4399,,4365,,4343,,4273,
+19,Bolivia (Plurinational State of),426,Carrots and turnips,5312,Area harvested,ha,3700,,3710,,3713,,4341,,4399,,4455,,4510,,4573,,4629,,3570,,3538,,3597,,3743,,3647,,3584,
+19,Bolivia (Plurinational State of),426,Carrots and turnips,5419,Yield,hg/ha,97297,Fc,97057,Fc,96997,Fc,63391,Fc,64067,Fc,64447,Fc,64860,Fc,64035,Fc,63899,Fc,75076,Fc,74412,Fc,74503,Fc,72353,Fc,78016,Fc,81237,Fc
+19,Bolivia (Plurinational State of),426,Carrots and turnips,5510,Production,tonnes,36000,,36008,,36015,,27518,,28183,,28711,,29252,,29283,,29579,,26802,,26329,,26799,,27082,,28455,,29112,
+19,Bolivia (Plurinational State of),125,Cassava,5312,Area harvested,ha,34559,,34570,,35214,,35547,,35883,,36366,,36432,,36631,,36764,,28794,,30345,,30586,,29679,,30306,,30911,
+19,Bolivia (Plurinational State of),125,Cassava,5419,Yield,hg/ha,99037,Fc,96943,Fc,98214,Fc,99857,Fc,101125,Fc,101876,Fc,101910,Fc,98435,Fc,98283,Fc,86426,Fc,87739,Fc,87930,Fc,81503,Fc,80445,Fc,79522,Fc
+19,Bolivia (Plurinational State of),125,Cassava,5510,Production,tonnes,342261,,335131,,345850,,354962,,362866,,370482,,371280,,360577,,361329,,248855,,266240,,268938,,241894,,243799,,245808,
+19,Bolivia (Plurinational State of),393,Cauliflowers and broccoli,5312,Area harvested,ha,420,,425,,420,,323,,326,,329,,331,,334,,337,,207,,197,,197,,213,,197,,184,
+19,Bolivia (Plurinational State of),393,Cauliflowers and broccoli,5419,Yield,hg/ha,73810,Fc,73882,Fc,71905,Fc,56316,Fc,56503,Fc,56657,Fc,56949,Fc,57096,Fc,57151,Fc,47440,Fc,46329,Fc,47022,Fc,43710,Fc,49857,Fc,51524,Fc
+19,Bolivia (Plurinational State of),393,Cauliflowers and broccoli,5510,Production,tonnes,3100,,3140,,3020,,1819,,1842,,1864,,1885,,1907,,1926,,982,,912,,928,,931,,984,,947,
+19,Bolivia (Plurinational State of),108,"Cereals, nes",5312,Area harvested,ha,1257,Im,1350,F,1204,Im,1100,F,975,*,991,*,1012,,1035,,1048,,1062,,1491,,1972,,1023,,1011,,1060,
+19,Bolivia (Plurinational State of),108,"Cereals, nes",5419,Yield,hg/ha,5746,Fc,5556,Fc,5964,Fc,6364,Fc,6749,Fc,6842,Fc,6996,Fc,7150,Fc,7233,Fc,7316,Fc,4212,Fc,4670,Fc,5951,Fc,6311,Fc,5840,Fc
+19,Bolivia (Plurinational State of),108,"Cereals, nes",5510,Production,tonnes,722,Im,750,F,718,Im,700,F,658,*,678,*,708,,740,,758,,777,,628,,921,,609,,638,,619,
+19,Bolivia (Plurinational State of),531,Cherries,5312,Area harvested,ha,325,,326,,326,,326,,330,F,339,Im,350,F,352,Im,362,Im,371,Im,378,Im,385,Im,391,Im,398,Im,405,Im
+19,Bolivia (Plurinational State of),531,Cherries,5419,Yield,hg/ha,21538,Fc,21626,Fc,21718,Fc,21626,Fc,21515,Fc,21318,Fc,20857,Fc,21105,Fc,21290,Fc,20933,Fc,20844,Fc,20754,Fc,20665,Fc,20576,Fc,20486,Fc
+19,Bolivia (Plurinational State of),531,Cherries,5510,Production,tonnes,700,,705,,708,,705,,710,F,723,Im,730,F,742,Im,770,Im,776,Im,787,Im,798,Im,809,Im,820,Im,830,Im
+19,Bolivia (Plurinational State of),530,"Cherries, sour",5312,Area harvested,ha,340,F,335,F,330,F,323,,327,,330,,334,,335,,336,,183,,177,,177,,169,,169,,165,
+19,Bolivia (Plurinational State of),530,"Cherries, sour",5419,Yield,hg/ha,16029,Fc,16119,Fc,16212,Fc,16471,Fc,16606,Fc,16818,Fc,16976,Fc,17045,Fc,17054,Fc,12732,Fc,12486,Fc,12429,Fc,14429,Fc,12559,Fc,12785,Fc
+19,Bolivia (Plurinational State of),530,"Cherries, sour",5510,Production,tonnes,545,F,540,F,535,F,532,,543,,555,,567,,571,,573,,233,,221,,220,,244,,213,,211,
+19,Bolivia (Plurinational State of),220,Chestnut,5312,Area harvested,ha,25000,,30000,F,33000,F,36000,F,38000,F,42000,F,40000,F,40599,Im,41193,Im,39346,Im,43061,Im,44245,Im,41649,Im,52558,Im,53390,Im
+19,Bolivia (Plurinational State of),220,Chestnut,5419,Yield,hg/ha,13760,Fc,13333,Fc,13939,Fc,13889,Fc,13884,Fc,13585,Fc,13750,Fc,13810,Fc,13946,Fc,13979,Fc,14101,Fc,14223,Fc,14345,Fc,14467,Fc,14589,Fc
+19,Bolivia (Plurinational State of),220,Chestnut,5510,Production,tonnes,34400,,40000,F,46000,F,50000,F,52758,,57057,,55000,F,56067,Im,57446,Im,55000,F,60718,Im,62928,Im,59744,,76035,,77890,
+19,Bolivia (Plurinational State of),191,Chick peas,5312,Area harvested,ha,465,,467,,470,,1172,,1196,,1224,,1248,,1272,,1294,,890,,843,,853,,864,,864,,878,
+19,Bolivia (Plurinational State of),191,Chick peas,5419,Yield,hg/ha,7011,Fc,7024,Fc,7021,Fc,6766,Fc,6831,Fc,6912,Fc,6939,Fc,6965,Fc,6994,Fc,7708,Fc,7611,Fc,7636,Fc,7602,Fc,7796,Fc,7752,Fc
+19,Bolivia (Plurinational State of),191,Chick peas,5510,Production,tonnes,326,,328,,330,,793,,817,,846,,866,,886,,905,,686,,642,,651,,657,,673,,681,
+19,Bolivia (Plurinational State of),191,Chick peas,5525,Seed,tonnes,33,Fc,33,Fc,82,Fc,84,Fc,86,Fc,87,Fc,89,Fc,91,Fc,62,Fc,59,Fc,60,Fc,60,Fc,61,Fc,61,Fc,,
+19,Bolivia (Plurinational State of),401,"Chillies and peppers, green",5312,Area harvested,ha,3300,,3300,,3000,F,2500,F,2385,,2455,,2508,,2542,,2577,,2615,,4250,Im,5178,,5208,,5295,,5473,
+19,Bolivia (Plurinational State of),401,"Chillies and peppers, green",5419,Yield,hg/ha,17576,Fc,17576,Fc,16667,Fc,14000,Fc,12331,Fc,12631,Fc,12875,Fc,13006,Fc,13151,Fc,13033,Fc,19674,Fc,27273,Fc,28667,Fc,23282,Fc,23731,Fc
+19,Bolivia (Plurinational State of),401,"Chillies and peppers, green",5510,Production,tonnes,5800,,5800,,5000,F,3500,F,2941,,3101,,3229,,3306,,3389,,3408,,8362,Im,14121,,14930,,12328,,12988,
+19,Bolivia (Plurinational State of),661,"Cocoa, beans",5312,Area harvested,ha,5850,,5860,,5865,,5219,,5222,,5282,,5340,,5468,,5476,,8471,,8332,,8491,,10517,,13558,,14185,
+19,Bolivia (Plurinational State of),661,"Cocoa, beans",5419,Yield,hg/ha,7350,Fc,7372,Fc,7374,Fc,8049,Fc,8173,Fc,8251,Fc,8378,Fc,8594,Fc,8665,Fc,5324,Fc,5341,Fc,5393,Fc,4529,Fc,5403,Fc,5050,Fc
+19,Bolivia (Plurinational State of),661,"Cocoa, beans",5510,Production,tonnes,4300,,4320,,4325,,4201,,4268,,4358,,4474,,4699,,4745,,4510,,4450,,4580,,4763,,7325,,7164,
+19,Bolivia (Plurinational State of),656,"Coffee, green",5312,Area harvested,ha,24404,,24691,,24845,,25020,,25129,,25518,,25555,,25676,,25756,,26373,,29349,,29603,,31245,,30291,,30365,
+19,Bolivia (Plurinational State of),656,"Coffee, green",5419,Yield,hg/ha,11349,Fc,9755,Fc,9866,Fc,9872,Fc,9768,Fc,9788,Fc,9889,Fc,10520,Fc,10601,Fc,10719,Fc,9311,Fc,9322,Fc,9005,Fc,9724,Fc,9413,Fc
+19,Bolivia (Plurinational State of),656,"Coffee, green",5510,Production,tonnes,27696,,24086,,24513,,24700,,24546,,24976,,25272,,27012,,27305,,28270,,27327,,27596,,28137,,29455,,28582,
+19,Bolivia (Plurinational State of),767,Cotton lint,5510,Production,tonnes,14500,*,25600,*,18056,Im,19411,Im,25600,F,25600,F,25600,F,25600,F,25600,F,28300,F,29000,F,29100,F,28400,F,29000,F,31600,F
+19,Bolivia (Plurinational State of),329,Cottonseed,5510,Production,tonnes,27000,*,48000,*,52342,Im,61784,Im,61236,Im,65331,Im,63356,Im,65804,Im,56505,Im,62820,F,64200,F,66000,F,69000,F,69500,F,70000,F
+19,Bolivia (Plurinational State of),329,Cottonseed,5525,Seed,tonnes,2000,Fc,2000,Fc,2000,Fc,2000,Fc,2763,Fc,2775,Fc,2870,Fc,2558,Fc,2973,Fc,3033,Fc,3125,Fc,3150,Fc,3150,Fc,3150,Fc,,
+19,Bolivia (Plurinational State of),397,Cucumbers and gherkins,5312,Area harvested,ha,500,F,477,Im,520,F,354,,355,,357,,359,,361,,364,,372,,370,,367,,367,,364,,355,
+19,Bolivia (Plurinational State of),397,Cucumbers and gherkins,5419,Yield,hg/ha,70000,Fc,67946,Fc,68269,Fc,56921,Fc,57127,Fc,57227,Fc,57521,Fc,57812,Fc,57912,Fc,51156,Fc,50563,Fc,50091,Fc,48772,Fc,52759,Fc,52163,Fc
+19,Bolivia (Plurinational State of),397,Cucumbers and gherkins,5510,Production,tonnes,3500,F,3238,Im,3550,F,2015,,2028,,2043,,2065,,2087,,2108,,1903,,1873,,1840,,1790,,1923,,1853,
+19,Bolivia (Plurinational State of),569,Figs,5312,Area harvested,ha,570,,570,,570,,256,,262,,268,,274,,278,,283,,253,,248,,248,,240,,249,,248,
+19,Bolivia (Plurinational State of),569,Figs,5419,Yield,hg/ha,63158,Fc,63246,Fc,63298,Fc,61055,Fc,62099,Fc,62910,Fc,63869,Fc,64137,Fc,64382,Fc,61700,Fc,61476,Fc,61796,Fc,63896,Fc,63202,Fc,63268,Fc
+19,Bolivia (Plurinational State of),569,Figs,5510,Production,tonnes,3600,,3605,,3608,,1563,,1627,,1686,,1750,,1783,,1822,,1561,,1524,,1533,,1534,,1576,,1570,
+19,Bolivia (Plurinational State of),619,"Fruit, fresh nes",5312,Area harvested,ha,1824,Im,1860,Im,2200,F,2250,F,2150,F,2051,Im,1885,Im,1851,Im,1839,Im,1851,Im,2020,,2392,,742,,744,,751,
+19,Bolivia (Plurinational State of),619,"Fruit, fresh nes",5419,Yield,hg/ha,36257,Fc,36096,Fc,34091,Fc,34667,Fc,34558,Fc,36565,Fc,36971,Fc,37678,Fc,38037,Fc,39072,Fc,41040,Fc,44404,Fc,42689,Fc,40835,Fc,39993,Fc
+19,Bolivia (Plurinational State of),619,"Fruit, fresh nes",5510,Production,tonnes,6612,Im,6715,Im,7500,F,7800,F,7430,F,7500,F,6969,Im,6974,Im,6993,Im,7233,Im,8291,,10623,,3168,,3036,,3004,
+19,Bolivia (Plurinational State of),406,Garlic,5312,Area harvested,ha,1670,,1675,,1679,,688,,680,,695,,719,,733,,745,,1576,,1488,,1498,,1500,,1553,,1577,
+19,Bolivia (Plurinational State of),406,Garlic,5419,Yield,hg/ha,48024,Fc,47916,Fc,49071,Fc,64390,Fc,68088,Fc,68331,Fc,69444,Fc,70628,Fc,69785,Fc,47081,Fc,46159,Fc,46415,Fc,46802,Fc,46370,Fc,46186,Fc
+19,Bolivia (Plurinational State of),406,Garlic,5510,Production,tonnes,8020,,8026,,8239,,4430,,4630,,4749,,4993,,5177,,5199,,7420,,6870,,6954,,7020,,7202,,7285,
+19,Bolivia (Plurinational State of),507,Grapefruit (inc. pomelos),5312,Area harvested,ha,2190,,2200,,2205,,2205,,598,,605,,611,,617,,622,,903,,997,,1045,,890,,903,,897,
+19,Bolivia (Plurinational State of),507,Grapefruit (inc. pomelos),5419,Yield,hg/ha,132877,Fc,133409,Fc,133152,Fc,133107,Fc,123595,Fc,126033,Fc,129165,Fc,131021,Fc,133424,Fc,95847,Fc,93410,Fc,93080,Fc,113590,Fc,95480,Fc,96289,Fc
+19,Bolivia (Plurinational State of),507,Grapefruit (inc. pomelos),5510,Production,tonnes,29100,,29350,,29360,,29350,,7391,,7625,,7892,,8084,,8299,,8655,,9310,,9727,,10109,,8622,,8638,
+19,Bolivia (Plurinational State of),560,Grapes,5312,Area harvested,ha,4187,,4336,,4536,,4691,,4850,,4898,,4942,,5028,,5094,,4135,,4130,,4141,,4452,,4519,,4565,
+19,Bolivia (Plurinational State of),560,Grapes,5419,Yield,hg/ha,63136,Fc,64024,Fc,64722,Fc,65621,Fc,66487,Fc,68013,Fc,67892,Fc,65481,Fc,64266,Fc,58757,Fc,62239,Fc,62384,Fc,58795,Fc,70583,Fc,70878,Fc
+19,Bolivia (Plurinational State of),560,Grapes,5510,Production,tonnes,26435,,27761,,29358,,30783,,32246,,33313,,33552,,32924,,32737,,24296,,25702,,25836,,26176,,31897,,32356,
+19,Bolivia (Plurinational State of),242,"Groundnuts, with shell",5312,Area harvested,ha,11182,,10940,,11194,,11312,,11706,,11915,,11930,,11998,,12042,,12657,,12102,,12290,,13406,,11919,,13066,
+19,Bolivia (Plurinational State of),242,"Groundnuts, with shell",5419,Yield,hg/ha,11365,Fc,11161,Fc,11346,Fc,11577,Fc,11736,Fc,11940,Fc,11911,Fc,11585,Fc,11434,Fc,10520,Fc,10584,Fc,10475,Fc,12495,Fc,16818,Fc,13853,Fc
+19,Bolivia (Plurinational State of),242,"Groundnuts, with shell",5510,Production,tonnes,12708,,12210,,12701,,13096,,13738,,14227,,14210,,13900,,13769,,13315,,12809,,12874,,16751,,20045,,18100,
+19,Bolivia (Plurinational State of),242,"Groundnuts, with shell",5525,Seed,tonnes,985,Fc,1007,Fc,1018,Fc,1054,Fc,1072,Fc,1074,Fc,1080,Fc,1084,Fc,1139,Fc,1089,Fc,1106,Fc,1106,Fc,1123,Fc,1123,Fc,,
+19,Bolivia (Plurinational State of),497,Lemons and limes,5312,Area harvested,ha,6700,,6715,,6723,,6730,,2756,*,2802,*,2852,,2883,,2915,,2413,,2729,,2833,,3106,,3194,,3211,
+19,Bolivia (Plurinational State of),497,Lemons and limes,5419,Yield,hg/ha,95000,Fc,95309,Fc,94943,Fc,94799,Fc,95798,Fc,96274,Fc,96950,Fc,97180,Fc,97300,Fc,74750,Fc,77197,Fc,78210,Fc,77097,Fc,78843,Fc,83893,Fc
+19,Bolivia (Plurinational State of),497,Lemons and limes,5510,Production,tonnes,63650,,64000,,63830,,63800,,26402,*,26976,*,27650,,28017,,28363,,18039,,21064,,22160,,23946,,25182,,26934,
+19,Bolivia (Plurinational State of),372,Lettuce and chicory,5312,Area harvested,ha,1590,,1595,,1600,,713,,724,,736,,751,,765,,779,,1257,,1271,,1302,,1308,,1394,,1468,
+19,Bolivia (Plurinational State of),372,Lettuce and chicory,5419,Yield,hg/ha,96855,Fc,96564,Fc,96281,Fc,88710,Fc,89378,Fc,89959,Fc,91438,Fc,91935,Fc,92413,Fc,88154,Fc,88887,Fc,89586,Fc,91161,Fc,88980,Fc,87639,Fc
+19,Bolivia (Plurinational State of),372,Lettuce and chicory,5510,Production,tonnes,15400,,15402,,15405,,6325,,6471,,6621,,6867,,7033,,7199,,11081,,11294,,11668,,11924,,12400,,12870,
+19,Bolivia (Plurinational State of),333,Linseed,5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,264,,,M
+19,Bolivia (Plurinational State of),333,Linseed,5419,Yield,hg/ha,,,,,,,,,,,,,,,,,,,,,,,,,,,2346,Fc,,
+19,Bolivia (Plurinational State of),333,Linseed,5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,62,,,M
+19,Bolivia (Plurinational State of),56,Maize,5312,Area harvested,ha,307292,,306118,,310465,,295509,,313849,,337779,,343080,,364159,,433300,,416685,,365354,,370710,,365773,,426810,,469708,
+19,Bolivia (Plurinational State of),56,Maize,5419,Yield,hg/ha,21259,Fc,22143,Fc,21670,Fc,23405,Fc,17145,Fc,21859,Fc,26071,Fc,21155,Fc,23120,Fc,28185,Fc,27890,Fc,24766,Fc,28517,Fc,21442,Fc,21182,Fc
+19,Bolivia (Plurinational State of),56,Maize,5510,Production,tonnes,653271,,677829,,672772,,691643,,538091,,738352,,894436,,770365,,1001803,,1174447,,1018988,,918091,,1043059,,915150,,994955,
+19,Bolivia (Plurinational State of),56,Maize,5525,Seed,tonnes,10755,,10714,,10866,,10558,,11000,F,15000,F,17360,,15649,,20886,,16000,F,17000,F,17000,F,17000,F,17000,F,,
+19,Bolivia (Plurinational State of),446,"Maize, green",5312,Area harvested,ha,17000,F,15000,F,13000,F,10975,,11171,,11451,,11928,,11927,,11964,,7614,,7689,,7850,,7526,,7798,,7879,
+19,Bolivia (Plurinational State of),446,"Maize, green",5419,Yield,hg/ha,26471,Fc,26667,Fc,26923,Fc,28214,Fc,27904,Fc,28085,Fc,28773,Fc,28775,Fc,29131,Fc,29150,Fc,29000,Fc,29029,Fc,30527,Fc,28402,Fc,27831,Fc
+19,Bolivia (Plurinational State of),446,"Maize, green",5510,Production,tonnes,45000,F,40000,F,35000,F,30965,,31172,,32160,,34321,,34320,,34852,,22195,,22299,,22788,,22975,,22148,,21928,
+19,Bolivia (Plurinational State of),571,"Mangoes, mangosteens, guavas",5312,Area harvested,ha,810,,815,,815,,486,,493,,500,,506,,514,,520,,1191,,1185,,1201,,1194,,1223,,1247,
+19,Bolivia (Plurinational State of),571,"Mangoes, mangosteens, guavas",5419,Yield,hg/ha,95062,Fc,94601,Fc,94663,Fc,103272,Fc,104462,Fc,105760,Fc,107213,Fc,108307,Fc,109519,Fc,90285,Fc,90524,Fc,90532,Fc,92194,Fc,89605,Fc,90692,Fc
+19,Bolivia (Plurinational State of),571,"Mangoes, mangosteens, guavas",5510,Production,tonnes,7700,,7710,,7715,,5019,,5150,,5288,,5425,,5567,,5695,,10753,,10724,,10873,,11008,,10955,,11310,
+19,Bolivia (Plurinational State of),75,Oats,5312,Area harvested,ha,4990,,4995,,5035,,7032,,7094,,7149,,7267,,7321,,7376,,6780,,6628,,6133,,6646,,6651,,6820,
+19,Bolivia (Plurinational State of),75,Oats,5419,Yield,hg/ha,9359,Fc,9409,Fc,9265,Fc,9511,Fc,9696,Fc,9829,Fc,9879,Fc,9926,Fc,9976,Fc,9280,Fc,9203,Fc,9659,Fc,9020,Fc,9293,Fc,9007,Fc
+19,Bolivia (Plurinational State of),75,Oats,5510,Production,tonnes,4670,,4700,,4665,,6688,,6878,,7027,,7179,,7267,,7358,,6292,,6100,,5924,,5994,,6180,,6143,
+19,Bolivia (Plurinational State of),75,Oats,5525,Seed,tonnes,400,Fc,403,Fc,563,Fc,568,Fc,572,Fc,581,Fc,586,Fc,590,Fc,542,Fc,530,Fc,491,Fc,493,Fc,496,Fc,496,Fc,,
+19,Bolivia (Plurinational State of),403,"Onions, dry",5312,Area harvested,ha,6530,,6545,,6550,,6418,,6512,,6673,,6840,,6921,,6825,,9177,,8891,,8972,,9614,,9277,,9310,
+19,Bolivia (Plurinational State of),403,"Onions, dry",5419,Yield,hg/ha,75498,Fc,75401,Fc,75298,Fc,48506,Fc,48739,Fc,48465,Fc,48659,Fc,48158,Fc,48684,Fc,85633,Fc,83349,Fc,83202,Fc,100273,Fc,88842,Fc,89118,Fc
+19,Bolivia (Plurinational State of),403,"Onions, dry",5510,Production,tonnes,49300,,49350,,49320,,31131,,31739,,32341,,33283,,33330,,33227,,78585,,74103,,74648,,96402,,82419,,82971,
+19,Bolivia (Plurinational State of),490,Oranges,5312,Area harvested,ha,14300,,14310,,14319,,10370,,10520,,10709,,10861,,11026,,11110,,23974,,23837,,23998,,25536,,24125,,24955,
+19,Bolivia (Plurinational State of),490,Oranges,5419,Yield,hg/ha,76923,Fc,76946,Fc,73044,Fc,81558,Fc,81861,Fc,81868,Fc,82633,Fc,83107,Fc,84024,Fc,68990,Fc,70115,Fc,69659,Fc,65832,Fc,68544,Fc,67369,Fc
+19,Bolivia (Plurinational State of),490,Oranges,5510,Production,tonnes,110000,,110110,,104591,,84576,,86118,,87672,,89748,,91634,,93351,,165397,,167134,,167166,,168109,,165363,,168117,
+19,Bolivia (Plurinational State of),600,Papayas,5312,Area harvested,ha,2140,,2150,,2155,,2155,,1800,F,1200,F,870,F,730,,738,,776,,789,,807,,788,,833,,842,
+19,Bolivia (Plurinational State of),600,Papayas,5419,Yield,hg/ha,106075,Fc,105581,Fc,105476,Fc,105485,Fc,100000,Fc,100000,Fc,103448,Fc,102767,Fc,103564,Fc,96920,Fc,98508,Fc,99099,Fc,103778,Fc,98274,Fc,99001,Fc
+19,Bolivia (Plurinational State of),600,Papayas,5510,Production,tonnes,22700,,22700,,22730,,22732,,18000,F,12000,F,9000,F,7502,,7643,,7521,,7771,,8000,,8178,,8182,,8337,
+19,Bolivia (Plurinational State of),534,Peaches and nectarines,5312,Area harvested,ha,6500,,6272,Im,6000,F,3500,F,2787,,2860,,3000,F,3873,Im,4699,Im,5854,,5625,,5685,,6085,,6083,,6342,
+19,Bolivia (Plurinational State of),534,Peaches and nectarines,5419,Yield,hg/ha,56154,Fc,56739,Fc,56667,Fc,57143,Fc,56742,Fc,58031,Fc,56667,Fc,57780,Fc,58014,Fc,56049,Fc,59161,Fc,60195,Fc,57402,Fc,63059,Fc,62373,Fc
+19,Bolivia (Plurinational State of),534,Peaches and nectarines,5510,Production,tonnes,36500,,35585,Im,34000,F,20000,F,15814,,16597,,17000,F,22376,Im,27260,Im,32811,,33278,,34219,,34929,,38360,,39556,
+19,Bolivia (Plurinational State of),521,Pears,5312,Area harvested,ha,765,,768,,768,,371,,374,,377,,380,,383,,386,,390,,393,,395,,380,,403,,406,
+19,Bolivia (Plurinational State of),521,Pears,5419,Yield,hg/ha,59477,Fc,59284,Fc,59440,Fc,45822,Fc,45936,Fc,46101,Fc,46237,Fc,46345,Fc,46399,Fc,48154,Fc,48234,Fc,48508,Fc,51715,Fc,49272,Fc,49614,Fc
+19,Bolivia (Plurinational State of),521,Pears,5510,Production,tonnes,4550,,4553,,4565,,1700,,1718,,1738,,1757,,1775,,1791,,1878,,1894,,1918,,1965,,1987,,2012,
+19,Bolivia (Plurinational State of),187,"Peas, dry",5312,Area harvested,ha,3500,,3800,F,4000,F,4100,F,3970,F,4000,F,3730,Im,3382,Im,3203,Im,3077,Im,2988,Im,2926,Im,2885,Im,2859,Im,2844,Im
+19,Bolivia (Plurinational State of),187,"Peas, dry",5419,Yield,hg/ha,14286,Fc,12989,Fc,13000,Fc,12927,Fc,13023,Fc,13000,Fc,13174,Fc,13329,Fc,13339,Fc,13441,Fc,13543,Fc,13644,Fc,13746,Fc,13847,Fc,13949,Fc
+19,Bolivia (Plurinational State of),187,"Peas, dry",5510,Production,tonnes,5000,,4936,Im,5200,F,5300,F,5170,F,5200,F,4914,Im,4508,Im,4272,Im,4135,Im,4046,Im,3992,Im,3966,Im,3959,Im,3967,Im
+19,Bolivia (Plurinational State of),187,"Peas, dry",5525,Seed,tonnes,190,Fc,200,Fc,205,Fc,199,Fc,200,Fc,198,Fc,215,Fc,190,Fc,215,Fc,209,Fc,190,Fc,200,Fc,200,Fc,200,Fc,,
+19,Bolivia (Plurinational State of),417,"Peas, green",5312,Area harvested,ha,14495,,14669,,15023,,15303,,15529,,15859,,15931,,16122,,16259,,16467,,14597,,14899,,14883,,13449,,13489,
+19,Bolivia (Plurinational State of),417,"Peas, green",5419,Yield,hg/ha,14870,Fc,14899,Fc,15267,Fc,15462,Fc,15714,Fc,15873,Fc,15706,Fc,15501,Fc,15315,Fc,15469,Fc,14779,Fc,14984,Fc,13381,Fc,14047,Fc,14408,Fc
+19,Bolivia (Plurinational State of),417,"Peas, green",5510,Production,tonnes,21554,,21855,,22935,,23662,,24403,,25173,,25021,,24990,,24900,,25473,,21572,,22325,,19915,,18892,,19435,
+19,Bolivia (Plurinational State of),687,Pepper (piper spp.),5312,Area harvested,ha,929,,1101,,1321,,1618,,1832,,2012,,1995,,2032,,2240,,2248,,932,Im,32,,32,,35,,38,Im
+19,Bolivia (Plurinational State of),687,Pepper (piper spp.),5419,Yield,hg/ha,6878,Fc,6930,Fc,6291,Fc,5637,Fc,5699,Fc,5785,Fc,5870,Fc,5758,Fc,5629,Fc,5618,Fc,6906,Fc,8495,Fc,8495,Fc,7348,Fc,6847,Fc
+19,Bolivia (Plurinational State of),687,Pepper (piper spp.),5510,Production,tonnes,639,,763,,831,,912,,1044,,1164,,1171,,1170,,1261,,1263,,644,Im,27,,27,,26,,26,
+19,Bolivia (Plurinational State of),574,Pineapples,5312,Area harvested,ha,4800,,4830,,4859,,4848,,1153,,1199,,1228,,1257,,1274,,4015,,4375,,4383,,4098,,4449,,4403,
+19,Bolivia (Plurinational State of),574,Pineapples,5419,Yield,hg/ha,123606,Fc,123188,Fc,120095,Fc,119839,Fc,109280,Fc,111860,Fc,113591,Fc,115553,Fc,114513,Fc,119736,Fc,108213,Fc,107582,Fc,117311,Fc,109811,Fc,115813,Fc
+19,Bolivia (Plurinational State of),574,Pineapples,5510,Production,tonnes,59331,,59500,,58354,,58098,,12600,,13412,,13949,,14525,,14589,,48074,,47346,,47158,,48074,,48860,,50993,
+19,Bolivia (Plurinational State of),489,Plantains,5312,Area harvested,ha,37041,,40109,,41160,,41732,,41221,,41792,,41920,,41991,,42092,,35555,,35608,,36033,,38911,,40015,,40932,
+19,Bolivia (Plurinational State of),489,Plantains,5419,Yield,hg/ha,102365,Fc,98953,Fc,100383,Fc,101508,Fc,104999,Fc,106089,Fc,105873,Fc,106189,Fc,107195,Fc,92391,Fc,96864,Fc,98206,Fc,94349,Fc,87888,Fc,91333,Fc
+19,Bolivia (Plurinational State of),489,Plantains,5510,Production,tonnes,379170,,396890,,413175,,423612,,432818,,443369,,443819,,445898,,451204,,328495,,344914,,353860,,367121,,351680,,373841,
+19,Bolivia (Plurinational State of),536,Plums and sloes,5312,Area harvested,ha,735,,737,,737,,735,,258,,259,,260,,260,,261,,166,,166,,166,,165,,162,,181,
+19,Bolivia (Plurinational State of),536,Plums and sloes,5419,Yield,hg/ha,60857,Fc,60787,Fc,60855,Fc,60952,Fc,42248,Fc,42625,Fc,42885,Fc,43231,Fc,43410,Fc,55060,Fc,54458,Fc,54277,Fc,55348,Fc,57061,Fc,49986,Fc
+19,Bolivia (Plurinational State of),536,Plums and sloes,5510,Production,tonnes,4473,,4480,,4485,,4480,,1090,,1104,,1115,,1124,,1133,,914,,904,,901,,913,,923,,907,
+19,Bolivia (Plurinational State of),116,Potatoes,5312,Area harvested,ha,125404,,124402,,127477,,130474,,132588,,134375,,135370,,137004,,138340,,182942,,177256,,181073,,189105,,188292,,196188,
+19,Bolivia (Plurinational State of),116,Potatoes,5419,Yield,hg/ha,57531,Fc,56778,Fc,57170,Fc,57126,Fc,56423,Fc,56699,Fc,55759,Fc,53667,Fc,54067,Fc,52309,Fc,56579,Fc,57021,Fc,53211,Fc,56017,Fc,54489,Fc
+19,Bolivia (Plurinational State of),116,Potatoes,5510,Production,tonnes,721466,,706324,,728785,,745343,,748095,,761891,,754807,,735254,,747968,,956953,,1002902,,1032492,,1006249,,1054757,,1069011,
+19,Bolivia (Plurinational State of),116,Potatoes,5525,Seed,tonnes,184368,,177384,,178905,,178710,,180000,F,180000,F,182000,F,182000,F,241000,F,238000,F,241000,F,249000,F,255000,F,257000,F,,
+19,Bolivia (Plurinational State of),394,"Pumpkins, squash and gourds",5312,Area harvested,ha,13500,F,14000,F,14500,F,15000,F,15462,Im,16089,Im,2850,,2889,,2924,,2958,,2402,,2447,,2269,,2533,,2429,
+19,Bolivia (Plurinational State of),394,"Pumpkins, squash and gourds",5419,Yield,hg/ha,80719,Fc,78571,Fc,76552,Fc,75333,Fc,74376,Fc,72720,Fc,68982,Fc,69328,Fc,69956,Fc,67133,Fc,75586,Fc,75817,Fc,84427,Fc,77140,Fc,82088,Fc
+19,Bolivia (Plurinational State of),394,"Pumpkins, squash and gourds",5510,Production,tonnes,108970,,110000,F,111000,F,113000,F,115000,F,117000,F,19660,,20029,,20455,,19858,,18155,,18554,,19156,,19540,,19939,
+19,Bolivia (Plurinational State of),754,"Pyrethrum, dried",5312,Area harvested,ha,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+19,Bolivia (Plurinational State of),754,"Pyrethrum, dried",5510,Production,tonnes,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+19,Bolivia (Plurinational State of),523,Quinces,5312,Area harvested,ha,130,F,115,F,100,F,82,,82,,83,,83,,84,,85,,110,,109,,110,,97,,102,,104,
+19,Bolivia (Plurinational State of),523,Quinces,5419,Yield,hg/ha,61538,Fc,60870,Fc,60000,Fc,54756,Fc,55732,Fc,55904,Fc,56867,Fc,57143,Fc,57294,Fc,57909,Fc,57713,Fc,57678,Fc,66002,Fc,61410,Fc,59514,Fc
+19,Bolivia (Plurinational State of),523,Quinces,5510,Production,tonnes,800,F,700,F,600,F,449,,457,,464,,472,,480,,487,,637,,626,,633,,640,,626,,617,
+19,Bolivia (Plurinational State of),92,Quinoa,5312,Area harvested,ha,36847,,37223,,37817,,38289,,38649,,39302,,42431,,45454,,46369,,59924,,58496,,63307,,131192,,147312,,123080,
+19,Bolivia (Plurinational State of),92,Quinoa,5419,Yield,hg/ha,6455,Fc,6259,Fc,6394,Fc,6513,Fc,6388,Fc,6412,Fc,6333,Fc,5852,Fc,5859,Fc,5700,Fc,6278,Fc,6467,Fc,3878,Fc,4282,Fc,6043,Fc
+19,Bolivia (Plurinational State of),92,Quinoa,5510,Production,tonnes,23785,,23299,,24179,,24936,,24688,,25201,,26873,,26601,,27169,,34156,,36724,,40943,,50874,,63075,,74382,
+19,Bolivia (Plurinational State of),92,Quinoa,5525,Seed,tonnes,558,Fc,567,Fc,574,Fc,580,Fc,590,Fc,636,Fc,682,Fc,696,Fc,899,Fc,877,Fc,950,Fc,1027,Fc,1113,Fc,1113,Fc,,
+19,Bolivia (Plurinational State of),27,"Rice, paddy",5312,Area harvested,ha,156312,,146108,,129884,,141175,,152193,,188382,,168399,,170005,,155401,,186804,,194237,,178273,,157502,,166299,,183172,
+19,Bolivia (Plurinational State of),27,"Rice, paddy",5419,Yield,hg/ha,19134,Fc,22753,Fc,19976,Fc,29983,Fc,21771,Fc,25440,Fc,26512,Fc,20711,Fc,21737,Fc,22001,Fc,22757,Fc,24009,Fc,30137,Fc,26633,Fc,24201,Fc
+19,Bolivia (Plurinational State of),27,"Rice, paddy",5510,Production,tonnes,299083,,332437,,259452,,423278,,331336,,479246,,446462,,352104,,337800,,410994,,442017,,428007,,474664,,442912,,443285,
+19,Bolivia (Plurinational State of),27,"Rice, paddy",5525,Seed,tonnes,7414,,6866,,5963,,6554,,8500,F,7600,F,18106,,18536,,16743,,18000,F,15000,F,15000,F,15000,F,15000,F,,
+19,Bolivia (Plurinational State of),149,"Roots and tubers, nes",5312,Area harvested,ha,19696,Im,19000,F,18803,Im,17000,F,14799,*,15006,*,13595,,15464,,15647,,15833,,16760,,16775,,17370,,17708,,17617,
+19,Bolivia (Plurinational State of),149,"Roots and tubers, nes",5419,Yield,hg/ha,33754,Fc,34211,Fc,33506,Fc,33529,Fc,33425,Fc,33417,Fc,31495,Fc,33292,Fc,33253,Fc,32387,Fc,29958,Fc,30112,Fc,30201,Fc,29490,Fc,29778,Fc
+19,Bolivia (Plurinational State of),149,"Roots and tubers, nes",5510,Production,tonnes,66480,Im,65000,F,63000,F,57000,F,49465,*,50146,*,42817,,51482,,52031,,51279,,50208,,50512,,52459,,52222,,52459,
+19,Bolivia (Plurinational State of),149,"Roots and tubers, nes",5525,Seed,tonnes,13300,F,13300,F,11900,F,10400,F,10500,F,9500,F,9700,F,9800,F,9800,F,9800,F,9800,F,9800,F,9800,F,9800,F,,
+19,Bolivia (Plurinational State of),836,"Rubber, natural",5312,Area harvested,ha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Bolivia (Plurinational State of),836,"Rubber, natural",5510,Production,tonnes,11444,,11500,F,11747,Im,12000,F,11670,F,11500,F,11800,F,12000,F,13223,Im,14026,Im,14688,Im,15375,Im,18000,F,16671,Im,15782,Im
+19,Bolivia (Plurinational State of),71,Rye,5312,Area harvested,ha,298,,300,,305,,417,,422,,428,,432,,435,,439,,113,,122,,112,,115,,106,,96,
+19,Bolivia (Plurinational State of),71,Rye,5419,Yield,hg/ha,6879,Fc,7000,Fc,6885,Fc,8969,Fc,9147,Fc,9299,Fc,9375,Fc,9494,Fc,9567,Fc,8761,Fc,8689,Fc,8750,Fc,9212,Fc,9281,Fc,9904,Fc
+19,Bolivia (Plurinational State of),71,Rye,5510,Production,tonnes,205,,210,,210,,374,,386,,398,,405,,413,,420,,99,,106,,98,,106,,99,,95,
+19,Bolivia (Plurinational State of),71,Rye,5525,Seed,tonnes,30,Fc,31,Fc,42,Fc,42,Fc,43,Fc,43,Fc,44,Fc,44,Fc,11,Fc,12,Fc,11,Fc,11,Fc,11,Fc,11,Fc,,
+19,Bolivia (Plurinational State of),328,Seed cotton,5312,Area harvested,ha,90000,*,80000,*,80000,F,80000,F,80000,F,110500,F,111000,F,114800,F,102300,F,118900,F,121000,F,125000,F,126000,F,126000,F,126000,F
+19,Bolivia (Plurinational State of),328,Seed cotton,5419,Yield,hg/ha,5000,Fc,10000,Fc,10442,Fc,10349,Fc,10504,Fc,9916,Fc,9702,Fc,9504,Fc,9311,Fc,8806,Fc,8843,Fc,8800,Fc,9127,Fc,9206,Fc,9286,Fc
+19,Bolivia (Plurinational State of),328,Seed cotton,5510,Production,tonnes,45000,*,80000,*,83535,Im,82791,Im,84034,Im,109569,Im,107691,Im,109106,Im,95253,Im,104700,F,107000,F,110000,F,115000,F,116000,F,117000,F
+19,Bolivia (Plurinational State of),289,Sesame seed,5312,Area harvested,ha,3899,Im,500,,2000,,11000,,31000,,40000,,45000,,32000,,12821,,25000,,25000,,24000,,25142,,15000,,15841,Im
+19,Bolivia (Plurinational State of),289,Sesame seed,5419,Yield,hg/ha,9736,Fc,10000,Fc,10000,Fc,8000,Fc,7355,Fc,5000,Fc,5000,Fc,4592,Fc,4360,Fc,6000,Fc,4000,Fc,5000,Fc,5180,Fc,5700,Fc,5075,Fc
+19,Bolivia (Plurinational State of),289,Sesame seed,5510,Production,tonnes,3795,Im,500,,2000,,8800,,22800,,20000,,22500,,14693,,5590,,15000,,10000,,12000,,13024,,8550,,8039,Im
+19,Bolivia (Plurinational State of),83,Sorghum,5312,Area harvested,ha,42743,,42715,,60820,,56740,,63045,,73087,,104000,,120000,,125539,,130032,,83852,,105674,,132417,,464780,,472170,
+19,Bolivia (Plurinational State of),83,Sorghum,5419,Yield,hg/ha,22114,Fc,24487,Fc,28322,Fc,23264,Fc,26215,Fc,27871,Fc,26058,Fc,28024,Fc,32217,Fc,38686,Fc,40356,Fc,34116,Fc,26674,Fc,17663,Fc,26035,Fc
+19,Bolivia (Plurinational State of),83,Sorghum,5510,Production,tonnes,94521,,104597,,172257,,131998,,165275,,203699,,271001,,336292,,404446,,503038,,338397,,360516,,353208,,820921,,1229286,
+19,Bolivia (Plurinational State of),83,Sorghum,5525,Seed,tonnes,427,Fc,608,Fc,567,Fc,630,Fc,731,Fc,1040,Fc,1200,Fc,1255,Fc,1300,Fc,839,Fc,1057,Fc,1442,Fc,1747,Fc,1747,Fc,,
+19,Bolivia (Plurinational State of),236,Soybeans,5312,Area harvested,ha,616964,,615292,,637124,,684213,,803990,,941068,,950118,,958279,,785793,,902218,,1086769,,1177541,,1292826,,1222855,,1265572,
+19,Bolivia (Plurinational State of),236,Soybeans,5419,Yield,hg/ha,19406,Fc,18727,Fc,19564,Fc,23180,Fc,19725,Fc,17991,Fc,17040,Fc,16654,Fc,16031,Fc,20977,Fc,15579,Fc,15804,Fc,20590,Fc,23116,Fc,22742,Fc
+19,Bolivia (Plurinational State of),236,Soybeans,5510,Production,tonnes,1197251,,1152270,,1246495,,1586031,,1585846,,1693087,,1618966,,1595947,,1259676,,1892619,,1693048,,1861038,,2661910,,2826726,,2878179,
+19,Bolivia (Plurinational State of),236,Soybeans,5525,Seed,tonnes,46424,,44469,,52478,,52258,,65000,F,70000,F,67040,,63539,,63539,,63000,F,71700,F,71700,F,71700,F,71700,F,,
+19,Bolivia (Plurinational State of),723,"Spices, nes",5312,Area harvested,ha,66,,68,,69,,70,,71,,72,,73,,74,,75,,76,,2089,Im,3725,Im,6016,Im,6128,Im,6150,Im
+19,Bolivia (Plurinational State of),723,"Spices, nes",5419,Yield,hg/ha,6364,Fc,6471,Fc,6522,Fc,6429,Fc,6479,Fc,6528,Fc,6712,Fc,6757,Fc,6800,Fc,6842,Fc,6032,Fc,5646,Fc,5481,Fc,5499,Fc,5517,Fc
+19,Bolivia (Plurinational State of),723,"Spices, nes",5510,Production,tonnes,42,,44,,45,,45,,46,,47,,49,,50,,51,,52,,1260,Im,2103,Im,3298,,3370,,3393,
+19,Bolivia (Plurinational State of),544,Strawberries,5312,Area harvested,ha,440,,445,,450,,455,,219,,222,,226,,230,,234,,237,,482,Im,687,Im,905,,1034,,1089,
+19,Bolivia (Plurinational State of),544,Strawberries,5419,Yield,hg/ha,40909,Fc,40674,Fc,40333,Fc,39934,Fc,40091,Fc,40541,Fc,40796,Fc,40696,Fc,40855,Fc,41181,Fc,42891,Fc,44380,Fc,46076,Fc,44812,Fc,44585,Fc
+19,Bolivia (Plurinational State of),544,Strawberries,5510,Production,tonnes,1800,,1810,,1815,,1817,,878,,900,,922,,936,,956,,976,,2066,Im,3050,Im,4170,,4635,,4856,
+19,Bolivia (Plurinational State of),156,Sugar cane,5312,Area harvested,ha,83838,,86222,,102325,,105705,,107207,,108309,,115862,,127592,,159950,,156115,,136403,,145905,,158778,,158343,,157957,
+19,Bolivia (Plurinational State of),156,Sugar cane,5419,Yield,hg/ha,429608,Fc,447602,Fc,462751,Fc,465119,Fc,512664,Fc,472003,Fc,535216,Fc,501797,Fc,438212,Fc,499875,Fc,469431,Fc,465649,Fc,484475,Fc,528186,Fc,527502,Fc
+19,Bolivia (Plurinational State of),156,Sugar cane,5510,Production,tonnes,3601748,,3859310,,4735098,,4916541,,5496113,,5112222,,6201125,,6402528,,7009195,,7803800,,6403181,,6794052,,7692399,,8363454,,8332276,
+19,Bolivia (Plurinational State of),267,Sunflower seed,5312,Area harvested,ha,130000,,135000,,178300,,83000,,89000,,98350,,94437,,122880,,175666,,311060,,177702,,188337,,189263,,190700,,95624,
+19,Bolivia (Plurinational State of),267,Sunflower seed,5419,Yield,hg/ha,8500,Fc,11063,Fc,9730,Fc,11084,Fc,8600,Fc,8225,Fc,10693,Fc,15569,Fc,15552,Fc,12673,Fc,13882,Fc,10303,Fc,15171,Fc,8344,Fc,10322,Fc
+19,Bolivia (Plurinational State of),267,Sunflower seed,5510,Production,tonnes,110500,,149350,,173486,,92000,,76540,,80896,,100983,,191317,,273191,,394207,,246683,,194042,,287122,,159121,,98699,
+19,Bolivia (Plurinational State of),267,Sunflower seed,5525,Seed,tonnes,810,Fc,1070,Fc,498,Fc,534,Fc,590,Fc,567,Fc,737,Fc,1054,Fc,1866,Fc,1066,Fc,1130,Fc,1130,Fc,,M,,M,,
+19,Bolivia (Plurinational State of),122,Sweet potatoes,5312,Area harvested,ha,3120,,3100,,3010,,1521,,1538,,1557,,1578,,1589,,1602,,1616,,1321,,1331,,1333,,1349,,1375,
+19,Bolivia (Plurinational State of),122,Sweet potatoes,5419,Yield,hg/ha,47756,Fc,46355,Fc,47841,Fc,44990,Fc,45286,Fc,45478,Fc,45805,Fc,46117,Fc,46429,Fc,46726,Fc,35875,Fc,35886,Fc,36932,Fc,34324,Fc,33656,Fc
+19,Bolivia (Plurinational State of),122,Sweet potatoes,5510,Production,tonnes,14900,,14370,,14400,,6843,,6965,,7081,,7228,,7328,,7438,,7551,,4739,,4778,,4923,,4629,,4627,
+19,Bolivia (Plurinational State of),122,Sweet potatoes,5525,Seed,tonnes,3100,Fc,3010,Fc,1521,Fc,1538,Fc,1557,Fc,1578,Fc,1589,Fc,1602,Fc,1616,Fc,1321,Fc,1331,Fc,1332,Fc,1344,Fc,1344,Fc,,
+19,Bolivia (Plurinational State of),495,"Tangerines, mandarins, clementines, satsumas",5312,Area harvested,ha,5400,,5420,,5426,,3484,,3578,,3691,,3793,,3910,,3960,,16118,,14844,,15079,,16720,,16100,,17583,
+19,Bolivia (Plurinational State of),495,"Tangerines, mandarins, clementines, satsumas",5419,Yield,hg/ha,114815,Fc,114760,Fc,106108,Fc,96472,Fc,96520,Fc,95852,Fc,96259,Fc,96760,Fc,97424,Fc,79003,Fc,82325,Fc,82828,Fc,76608,Fc,76583,Fc,71076,Fc
+19,Bolivia (Plurinational State of),495,"Tangerines, mandarins, clementines, satsumas",5510,Production,tonnes,62000,,62200,,57574,,33611,,34535,,35379,,36511,,37833,,38580,,127337,,122207,,124898,,128089,,123299,,124975,
+19,Bolivia (Plurinational State of),667,Tea,5312,Area harvested,ha,415,,420,,425,,430,,378,,382,,378,,381,,384,,265,,262,,263,,254,,269,,268,
+19,Bolivia (Plurinational State of),667,Tea,5419,Yield,hg/ha,20241,Fc,20000,Fc,20000,Fc,19767,Fc,22407,Fc,22670,Fc,23069,Fc,23333,Fc,23542,Fc,46981,Fc,51118,Fc,51625,Fc,53452,Fc,49736,Fc,50737,Fc
+19,Bolivia (Plurinational State of),667,Tea,5510,Production,tonnes,840,*,840,*,850,*,850,*,847,,866,,872,,889,,904,*,1245,,1339,,1356,,1358,,1339,,1358,
+19,Bolivia (Plurinational State of),826,"Tobacco, unmanufactured",5312,Area harvested,ha,1060,,1062,,1062,,788,,818,,850,,852,,879,,899,,916,,1031,,1041,,1078,,1028,,1013,
+19,Bolivia (Plurinational State of),826,"Tobacco, unmanufactured",5419,Yield,hg/ha,9198,Fc,9209,Fc,9228,Fc,13020,Fc,13289,Fc,13659,Fc,13732,Fc,14152,Fc,14116,Fc,14017,Fc,8024,Fc,7918,Fc,7494,Fc,7908,Fc,8149,Fc
+19,Bolivia (Plurinational State of),826,"Tobacco, unmanufactured",5510,Production,tonnes,975,,978,,980,,1026,,1087,,1161,,1170,,1244,,1269,,1284,,828,,825,,808,,813,,826,
+19,Bolivia (Plurinational State of),388,Tomatoes,5312,Area harvested,ha,7385,,7710,,8249,,8556,,8856,,9068,,9117,,9299,,9417,,5181,,6077,,6368,,5086,,5035,,5434,
+19,Bolivia (Plurinational State of),388,Tomatoes,5419,Yield,hg/ha,132333,Fc,132712,Fc,136774,Fc,137463,Fc,137896,Fc,140801,Fc,138439,Fc,133700,Fc,130282,Fc,102432,Fc,104031,Fc,103371,Fc,102162,Fc,103853,Fc,100346,Fc
+19,Bolivia (Plurinational State of),388,Tomatoes,5510,Production,tonnes,97728,,102321,,112825,,117613,,122121,,127678,,126215,,124328,,122687,,53070,,63214,,65829,,51960,,52292,,54526,
+19,Bolivia (Plurinational State of),463,"Vegetables, fresh nes",5312,Area harvested,ha,4853,Im,4800,F,4850,F,4696,Im,4882,Im,4900,F,4857,Im,5000,F,4718,Im,4273,Im,3932,Im,2951,,866,,868,,846,
+19,Bolivia (Plurinational State of),463,"Vegetables, fresh nes",5419,Yield,hg/ha,50669,Fc,51042,Fc,51546,Fc,51103,Fc,51205,Fc,52041,Fc,50653,Fc,50000,Fc,49281,Fc,48635,Fc,47262,Fc,46028,Fc,48178,Fc,49189,Fc,50994,Fc
+19,Bolivia (Plurinational State of),463,"Vegetables, fresh nes",5510,Production,tonnes,24587,Im,24500,F,25000,F,24000,F,25000,F,25500,F,24600,F,25000,F,23251,Im,20780,Im,18581,Im,13585,,4172,,4268,,4314,
+19,Bolivia (Plurinational State of),420,"Vegetables, leguminous nes",5312,Area harvested,ha,28903,,28887,,29479,,29656,,29902,,30292,,30558,,30783,,31032,,34287,,34080,,34769,,36553,,35286,,37504,
+19,Bolivia (Plurinational State of),420,"Vegetables, leguminous nes",5419,Yield,hg/ha,16790,Fc,16942,Fc,17340,Fc,17543,Fc,18002,Fc,18177,Fc,17924,Fc,17799,Fc,17602,Fc,16747,Fc,17161,Fc,17200,Fc,15589,Fc,16398,Fc,15522,Fc
+19,Bolivia (Plurinational State of),420,"Vegetables, leguminous nes",5510,Production,tonnes,48528,,48941,,51118,,52025,,53830,,55062,,54771,,54792,,54622,,57419,,58484,,59803,,56984,,57863,,58215,
+19,Bolivia (Plurinational State of),567,Watermelons,5312,Area harvested,ha,2250,,2255,,2265,,2268,,1800,F,1300,F,850,F,549,,553,,1242,,1318,,1359,,1269,,1267,,1265,
+19,Bolivia (Plurinational State of),567,Watermelons,5419,Yield,hg/ha,100444,Fc,100266,Fc,99845,Fc,99700,Fc,100000,Fc,92308,Fc,94118,Fc,91239,Fc,92893,Fc,124187,Fc,132671,Fc,135650,Fc,151763,Fc,151174,Fc,159014,Fc
+19,Bolivia (Plurinational State of),567,Watermelons,5510,Production,tonnes,22600,,22610,,22615,,22612,,18000,F,12000,F,8000,F,5009,,5137,,15424,,17480,,18437,,19259,,19159,,20111,
+19,Bolivia (Plurinational State of),15,Wheat,5312,Area harvested,ha,119538,,113916,,134579,,114324,,108797,,122149,,129290,,181428,,154658,,156670,,173412,,187985,,158019,,186919,,228123,
+19,Bolivia (Plurinational State of),15,Wheat,5419,Yield,hg/ha,8492,Fc,9890,Fc,8850,Fc,9878,Fc,10665,Fc,10741,Fc,11113,Fc,9210,Fc,12931,Fc,12862,Fc,13920,Fc,9731,Fc,9186,Fc,11167,Fc,16571,Fc
+19,Bolivia (Plurinational State of),15,Wheat,5510,Production,tonnes,101510,,112659,,119102,,112930,,116037,,131198,,143677,,167095,,199990,,201508,,241397,,182927,,145151,,208735,,378029,
+19,Bolivia (Plurinational State of),15,Wheat,5525,Seed,tonnes,10574,,9943,,11888,,9346,,10500,F,11000,F,10079,,12700,,12700,,13000,F,13000,F,13000,F,13000,F,13000,F,,
+19,Bolivia (Plurinational State of),1817,Cereals (Rice Milled Eqv),5312,Area harvested,ha,757846,A,742201,A,768249,A,744911,A,775942,A,861350,A,888530,A,983097,A,1018121,A,1014013,A,941043,A,972000,A,1005820,A,1457127,A,1543979,A
+19,Bolivia (Plurinational State of),1817,Cereals (Rice Milled Eqv),5419,Yield,hg/ha,15105,Fc,16358,Fc,16000,Fc,17741,Fc,14765,Fc,17417,Fc,19327,Fc,16440,Fc,19059,Fc,22111,Fc,21109,Fc,18986,Fc,19561,Fc,16167,Fc,19582,Fc
+19,Bolivia (Plurinational State of),1817,Cereals (Rice Milled Eqv),5510,Production,tonnes,1144723,A,1214079,A,1229161,A,1321550,A,1145650,A,1500206,A,1717295,A,1616215,A,1940485,A,2242058,A,1986479,A,1845480,A,1967480,A,2355755,A,3023405,A
+19,Bolivia (Plurinational State of),1817,Cereals (Rice Milled Eqv),5525,Seed,tonnes,38321,A,37285,A,38396,A,36174,A,39935,A,43901,A,56156,A,57570,A,61182,A,57358,A,55608,A,56074,A,55867,A,56367,A,,
+19,Bolivia (Plurinational State of),1717,"Cereals,Total",5312,Area harvested,ha,757846,A,742201,A,768249,A,744911,A,775942,A,861350,A,888530,A,983097,A,1018121,A,1014013,A,941043,A,972000,A,1005820,A,1457127,A,1543979,A
+19,Bolivia (Plurinational State of),1717,"Cereals,Total",5419,Yield,hg/ha,16419,Fc,17849,Fc,17124,Fc,19633,Fc,16187,Fc,19270,Fc,21001,Fc,17633,Fc,20164,Fc,23460,Fc,22673,Fc,20453,Fc,21132,Fc,17179,Fc,20538,Fc
+19,Bolivia (Plurinational State of),1717,"Cereals,Total",5510,Production,tonnes,1244317,A,1324781,A,1315559,A,1462502,A,1255985,A,1659795,A,1865967,A,1733466,A,2052972,A,2378919,A,2133671,A,1988007,A,2125543,A,2503245,A,3171019,A
+19,Bolivia (Plurinational State of),1717,"Cereals,Total",5525,Seed,tonnes,38321,A,37285,A,38396,A,36174,A,39935,A,43901,A,56156,A,57570,A,61182,A,57358,A,55608,A,56074,A,55867,A,56367,A,,
+19,Bolivia (Plurinational State of),1804,"Citrus Fruit,Total",5312,Area harvested,ha,28590,A,28645,A,28673,A,22789,A,17452,A,17807,A,18117,A,18436,A,18607,A,43408,A,42407,A,42955,A,46252,A,44322,A,46646,A
+19,Bolivia (Plurinational State of),1804,"Citrus Fruit,Total",5419,Yield,hg/ha,92602,Fc,92742,Fc,89058,Fc,92736,Fc,88498,Fc,88534,Fc,89309,Fc,89807,Fc,90607,Fc,73587,Fc,75392,Fc,75416,Fc,71403,Fc,72755,Fc,70460,Fc
+19,Bolivia (Plurinational State of),1804,"Citrus Fruit,Total",5510,Production,tonnes,264750,A,265660,A,255355,A,211337,A,154446,A,157652,A,161801,A,165568,A,168593,A,319428,A,319714,A,323952,A,330253,A,322466,A,328665,A
+19,Bolivia (Plurinational State of),1814,"Coarse Grain, Total",5312,Area harvested,ha,481996,A,482177,A,503786,A,489412,A,514952,A,550819,A,590841,A,631664,A,708062,A,670539,A,573394,A,605742,A,690299,A,1103909,A,1132685,A
+19,Bolivia (Plurinational State of),1814,"Coarse Grain, Total",5419,Yield,hg/ha,17505,Fc,18244,Fc,18599,Fc,18927,Fc,15703,Fc,19051,Fc,21593,Fc,19223,Fc,21399,Fc,26343,Fc,25292,Fc,22734,Fc,21813,Fc,16773,Fc,20745,Fc
+19,Bolivia (Plurinational State of),1814,"Coarse Grain, Total",5510,Production,tonnes,843724,A,879685,A,937005,A,926294,A,808612,A,1049351,A,1275828,A,1214267,A,1515182,A,1766417,A,1450257,A,1377073,A,1505728,A,1851598,A,2349704,A
+19,Bolivia (Plurinational State of),1814,"Coarse Grain, Total",5525,Seed,tonnes,20333,A,20476,A,20545,A,20274,A,20935,A,25301,A,27971,A,26334,A,31739,A,26358,A,27608,A,28074,A,27867,A,28367,A,,
+19,Bolivia (Plurinational State of),1753,Fibre Crops Primary,5312,Area harvested,ha,90000,A,80000,A,80000,A,80000,A,80000,A,110500,A,111000,A,114800,A,102300,A,118900,A,121000,A,125000,A,126000,A,126000,A,126000,A
+19,Bolivia (Plurinational State of),1753,Fibre Crops Primary,5419,Yield,hg/ha,1611,Fc,3200,Fc,2257,Fc,2426,Fc,3200,Fc,2317,Fc,2306,Fc,2230,Fc,2502,Fc,2380,Fc,2397,Fc,2328,Fc,2254,Fc,2302,Fc,2508,Fc
+19,Bolivia (Plurinational State of),1753,Fibre Crops Primary,5510,Production,tonnes,14500,A,25600,A,18056,A,19411,A,25600,A,25600,A,25600,A,25600,A,25600,A,28300,A,29000,A,29100,A,28400,A,29000,A,31600,A
+19,Bolivia (Plurinational State of),1801,"Fruit excl Melons,Total",5312,Area harvested,ha,107314,A,112115,A,113690,A,105310,A,93995,A,94458,A,94271,A,95761,A,97126,A,116990,A,116853,A,118949,A,124921,A,124699,A,128490,A
+19,Bolivia (Plurinational State of),1801,"Fruit excl Melons,Total",5419,Yield,hg/ha,93091,Fc,90953,Fc,90776,Fc,92712,Fc,92722,Fc,93620,Fc,93959,Fc,93612,Fc,93784,Fc,80975,Fc,83263,Fc,83705,Fc,81360,Fc,80050,Fc,80229,Fc
+19,Bolivia (Plurinational State of),1801,"Fruit excl Melons,Total",5510,Production,tonnes,998992,A,1019717,A,1032035,A,976354,A,871538,A,884317,A,885757,A,896438,A,910882,A,947324,A,972946,A,995671,A,1016363,A,998208,A,1030855,A
+19,Bolivia (Plurinational State of),1841,Oilcakes Equivalent,5312,Area harvested,ha,852045,A,841732,A,908618,A,869525,A,1015696,A,1201833,A,1212485,A,1239957,A,1088622,A,1369835,A,1422573,A,1527168,A,1646636,A,1566738,A,1516102,A
+19,Bolivia (Plurinational State of),1841,Oilcakes Equivalent,5419,Yield,hg/ha,11951,Fc,11997,Fc,12093,Fc,15378,Fc,13162,Fc,11853,Fc,11346,Fc,11267,Fc,10660,Fc,12594,Fc,10517,Fc,10517,Fc,13883,Fc,15034,Fc,15611,Fc
+19,Bolivia (Plurinational State of),1841,Oilcakes Equivalent,5510,Production,tonnes,1018298,A,1009863,A,1098810,A,1337179,A,1336871,A,1424485,A,1375632,A,1397053,A,1160444,A,1725194,A,1496159,A,1606092,A,2286054,A,2355362,A,2366828,A
+19,Bolivia (Plurinational State of),1841,Oilcakes Equivalent,5525,Seed,tonnes,38450,A,37036,A,43099,A,42955,A,53444,A,57390,A,55182,A,52407,A,53022,A,52232,A,59188,A,59201,A,58676,A,58676,A,,
+19,Bolivia (Plurinational State of),1732,Oilcrops Primary,5312,Area harvested,ha,852045,A,841732,A,908618,A,869525,A,1015696,A,1201833,A,1212485,A,1239957,A,1088622,A,1369835,A,1422573,A,1527168,A,1646636,A,1566738,A,1516102,A
+19,Bolivia (Plurinational State of),1732,Oilcrops Primary,5419,Yield,hg/ha,3176,Fc,3329,Fc,3396,Fc,3919,Fc,3353,Fc,3006,Fc,2943,Fc,3119,Fc,3255,Fc,3816,Fc,2983,Fc,2843,Fc,3756,Fc,3797,Fc,3817,Fc
+19,Bolivia (Plurinational State of),1732,Oilcrops Primary,5510,Production,tonnes,270575,A,280200,A,308543,A,340804,A,340557,A,361244,A,356892,A,386727,A,354325,A,522792,A,424304,A,434126,A,618529,A,594882,A,578626,A
+19,Bolivia (Plurinational State of),1732,Oilcrops Primary,5525,Seed,tonnes,9304,A,9065,A,10276,A,10261,A,12706,A,13598,A,13153,A,12603,A,13020,A,12589,A,14201,A,14205,A,13747,A,13747,A,,
+19,Bolivia (Plurinational State of),1726,"Pulses,Total",5312,Area harvested,ha,31134,A,30750,A,35891,A,44814,A,46707,A,45742,A,45162,A,47449,A,43634,A,47142,A,75739,A,58894,A,79773,A,93876,A,86549,A
+19,Bolivia (Plurinational State of),1726,"Pulses,Total",5419,Yield,hg/ha,10479,Fc,10459,Fc,10610,Fc,12067,Fc,10859,Fc,11765,Fc,12174,Fc,12257,Fc,12596,Fc,12044,Fc,12506,Fc,17029,Fc,9697,Fc,10155,Fc,9934,Fc
+19,Bolivia (Plurinational State of),1726,"Pulses,Total",5510,Production,tonnes,32626,A,32161,A,38080,A,54075,A,50717,A,53818,A,54980,A,58161,A,54962,A,56778,A,94715,A,100288,A,77357,A,95332,A,85980,A
+19,Bolivia (Plurinational State of),1726,"Pulses,Total",5525,Seed,tonnes,2868,A,3342,A,3955,A,4043,A,3972,A,3949,A,4137,A,3860,A,4140,A,6144,A,4954,A,5773,A,6261,A,6261,A,,
+19,Bolivia (Plurinational State of),1720,"Roots and Tubers,Total",5312,Area harvested,ha,182779,A,181072,A,184504,A,184542,A,184808,A,187304,A,186975,A,190688,A,192353,A,229185,A,225681,A,229765,A,237487,A,237655,A,246090,A
+19,Bolivia (Plurinational State of),1720,"Roots and Tubers,Total",5419,Yield,hg/ha,62650,Fc,61899,Fc,62440,Fc,63083,Fc,63168,Fc,63512,Fc,62903,Fc,60551,Fc,60762,Fc,55180,Fc,58671,Fc,59048,Fc,54972,Fc,57033,Fc,55748,Fc
+19,Bolivia (Plurinational State of),1720,"Roots and Tubers,Total",5510,Production,tonnes,1145107,A,1120825,A,1152035,A,1164148,A,1167391,A,1189600,A,1176132,A,1154641,A,1168766,A,1264638,A,1324089,A,1356720,A,1305524,A,1355408,A,1371905,A
+19,Bolivia (Plurinational State of),1720,"Roots and Tubers,Total",5525,Seed,tonnes,200768,A,193694,A,192326,A,190648,A,192057,A,191078,A,193289,A,193402,A,252416,A,249121,A,252131,A,260132,A,266144,A,268144,A,,
+19,Bolivia (Plurinational State of),1729,"Treenuts,Total",5312,Area harvested,ha,25000,A,30000,A,33000,A,36000,A,38000,A,42000,A,40000,A,40599,A,41193,A,39346,A,43061,A,44245,A,41649,A,52558,A,53390,A
+19,Bolivia (Plurinational State of),1729,"Treenuts,Total",5419,Yield,hg/ha,28160,Fc,26000,Fc,25310,Fc,24583,Fc,24410,Fc,23208,Fc,24000,Fc,24155,Fc,24441,Fc,25416,Fc,24551,Fc,24393,Fc,25630,Fc,23504,Fc,23486,Fc
+19,Bolivia (Plurinational State of),1729,"Treenuts,Total",5510,Production,tonnes,70400,A,78000,A,83523,A,88500,A,92758,A,97472,A,96000,A,98067,A,100678,A,100000,A,105718,A,107928,A,106744,A,123535,A,125390,A
+19,Bolivia (Plurinational State of),1735,Vegetables Primary,5312,Area harvested,ha,107624,A,106584,A,106395,A,102525,A,103724,A,105407,A,92865,A,93561,A,93895,A,91576,A,90844,A,92624,A,91373,A,88924,A,91771,A
+19,Bolivia (Plurinational State of),1735,Vegetables Primary,5419,Yield,hg/ha,46867,Fc,47429,Fc,48441,Fc,45534,Fc,45669,Fc,45581,Fc,40998,Fc,40322,Fc,39973,Fc,38320,Fc,39009,Fc,39235,Fc,39391,Fc,38843,Fc,38358,Fc
+19,Bolivia (Plurinational State of),1735,Vegetables Primary,5510,Production,tonnes,504395,A,505515,A,515387,A,466842,A,473701,A,480454,A,380722,A,377261,A,375323,A,350916,A,354377,A,363412,A,359932,A,345409,A,352014,A
+19,Bolivia (Plurinational State of),1800,"Vegetables&Melons, Total",5312,Area harvested,ha,107624,A,106584,A,106395,A,102525,A,103724,A,105407,A,92865,A,93561,A,93895,A,91576,A,90844,A,92624,A,91373,A,88924,A,91771,A
+19,Bolivia (Plurinational State of),1800,"Vegetables&Melons, Total",5419,Yield,hg/ha,46867,Fc,47429,Fc,48441,Fc,45534,Fc,45669,Fc,45581,Fc,40998,Fc,40322,Fc,39973,Fc,38320,Fc,39009,Fc,39235,Fc,39391,Fc,38843,Fc,38358,Fc
+19,Bolivia (Plurinational State of),1800,"Vegetables&Melons, Total",5510,Production,tonnes,504395,A,505515,A,515387,A,466842,A,473701,A,480454,A,380722,A,377261,A,375323,A,350916,A,354377,A,363412,A,359932,A,345409,A,352014,A
