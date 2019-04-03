@@ -2,24 +2,8 @@
 
 ### COE 332 Project ###
 
-This is the repository for our COE 332 final project. Here we will be creating an API for a data set and writing up ways it can be used by the customer.
+This is the repository for our COE 332 final project. Here we will be creating an API for a data set on production of crops in the Americas.
 
-### How do I get set up? ###
+The members of this group project are Amanda Fries and Trevor Roberts.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+More information to come later once we actually get in to working on this project.
