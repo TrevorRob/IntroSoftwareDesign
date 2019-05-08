@@ -1,0 +1,28 @@
+#define services as containers
+version: '3'
+services:
+  flask:
+    build: .
+    ports:
+      - "5000:5000"
+
+    networks:
+      - redis-net
+  redis:
+    image: "redis:alpine"
+    command: [ "redis-server", "--appendonly", "yes" ]
+    hostname: redis
+    networks:
+      - redis-net
+    ports:
+      - "6379:6379"
+       
+  worker:      
+    build: .
+    networks:
+      - redis-net
+
+
+networks:
+  redis-net:
+
