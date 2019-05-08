@@ -5,9 +5,14 @@ services:
     build: .
     ports:
       - "5000:5000"
-
+    enviornments:
+      - 'REDIS_IP=172.17.0.1'
+      - 'REDIS_PORT=6379'
     networks:
       - redis-net
+    depends_on:
+      - redis
+
   redis:
     image: "redis:alpine"
     command: [ "redis-server", "--appendonly", "yes" ]
@@ -19,6 +24,9 @@ services:
        
   worker:      
     build: .
+    enviornment:
+      - 'REDIS_IP=172.17.0.1'
+      - 'REDIS_PORT=6379'
     networks:
       - redis-net
 
