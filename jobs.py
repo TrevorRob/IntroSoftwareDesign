@@ -1,3 +1,9 @@
+import json, uuid, redis, Queue
+from hotqueue import HotQueue
+
+q = HotQueue("queue", host='172,17.0.1', port=6379, db=1)
+
+
 #job.py
 def generate_jid():
     return str(uuid.uuid4())
@@ -20,18 +26,24 @@ def instantiate_job(jid, status, start, end):
 
 def save_job(job_key, job_dict):
 #    """Save a job object in the Redis database."""
-#    rd.hmset(.......)
+    rd.hmset(job_key, json.dumps(job_dict))
+        #the json.dumps might not be necessary
+        #also what do we return here???
 
-def queue_job(jid):
+def queue_job(jid, job_dict):
 #    """Add a job to the redis queue."""
-#    ....
+    q.put(jid)
+    job_dict['status']='pending'
+    #what to return here??
+
 
 def add_job(start, end, status="submitted"):
-    """Add a job to the redis queue."""
+#    """Add a job to the redis queue."""
     jid = generate_jid()
     job_dict = instantiate_job(jid, status, start, end)
-    save_job(......)
-    queue_job(......)
+    job_key = generate_job_key(jid)
+    save_job(job_key, job_dict)
+    queue_job(jid, job_dict)
     return job_dict
 
 def update_job_status(jid, status):
