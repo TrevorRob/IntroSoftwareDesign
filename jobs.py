@@ -1,8 +1,11 @@
 import json, uuid, redis, Queue
 from hotqueue import HotQueue
 
+rd.redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
+
 q = HotQueue("queue", host='172,17.0.1', port=6379, db=1)
 
+jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
 
 #job.py
 def generate_jid():
@@ -26,7 +29,7 @@ def instantiate_job(jid, status, start, end):
 
 def save_job(job_key, job_dict):
 #    """Save a job object in the Redis database."""
-    rd.hmset(job_key, json.dumps(job_dict))
+    jl.hmset(job_key, json.dumps(job_dict))
         #the json.dumps might not be necessary
         #also what do we return here???
 
