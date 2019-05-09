@@ -1,5 +1,12 @@
+import os
 import json, uuid, redis, Queue
+import datetime
+from datetime import timedelta
 from hotqueue import HotQueue
+
+#def get_redis_ip():
+    #return os.environ.get('REDIS_IP')
+    #host=get_redis_ip()
 
 rd.redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
 
@@ -10,6 +17,11 @@ jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
 #job.py
 def generate_jid():
     return str(uuid.uuid4())
+
+def current_time():
+    d = timedelta(hours = -6)
+    tz = datetime.timezone(d)
+    return str(datetime.datetime.now(tz))
 
 def generate_job_key(jid):
     return 'job.{}'.format(jid)
