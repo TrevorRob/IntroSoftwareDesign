@@ -4,9 +4,16 @@ import uuid
 import datetime
 import pandas as pd
 
+#Flask app
 app = Flask(__name__)
 
-#crops = pd.read_csv('Production_Crops_E_Americas_manageable.csv', encoding='latin-1')
+data = json.load(open('crops_DS.json','r'))
+
+@app.route('/', methods=['POST'])
+    # takes stuff from the url in the curl and puts it into a json (new_job) and puts the jobID in the queue
+
+def generate_jobID():
+    return str(uuid.uuid4())
 
 @app.route('/jobs', methods=['POST'])
 def jobs_api():
