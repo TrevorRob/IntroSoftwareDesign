@@ -25,7 +25,14 @@ def instantiate_job(jid, status, start, end):
             'status': status.decode('utf-8'),
             'start': start.decode('utf-8'),
             'end': end.decode('utf-8')
-    }
+
+        }
+
+def convert_job_fields(key):
+    return { 'id': jl.hget(key, 'id').decode('utf-8'),
+             'status': jl.hget(key, 'status').decode('utf-8'),
+             'start': jl.hget(key, 'start').decode('utf-8'),
+             'end': jl.hget(key, 'end').decode('utf-8')
 
 def save_job(job_key, job_dict):
 #    """Save a job object in the Redis database."""
