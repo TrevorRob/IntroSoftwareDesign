@@ -51,7 +51,7 @@ def add_job(start, end, status="submitted"):
 
 def update_job_status(jid, status):
     """Update the status of job with job id `jid` to status `status`."""
-    jid, status, start, end = rd.hmget(generate_job_key(jid), 'id', 'status', 'start', 'end')
+    jid, status, start, end = jl.hmget(generate_job_key(jid), 'id', 'status', 'start', 'end')
     job = _instantiate_job(jid, status, start, end)
     if job:
         job['status'] = status

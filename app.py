@@ -6,6 +6,7 @@ import datetime
 #Flask app
 app = Flask(__name__)
 
+#<<<<<<< HEAD
 #data from json file
 data = json.load(open('crops_DS.json','r'))
 
@@ -14,17 +15,15 @@ data = json.load(open('crops_DS.json','r'))
 
 def generate_jobID():
     return str(uuid.uuid4())
+#=======
+@app.route('/jobs', methods=['POST'])
+def jobs_api():
+    try:
+        job = request.get_json(force=True)
+    except Exception as e:
+        return True, json.dumps({'status': "Error", 'message':'Invalid JSON: {}.', format(e)})
+    return json.dumps(jobs.add_job(job['start', job['end']))
 
-def generate_job_key(jobID):
-    return 'job.{}'.format(jobID)
 
-# status = [ 'pending', 'in progress', 'complete' ]
-
-def new_job(jobID, CMD, pm):
-    time = str(datetime.datetime.now())
-    return {'id': jobID,
-            'status': 'new',
-            'time': time,
-            'command': CMD,
-            'parameters': pm }
+    # takes stuff from the url in the curl and puts it into a json (new_job) and puts the jobID in the queue
     
