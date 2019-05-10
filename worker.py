@@ -2,6 +2,9 @@ import redis
 import json
 import hotqueue
 from hotqueue import HotQueue
+import pandas
+
+#worker
 
 rd = redis.StrictRedis(host='172,17.0.1', port=6379, db=0)
 
