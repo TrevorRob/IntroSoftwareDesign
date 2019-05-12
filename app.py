@@ -59,7 +59,6 @@ def get_job_info(jid):
     timeL = []
     for key in jl:
         if key['id'] == jid:
-
             time = key['time stamp']
             timeL.append(time)
     recent = max(timeL)
