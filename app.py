@@ -1,4 +1,5 @@
 from flask import Flask, jsonify, request, abort
+import csv
 import json
 import uuid
 import datetime
@@ -7,14 +8,28 @@ import pandas as pd
 #Flask app
 app = Flask(__name__)
 
-#rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
+rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
 
 jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
 
 #data = json.load(open('crops_DS.json','r'))
+csvfile = open('sunspots.csv', 'r')
+jsonfile = open('file.json', 'w')
 
+fieldnames = ("Year","Daily Mean of Sunspots")
+reader = csv.DictReader(csvile,fieldnames)
+out = json.dumps( [row for row in reader] )
+jsonfile.write(out)
+data= jsonfile
+
+print(jsonfile)
 def put_job_in_log(param, cmd):
     jobs.add_job(param, cmd)
+
+#returns all the data
+@app.route('/')
+def sunspots():
+    return jsonify(data)
 
 #i think the methods on all of these may need to be 'PUT' instead
 
@@ -44,7 +59,8 @@ def jobs_api():
     except Exception as e:
         return True, json.dumps({'status': "Error", 'message':'Invalid JSON: {}.', format(e)})
     return json.dumps(jobs.add_job(job['start', job['end']))
-#im not exactly sure what this is for and we may need to change it to at least fit the rest of the routes
+            
+            #im not exactly sure what this is for and we may need to change it to at least fit the rest of the routes
 # takes stuff from the url in the curl and puts it into a json (new_job) and puts the jobID in the queue
 
 @app.route('/plot/<str:kind>', methods=['GET'])
