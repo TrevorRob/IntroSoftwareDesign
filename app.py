@@ -28,9 +28,7 @@ def data_function():
     )
     columns = (0,1) if len(sys.argv) < 4 else (int(x) for x in sys.argv([2:4])
     data = read_csv_data(sys.argv[1], *columns)
-    return (json.dumps(store_data(rd, data)))
-
-data = data_function()
+#    return (json.dumps(store_data(rd, data)))
 
 def put_job_in_log(param, cmd):
     jobs.add_job(param, cmd)
@@ -38,7 +36,7 @@ def put_job_in_log(param, cmd):
 #returns all the data
 @app.route('/')
 def sunspots():
-    return jsonify(data)
+    return jsonify(rd)
 
 #i think the methods on all of these may need to be 'PUT' instead
 
@@ -47,7 +45,7 @@ def get_year_spots(year):
 #     param = {'year': year}
 #    cmd = "get_year()"
 #    put_job_in_log(param, cmd)
-    return jsonify(data['Year'][year])
+    return jsonify(rd.hget(year))
 
 @app.route('/max', methods=['GET'])
 def get_max_spots():
@@ -55,8 +53,8 @@ def get_max_spots():
 #    cmd = "get_max()"
 #    put_job_in_log(param, cmd)
     mean = []
-    for year in data:
-        mean.append(data['Mean Daily Sunspots'])
+    for year in rd:
+        mean.append(rd.hget())
     return max(mean)
 
 
