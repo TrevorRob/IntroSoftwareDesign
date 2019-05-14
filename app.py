@@ -36,20 +36,24 @@ def post_year():
     param = request_data
     cmd = "post_new_data"
     put_job_in_log(param,cmd)
+    jobID = put_job_in_log(param, cmd)
+    return jobID
 
 
 @app.route('/year/<int:year>', methods=['GET'])
 def get_year_spots(year):
     param = {'year': year}
     cmd = "year_spots"
-    put_job_in_log(param, cmd)
+    jobID = put_job_in_log(param, cmd)
+    return jobID
 #    return jsonify(rd.hget(year))
 
 @app.route('/max', methods=['GET'])
 def get_max_spots():
     param = "want year of max sunspots"
     cmd = "max"
-    put_job_in_log(param, cmd)
+    jobID = put_job_in_log(param, cmd)
+    return jobID
 #    mean = []
 #    for year in rd:
 #        mean.append(rd.hget())
@@ -60,8 +64,8 @@ def get_max_spots():
 def get_min_spots():
     param = "want year of min sunspots"
     cmd = "min"
-    put_job_in_log(param, cmd)
-
+    jobID = put_job_in_log(param, cmd)
+    return jobID
 #@app.route('/jobs', methods=['POST'])
 #def jobs_api():
 #    try:
@@ -77,7 +81,8 @@ def get_min_spots():
 def make_plot_years_spots(kind):
     param = {"type of plot": kind}
     cmd = "plot"
-    put_job_in_log(param, cmd)
+    jobID = put_job_in_log(param, cmd)
+    return jobID
 #an enpoint that makes a plot of the data
 
 @app.route('/job_id/<string:jid>', methods=['GET'])
