@@ -12,7 +12,7 @@ rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
 
 q = HotQueue("queue", host='172,17.0.1', port=6379, db=1)
 
-jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
+jl = redis.StrictRedis(host='172.17.0.1', port=6379, db=2)
 
 #job.py
 def generate_jid():
@@ -48,7 +48,7 @@ def convert_job_fields(key):
              'status': jl.hget(key, 'status').decode('utf-8'),
              'time stamp': jl.hget(key, 'time stamp').decode('utf-8'),
              'parameters': jl.hget(key, 'parameters').decode('utf-8'),
-             'command': jl.hget(key, 'command').decode('utf-8')
+             'command': jl.hget(key, 'command').decode('utf-8') }
 
 def save_job(job_key, job_dict):
 #    """Save a job object in the Redis database."""

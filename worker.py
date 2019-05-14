@@ -6,6 +6,8 @@ from hotqueue import HotQueue
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from jobs import update_job_status, current_time, generate_job_key, save_job 
+from app import get_job_info,
 
 #worker
 
@@ -13,10 +15,10 @@ rd = redis.StrictRedis(host='172,17.0.1', port=6379, db=0)
 
 q = HotQueue("queue", host='172.17.0.1', port=6379, db=1)
 
-jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
+jl = redis.StrictRedis(host='172.17.0.1', port=6379, db=2)
 
 daily_spots = pd.read_csv('sunspots.csv')
-daily_spots = ['Year', 'Mean Daily Spots']
+daily_spots.columns = ['Year', 'Mean Daily Spots']
 daily_spots = daily_spots.set_index('Year')
 
 @q.worker

@@ -2,16 +2,18 @@ from flask import Flask, jsonify, request, abort
 import csv, json, uuid, datetime
 import sys
 import pandas as pd
+import redis
+from jobs import add_job 
 
 #Flask app
-app = Flask(__app__)
+app = Flask(__name__)
 
 rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
 
-jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
+jl = redis.StrictRedis(host='172.17.0.1', port=6379, db=2)
 
 def put_job_in_log(param, cmd):
-    jobs.add_job(param, cmd)
+    add_job(param, cmd)
 
 #returns all the data
 @app.route('/')
@@ -55,25 +57,25 @@ def get_min_spots():
     cmd = "min"
     put_job_in_log(param, cmd)
 
-@app.route('/jobs', methods=['POST'])
-def jobs_api():
-    try:
-        job = request.get_json(force=True)
-    except Exception as e:
-        return True, json.dumps({'status': "Error", 'message':'Invalid JSON: {}.', format(e)})
-    return json.dumps(jobs.add_job(job['start'], job['end']))
+#@app.route('/jobs', methods=['POST'])
+#def jobs_api():
+#    try:
+#        job = request.get_json(force=True)
+#    except Exception as e:
+#        return True, json.dumps({'status': "Error", 'message':'Invalid JSON: {}.', format(e)})
+#    return json.dumps(jobs.add_job(job['start'], job['end']))
             
             #im not exactly sure what this is for and we may need to change it to at least fit the rest of the routes
 # takes stuff from the url in the curl and puts it into a json (new_job) and puts the jobID in the queue
 
-@app.route('/plot/<str:kind>', methods=['GET'])
+@app.route('/plot/<string:kind>', methods=['GET'])
 def make_plot_years_spots(kind):
     param = {"type of plot": kind}
     cmd = "plot"
     put_job_in_log(param, cmd)
 #an enpoint that makes a plot of the data
 
-@app.route('/job_id/<str:jid>', methods=['GET'])
+@app.route('/job_id/<string:jid>', methods=['GET'])
 def get_job_info(jid):
     timeL = []
     for key in jl:
