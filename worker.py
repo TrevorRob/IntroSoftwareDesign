@@ -8,17 +8,20 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 import seaborn as sns
+import sys
 
 
 REDIS_IP = os.environ.get('REDIS_IP')
 REDIS_PORT  = os.environ.get('REDIS_PORT')
 #worker
 
-rd = redis.StrictRedis(host='172,17.0.1', port=6379, db=0)
+rd = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=0)
 
-q = HotQueue("queue", host='172.17.0.1', port=6379, db=1)
+q = HotQueue("queue", host=REDIS_IP, port=REDIS_PORT, db=1)
 
-jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
+jl = redis.StrictRedis("job_log", host=REDIS_IP, port=REDIS_PORT, db=2)
+
+plots = redis.StrictRedis("plots", host=REDIS_IP, port=REDIS_PORT, db=3)
 
 daily_spots = pd.read_csv('sunspots.csv')
 daily_spots.columns = ['Year', 'Mean Daily Spots']
@@ -103,7 +106,7 @@ def get_data()
 
 def save_plot_to_redis(key):
     file_bytes = open('/tmp/scatter_plot.png', 'rb').read()
-    #plots.set(key, file_bytes)
+    plots.set(key, file_bytes)
     save_job_result(jid,file_bytes)
 
 def makePlot(jid, plot):
@@ -111,23 +114,33 @@ def makePlot(jid, plot):
 #    y = daily_spots['Mean Daily Spots']
     if plot == "histogram":
         sns.set(rc={'figure.figsize':(11,4)})
-        daily_spots['Mean Daily Sunspots'].plot(kind='hist')
+        ax = daily_spots['Mean Daily Sunspots'].plot(kind='hist',title='Histogram of Mean Daily Sunspots Frequency')
+        ax.set_xlabel("Mean Daily Sunspots")
         plt.savefig('/tmp/histogram.png', dpi=150)
+        file_bytes = open('/tmp/histogram.png', 'rb').read()
+        save_job_result(jid, file_bytes)
+
     if plot == "scatter":
         sns.set(rc={'figure.figsize':(11,4)})
         daily_spots['Mean Daily Sunspots'].plot(marker='.', linestyle='None')
-        plt.set_xlabel("Year")
-        plt.set_ylabel("Mean Daily Sunpots")
+        #plt.set_xlabel("Year")
+        ax.set_ylabel("Mean Daily Sunpots")
         plt.savefig('/tmp/scatter_plot.png', dpi=150)
-        
+        file_bytes = open('/tmp/scatter_plot.png', 'rb').read()
+        save_job_result(jid, file_bytes)
+
     if plot == "line":
         #ax = daily_spots['Mean Daily Spots'].plot()
         #plt.plot(x,y)
         sns.set(rc={'figure.figsize':(11,4)})
         daily_spots['Mean Daily Sunspots'].plot(linewidth=2.0)
-        plt.set_xlabel("Year")
-        plt.set_ylabel("Mean Daily Sunpots")
+        ax.set_ylabel("Mean Daily Sunpots")
         plt.savefig('/tmp/line_plot.png', dpi=150)
+        file_bytes = open('/tmp/line_plot.png', 'rb').read()
+        save_job_result(jid, file_bytes)
+       # plt.set_xlabel("Year")
+       # plt.set_ylabel("Mean Daily Sunpots")
+       # plt.savefig('/tmp/line_plot.png', dpi=150)
         #update_job_status?
     else
         jobs.update_job_status(jid, "failed")
