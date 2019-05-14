@@ -90,7 +90,7 @@ def get_job_info(jid):
     recent = max(timeL)
     for key in jl:
         if key['id'] == id and key['time stamp'] == recent:
-            job_info = json.loads(jl.get(key).decode('utf-8'))
+            job_info = json.loads(jl.hgetall(key).decode('utf-8'))
             #return jsonify(jl.hmget(key))
             return job_info
 #actually i just realized that all of this needs to be in the worker i think because it's just another job that the worker needs to pull off but I'm going to leave it here because I'm not exactly sure if that's right and even if it is I need to leave it so I can reproduce it later
