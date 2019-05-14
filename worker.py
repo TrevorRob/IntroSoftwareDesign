@@ -16,7 +16,7 @@ q = HotQueue("queue", host='172.17.0.1', port=6379, db=1)
 jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
 
 daily_spots = pd.read_csv('sunspots.csv')
-daily_spots = ['Year', 'Mean Daily Spots']
+daily_spots.columns = ['Year', 'Mean Daily Spots']
 daily_spots = daily_spots.set_index('Year')
 
 @q.worker
@@ -95,13 +95,22 @@ def get_data()
     return daily_spots
 
 def makePlot(jid, plot):
+    x = daily_spots['Year']
+    y = daily_spots['Mean Daily Spots']
     if plot == "histogram":
-
+        plt.hist(x,bins=20)
+        plt.show()
     if plot == "scatter":
-
+        plt.scatter(x,y)
+        plot.set_xlabel("Year")
+        plot.set_ylabel("Mean Daily Sunpots")
+        plt.show()
     if plot == "line":
-        ax = daily_spots['Mean Daily Spots'].plot()
-
+        #ax = daily_spots['Mean Daily Spots'].plot()
+        plt.plot(x,y)
+        plot.set_xlabel("Year")
+        plot.set_ylabel("Mean Daily Sunpots")
+        plt.show()
 
     else
         jobs.update_job_status(jid, "failed")
