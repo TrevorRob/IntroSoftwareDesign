@@ -3,7 +3,10 @@ import json, uuid, redis, Queue
 import datetime
 from datetime import timedelta
 from hotqueue import HotQueue
+import os 
 
+REDIS_IP = os.environ.get('REDIS_IP')
+REDIS_PORT  = os.environ.get('REDIS_PORT')
 #def get_redis_ip():
     #return os.environ.get('REDIS_IP')
     #host=get_redis_ip()

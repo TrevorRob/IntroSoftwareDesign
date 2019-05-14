@@ -6,9 +6,15 @@ from hotqueue import HotQueue
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+<<<<<<< HEAD
 from jobs import update_job_status, current_time, generate_job_key, save_job 
 from app import get_job_info,
+=======
+import os 
+>>>>>>> b4296cccfceb7ce548442247f16773118f7a131b
 
+REDIS_IP = os.environ.get('REDIS_IP')
+REDIS_PORT  = os.environ.get('REDIS_PORT')
 #worker
 
 rd = redis.StrictRedis(host='172,17.0.1', port=6379, db=0)
@@ -97,14 +103,23 @@ def get_data()
     return daily_spots
 
 def makePlot(jid, plot):
+    x = daily_spots['Year']
+    y = daily_spots['Mean Daily Spots']
     if plot == "histogram":
-
+        plt.hist(x,bins=20)
+        plt.show()
     if plot == "scatter":
-
+        plt.scatter(x,y)
+        plot.set_xlabel("Year")
+        plot.set_ylabel("Mean Daily Sunpots")
+        plt.show()
     if plot == "line":
-        ax = daily_spots['Mean Daily Spots'].plot()
-
-
+        #ax = daily_spots['Mean Daily Spots'].plot()
+        plt.plot(x,y)
+        plot.set_xlabel("Year")
+        plot.set_ylabel("Mean Daily Sunpots")
+        plt.show()
+        #update_job_status?
     else
         jobs.update_job_status(jid, "failed")
 
