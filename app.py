@@ -16,14 +16,16 @@ rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
 jl = redis.StrictRedis(host='172.17.0.1', port=6379, db=2)
 
 def put_job_in_log(param, cmd):
-    add_job(param, cmd)
+    job_dict = add_job(param, cmd)
+    return job_dict['id']
 
 #returns all the data
 @app.route('/')
 def sunspots():
     param = "want all the sunspot data"
     cmd = "data"
-    put_job_in_log(param, cmd)
+    jobID = put_job_in_log(param, cmd)
+    return jobID
 #    return jsonify(rd)
 
 #i think the methods on all of these may need to be 'PUT' instead
@@ -87,8 +89,10 @@ def get_job_info(jid):
             timeL.append(time)
     recent = max(timeL)
     for key in jl:
-        if key['time stamp'] == recent:
-            return jsonify(jl.hmget(key))
+        if key['id'] == id and key['time stamp'] == recent:
+            job_info = json.loads(jl.get(key).decode('utf-8'))
+            #return jsonify(jl.hmget(key))
+            return job_info
 #actually i just realized that all of this needs to be in the worker i think because it's just another job that the worker needs to pull off but I'm going to leave it here because I'm not exactly sure if that's right and even if it is I need to leave it so I can reproduce it later
 #I have no idea if this will actually work but it seems like it could be right...?
 #returns all of the info for a certain job id

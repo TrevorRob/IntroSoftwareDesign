@@ -39,9 +39,9 @@ def execute_job(jid):
     if command == "plot":
         kind = param['type of plot']
         if kind == 'histogram' or kind == 'line' kind == 'scatter':
-            makePlot(jid, kind)
-            save_plot_to_redis(jid)
-
+            result = makePlot(jid, kind)
+#            save_plot_to_redis(jid)
+            save_job_result(jid, result)
         else:
             jobs.update_job_status(jid, 'failed')
     elif command == "year_spots":
@@ -118,28 +118,31 @@ def makePlot(jid, plot):
         sns.set(rc={'figure.figsize':(11,4)})
         ax = daily_spots['Mean Daily Sunspots'].plot(kind='hist',title='Histogram of Mean Daily Sunspots Frequency')
         ax.set_xlabel("Mean Daily Sunspots")
-        plt.savefig('/tmp/histogram.png', dpi=150)
-        file_bytes = open('/tmp/histogram.png', 'rb').read()
-        save_job_result(jid, file_bytes)
+        fig = ax.get_figure()
+        fig.savefig('spots_histogram.png')
+        result = "The plot has been saved in the current directory as spots_histogram.png"
+        return result
+#        plt.savefig('/tmp/histogram.png', dpi=150)
+#        file_bytes = open('/tmp/histogram.png', 'rb').read()
+#        save_job_result(jid, file_bytes)
 
     if plot == "scatter":
-        plt.scatter(x,y)
-        plt.set_xlabel("Year")
-        plt.set_ylabel("Mean Daily Sunpots")
-        plt.show()
-    if plot == "line":
         #ax = daily_spots['Mean Daily Spots'].plot()
-        plt.plot(x,y)
-        plt.set_xlabel("Year")
-        plt.set_ylabel("Mean Daily Sunpots")
-        plt.show()
+#        plt.plot(x,y)
+ #       plt.set_xlabel("Year")
+  #      plt.set_ylabel("Mean Daily Sunpots")
+   #     plt.show()
         sns.set(rc={'figure.figsize':(11,4)})
-        daily_spots['Mean Daily Sunspots'].plot(marker='.', linestyle='None')
+        ax = daily_spots['Mean Daily Sunspots'].plot(marker='.', linestyle='None')
         #plt.set_xlabel("Year")
         ax.set_ylabel("Mean Daily Sunpots")
-        plt.savefig('/tmp/scatter_plot.png', dpi=150)
-        file_bytes = open('/tmp/scatter_plot.png', 'rb').read()
-        save_job_result(jid, file_bytes)
+        fig = ax.get_figure()
+        fig.savefig('spots_scatter.png')
+        result = "The plot has been saved in the current directory as spots_scatter.png"
+        return result
+#        plt.savefig('/tmp/scatter_plot.png', dpi=150)
+#        file_bytes = open('/tmp/scatter_plot.png', 'rb').read()
+#        save_job_result(jid, file_bytes)
 
     if plot == "line":
         #ax = daily_spots['Mean Daily Spots'].plot()
@@ -147,9 +150,13 @@ def makePlot(jid, plot):
         sns.set(rc={'figure.figsize':(11,4)})
         daily_spots['Mean Daily Sunspots'].plot(linewidth=2.0)
         ax.set_ylabel("Mean Daily Sunpots")
-        plt.savefig('/tmp/line_plot.png', dpi=150)
-        file_bytes = open('/tmp/line_plot.png', 'rb').read()
-        save_job_result(jid, file_bytes)
+        fig = ax.get_figure()
+        fig.savefig('spots_line.png')
+        result = "The plot has been saved in the current directory as spots_line.png"
+        return result
+#        plt.savefig('/tmp/line_plot.png', dpi=150)
+#        file_bytes = open('/tmp/line_plot.png', 'rb').read()
+#        save_job_result(jid, file_bytes)
        # plt.set_xlabel("Year")
        # plt.set_ylabel("Mean Daily Sunpots")
        # plt.savefig('/tmp/line_plot.png', dpi=150)

@@ -1,4 +1,3 @@
-import os
 import json, uuid, redis, Queue
 import datetime
 from datetime import timedelta
@@ -13,7 +12,7 @@ REDIS_PORT  = os.environ.get('REDIS_PORT')
 
 rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
 
-q = HotQueue("queue", host='172,17.0.1', port=6379, db=1)
+q = HotQueue("queue", host='172.17.0.1', port=6379, db=1)
 
 jl = redis.StrictRedis(host='172.17.0.1', port=6379, db=2)
 
@@ -22,9 +21,9 @@ def generate_jid():
     return str(uuid.uuid4())
 
 def current_time():
-    d = timedelta(hours = -6)
-    tz = datetime.timezone(d)
-    return str(datetime.datetime.now(tz))
+    #d = timedelta(hours = -5)
+    #tx = datetime.timezone(d)
+    return str(datetime.datetime.now())
 
 def generate_job_key(jid):
     return 'job.{}'.format(jid)
@@ -38,13 +37,13 @@ def instantiate_job(jid, status, param, cmd):
                 'parameters': param,
                 'command': cmd
         }
-    return {'id': jid.decode('utf-8'),
-            'status': status.decode('utf-8'),
-            'time stamp': time.decode('utf-8'),
-            'parameters': param.decode('utf-8'),
-            'command': cmd.decode('utf-8')
+#    return {'id': jid.decode('utf-8'),
+ #           'status': status.decode('utf-8'),
+  #          'time stamp': time.decode('utf-8'),
+   #         'parameters': param.decode('utf-8'),
+    #        'command': cmd.decode('utf-8')
 
-        }
+       # }
 
 def convert_job_fields(key):
     return { 'id': jl.hget(key, 'id').decode('utf-8'),
@@ -72,6 +71,7 @@ def add_job(param, cmd, status="new"):
     job_dict = instantiate_job(jid, status, param, cmd)
     job_key = generate_job_key(jid)
     save_job(job_key, job_dict)
+    #job_dict = convert_job_fields(job_key)
     queue_job(jid, job_dict)
     return job_dict
 
