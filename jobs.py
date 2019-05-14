@@ -55,7 +55,7 @@ def convert_job_fields(key):
 def save_job(job_key, job_dict):
 #    """Save a job object in the Redis database."""
 #   jl.hmset(job_key, json.dumps(job_dict))
-    jl.hmset(job_key, json.dumps(job_dict))
+    jl.hmset(job_key, job_dict)
         #the json.dump might not be necessary
         #also what do we return here???
 
