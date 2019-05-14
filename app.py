@@ -10,58 +10,49 @@ rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
 
 jl = redis.StrictRedis("job_log", host='172.17.0.1', port=6379, db=2)
 
-def read_csv_data(csv_file, ik, iv):
-    with open(csv_file, encoding='utf-8') as csvf:
-        csv_data = csv.reader(csvf)
-        return [(r[ik], r[iv]) for r in csv_data]
-
-def store_data(conn, data):
-    for i in data:
-        rd.setnx(i[0], i[1])
-    return data
-
-def data_function():
-    if len(sys.argv) < 2:
-    sys.exit(
-        "Usage: %s sunspots.csv [Year, Mean Daily Sunspots]"
-        % __sunspots__
-    )
-    columns = (0,1) if len(sys.argv) < 4 else (int(x) for x in sys.argv([2:4])
-    data = read_csv_data(sys.argv[1], *columns)
-#    return (json.dumps(store_data(rd, data)))
-
 def put_job_in_log(param, cmd):
     jobs.add_job(param, cmd)
 
 #returns all the data
 @app.route('/')
 def sunspots():
-    return jsonify(rd)
+    param = "want all the sunspot data"
+    cmd = "data"
+    put_job_in_log(param, cmd)
+#    return jsonify(rd)
 
 #i think the methods on all of these may need to be 'PUT' instead
 
+@app.route('/year', methods=['POST'])
+def post_year():
+    request_data = request.json
+    param = request_data
+    cmd = "post_new_data"
+    put_job_in_log(param,cmd)
+
+
 @app.route('/year/<int:year>', methods=['GET'])
 def get_year_spots(year):
-#     param = {'year': year}
-#    cmd = "get_year()"
-#    put_job_in_log(param, cmd)
-    return jsonify(rd.hget(year))
+    param = {'year': year}
+    cmd = "year_spots"
+    put_job_in_log(param, cmd)
+#    return jsonify(rd.hget(year))
 
 @app.route('/max', methods=['GET'])
 def get_max_spots():
-#    param = "want year of max sunpots"
-#    cmd = "get_max()"
-#    put_job_in_log(param, cmd)
-    mean = []
-    for year in rd:
-        mean.append(rd.hget())
-    return max(mean)
+    param = "want year of max sunspots"
+    cmd = "max"
+    put_job_in_log(param, cmd)
+#    mean = []
+#    for year in rd:
+#        mean.append(rd.hget())
+#    return max(mean)
 
 
 @app.route('/min', methods=['GET'])
 def get_min_spots():
-    param = "want year of min sunpots"
-    cmd = "get_min()"
+    param = "want year of min sunspots"
+    cmd = "min"
     put_job_in_log(param, cmd)
 
 @app.route('/jobs', methods=['POST'])
@@ -78,7 +69,7 @@ def jobs_api():
 @app.route('/plot/<str:kind>', methods=['GET'])
 def make_plot_years_spots(kind):
     param = {"type of plot": kind}
-    cmd = "make_plot()"
+    cmd = "plot"
     put_job_in_log(param, cmd)
 #an enpoint that makes a plot of the data
 
