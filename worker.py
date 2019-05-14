@@ -6,7 +6,9 @@ from hotqueue import HotQueue
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import os 
+import os
+import seaborn as sns
+
 
 REDIS_IP = os.environ.get('REDIS_IP')
 REDIS_PORT  = os.environ.get('REDIS_PORT')
@@ -105,20 +107,24 @@ def save_plot_to_redis(key):
     save_job_result(jid,file_bytes)
 
 def makePlot(jid, plot):
-    x = daily_spots['Year']
-    y = daily_spots['Mean Daily Spots']
+#    x = daily_spots['Year']
+#    y = daily_spots['Mean Daily Spots']
     if plot == "histogram":
-        plt.hist(x,bins=20)
-        plt.show()
+        sns.set(rc={'figure.figsize':(11,4)})
+        daily_spots['Mean Daily Sunspots'].plot(kind='hist')
+        plt.savefig('/tmp/histogram.png', dpi=150)
     if plot == "scatter":
-        plt.scatter(x,y)
+        sns.set(rc={'figure.figsize':(11,4)})
+        daily_spots['Mean Daily Sunspots'].plot(marker='.', linestyle='None')
         plt.set_xlabel("Year")
         plt.set_ylabel("Mean Daily Sunpots")
         plt.savefig('/tmp/scatter_plot.png', dpi=150)
         
     if plot == "line":
         #ax = daily_spots['Mean Daily Spots'].plot()
-        plt.plot(x,y)
+        #plt.plot(x,y)
+        sns.set(rc={'figure.figsize':(11,4)})
+        daily_spots['Mean Daily Sunspots'].plot(linewidth=2.0)
         plt.set_xlabel("Year")
         plt.set_ylabel("Mean Daily Sunpots")
         plt.savefig('/tmp/line_plot.png', dpi=150)
