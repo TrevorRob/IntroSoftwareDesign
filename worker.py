@@ -6,7 +6,10 @@ from hotqueue import HotQueue
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import os 
 
+REDIS_IP = os.environ.get('REDIS_IP')
+REDIS_PORT  = os.environ.get('REDIS_PORT')
 #worker
 
 rd = redis.StrictRedis(host='172,17.0.1', port=6379, db=0)
@@ -111,7 +114,7 @@ def makePlot(jid, plot):
         plot.set_xlabel("Year")
         plot.set_ylabel("Mean Daily Sunpots")
         plt.show()
-
+        #update_job_status?
     else
         jobs.update_job_status(jid, "failed")
 

@@ -2,7 +2,10 @@ from flask import Flask, jsonify, request, abort
 import csv, json, uuid, datetime
 import sys
 import pandas as pd
+import os 
 
+REDIS_IP = os.environ.get('REDIS_IP')
+REDIS_PORT  = os.environ.get('REDIS_PORT')
 #Flask app
 app = Flask(__app__)
 

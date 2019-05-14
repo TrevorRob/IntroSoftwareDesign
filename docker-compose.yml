@@ -5,7 +5,7 @@ services:
     build: .
     ports:
       - "5000:5000"
-    enviornments:
+    enviornment:
       - 'REDIS_IP=172.17.0.1'
       - 'REDIS_PORT=6379'
     networks:
