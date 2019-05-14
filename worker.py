@@ -6,19 +6,32 @@ from hotqueue import HotQueue
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+<<<<<<< HEAD
 from jobs import update_job_status, current_time, generate_job_key, save_job 
 from app import get_job_info,
 import os 
+=======
+import os
+import seaborn as sns
+import sys
+
+>>>>>>> 3201db8da0e46f3d834038463195b8dabf856c3f
 
 REDIS_IP = os.environ.get('REDIS_IP')
 REDIS_PORT  = os.environ.get('REDIS_PORT')
 #worker
 
-rd = redis.StrictRedis(host='172,17.0.1', port=6379, db=0)
+rd = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=0)
 
-q = HotQueue("queue", host='172.17.0.1', port=6379, db=1)
+q = HotQueue("queue", host=REDIS_IP, port=REDIS_PORT, db=1)
 
+jl = redis.StrictRedis("job_log", host=REDIS_IP, port=REDIS_PORT, db=2)
+
+<<<<<<< HEAD
 jl = redis.StrictRedis(host='172.17.0.1', port=6379, db=2)
+=======
+plots = redis.StrictRedis("plots", host=REDIS_IP, port=REDIS_PORT, db=3)
+>>>>>>> 3201db8da0e46f3d834038463195b8dabf856c3f
 
 daily_spots = pd.read_csv('sunspots.csv')
 daily_spots.columns = ['Year', 'Mean Daily Spots']
@@ -35,6 +48,8 @@ def execute_job(jid):
         kind = param['type of plot']
         if kind == 'histogram' or kind == 'line' kind == 'scatter':
             makePlot(jid, kind)
+            save_plot_to_redis(jid)
+
         else:
             jobs.update_job_status(jid, 'failed')
     elif command == "year_spots":
@@ -99,13 +114,24 @@ def get_min()
 def get_data()
     return daily_spots
 
+def save_plot_to_redis(key):
+    file_bytes = open('/tmp/scatter_plot.png', 'rb').read()
+    plots.set(key, file_bytes)
+    save_job_result(jid,file_bytes)
+
 def makePlot(jid, plot):
-    x = daily_spots['Year']
-    y = daily_spots['Mean Daily Spots']
+#    x = daily_spots['Year']
+#    y = daily_spots['Mean Daily Spots']
     if plot == "histogram":
-        plt.hist(x,bins=20)
-        plt.show()
+        sns.set(rc={'figure.figsize':(11,4)})
+        ax = daily_spots['Mean Daily Sunspots'].plot(kind='hist',title='Histogram of Mean Daily Sunspots Frequency')
+        ax.set_xlabel("Mean Daily Sunspots")
+        plt.savefig('/tmp/histogram.png', dpi=150)
+        file_bytes = open('/tmp/histogram.png', 'rb').read()
+        save_job_result(jid, file_bytes)
+
     if plot == "scatter":
+<<<<<<< HEAD
         plt.scatter(x,y)
         plt.set_xlabel("Year")
         plt.set_ylabel("Mean Daily Sunpots")
@@ -117,6 +143,28 @@ def makePlot(jid, plot):
         plt.set_ylabel("Mean Daily Sunpots")
         plt.show()
 
+=======
+        sns.set(rc={'figure.figsize':(11,4)})
+        daily_spots['Mean Daily Sunspots'].plot(marker='.', linestyle='None')
+        #plt.set_xlabel("Year")
+        ax.set_ylabel("Mean Daily Sunpots")
+        plt.savefig('/tmp/scatter_plot.png', dpi=150)
+        file_bytes = open('/tmp/scatter_plot.png', 'rb').read()
+        save_job_result(jid, file_bytes)
+
+    if plot == "line":
+        #ax = daily_spots['Mean Daily Spots'].plot()
+        #plt.plot(x,y)
+        sns.set(rc={'figure.figsize':(11,4)})
+        daily_spots['Mean Daily Sunspots'].plot(linewidth=2.0)
+        ax.set_ylabel("Mean Daily Sunpots")
+        plt.savefig('/tmp/line_plot.png', dpi=150)
+        file_bytes = open('/tmp/line_plot.png', 'rb').read()
+        save_job_result(jid, file_bytes)
+       # plt.set_xlabel("Year")
+       # plt.set_ylabel("Mean Daily Sunpots")
+       # plt.savefig('/tmp/line_plot.png', dpi=150)
+>>>>>>> 3201db8da0e46f3d834038463195b8dabf856c3f
         #update_job_status?
     else
         jobs.update_job_status(jid, "failed")
