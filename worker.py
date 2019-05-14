@@ -33,6 +33,8 @@ def execute_job(jid):
         kind = param['type of plot']
         if kind == 'histogram' or kind == 'line' kind == 'scatter':
             makePlot(jid, kind)
+            save_plot_to_redis(jid)
+
         else:
             jobs.update_job_status(jid, 'failed')
     elif command == "year_spots":
@@ -97,6 +99,11 @@ def get_min()
 def get_data()
     return daily_spots
 
+def save_plot_to_redis(key):
+    file_bytes = open('/tmp/scatter_plot.png', 'rb').read()
+    #plots.set(key, file_bytes)
+    save_job_result(jid,file_bytes)
+
 def makePlot(jid, plot):
     x = daily_spots['Year']
     y = daily_spots['Mean Daily Spots']
@@ -105,15 +112,16 @@ def makePlot(jid, plot):
         plt.show()
     if plot == "scatter":
         plt.scatter(x,y)
-        plot.set_xlabel("Year")
-        plot.set_ylabel("Mean Daily Sunpots")
-        plt.show()
+        plt.set_xlabel("Year")
+        plt.set_ylabel("Mean Daily Sunpots")
+        plt.savefig('/tmp/scatter_plot.png', dpi=150)
+        
     if plot == "line":
         #ax = daily_spots['Mean Daily Spots'].plot()
         plt.plot(x,y)
-        plot.set_xlabel("Year")
-        plot.set_ylabel("Mean Daily Sunpots")
-        plt.show()
+        plt.set_xlabel("Year")
+        plt.set_ylabel("Mean Daily Sunpots")
+        plt.savefig('/tmp/line_plot.png', dpi=150)
         #update_job_status?
     else
         jobs.update_job_status(jid, "failed")
