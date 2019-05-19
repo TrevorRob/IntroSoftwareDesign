@@ -10,11 +10,11 @@ REDIS_PORT  = os.environ.get('REDIS_PORT')
     #return os.environ.get('REDIS_IP')
     #host=get_redis_ip()
 
-rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
+rd = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=0)
 
-q = HotQueue("queue", host='172.17.0.1', port=6379, db=1)
+q = HotQueue("queue", host=REDIS_IP, port=REDIS_PORT, db=1)
 
-jl = redis.StrictRedis(host='172.17.0.1', port=6379, db=2)
+jl = redis.StrictRedis(host=REDIS_IP, port=REEDIS_PORT, db=2)
 
 #job.py
 def generate_jid():

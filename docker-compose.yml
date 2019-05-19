@@ -3,34 +3,38 @@ version: '3'
 services:
   flask:
     build: .
+    
+    #command: [ "pip3 install pandas"]
     ports:
       - "5000:5000"
-    enviornment:
+    environment:
+
       - 'REDIS_IP=172.17.0.1'
       - 'REDIS_PORT=6379'
-    networks:
-      - redis-net
+        #networks:
+        #- redis-net
     depends_on:
       - redis
 
   redis:
     image: "redis:alpine"
-    command: [ "redis-server", "--appendonly", "yes" ]
-    hostname: redis
-    networks:
-      - redis-net
+    #command: [ "redis-server", "--appendonly", "yes" ]
+    #hostname: redis
+    #networks:
+    #- redis-net
     ports:
       - "6379:6379"
        
   worker:      
     build: .
-    enviornment:
+    #command: ["docker run coe332s2019hw6_worker"]
+    environment:
       - 'REDIS_IP=172.17.0.1'
       - 'REDIS_PORT=6379'
-    networks:
-      - redis-net
+        #networks:
+        #- redis-net
 
 
-networks:
-  redis-net:
+        #networks:
+        #redis-net:
 

@@ -11,9 +11,9 @@ REDIS_PORT  = os.environ.get('REDIS_PORT')
 #Flask app
 app = Flask(__name__)
 
-rd = redis.StrictRedis(host='172.17.0.1', port=6379, db=0)
+rd = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=0)
 
-jl = redis.StrictRedis(host='172.17.0.1', port=6379, db=2)
+jl = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=2)
 
 def put_job_in_log(param, cmd):
     job_dict = add_job(param, cmd)
