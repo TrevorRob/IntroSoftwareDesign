@@ -1,12 +1,7 @@
 from flask import Flask, jsonify, request, abort
 import csv, json, uuid, datetime
-<<<<<<< HEAD
 #import sys
-import pandas as pd
-=======
-import sys
 #import pandas as pd
->>>>>>> 41dacedbd627964a1b027d9e1ccd9ddce8c87f76
 import redis
 from jobs import add_job 
 import os 
@@ -47,7 +42,7 @@ def post_year():
 
 @app.route('/year/<int:year>', methods=['GET'])
 def get_year_spots(year):
-    param = {'year': year}
+    param = json.dumps({'year': year})
     cmd = "yoar_spots"
     jobID = put_job_in_log(param, cmd)
     return jobID
@@ -84,7 +79,7 @@ def get_min_spots():
 
 @app.route('/plot/<string:kind>', methods=['GET'])
 def make_plot_years_spots(kind):
-    param = {"type of plot": kind}
+    param = json.dumps({"type of plot": kind})
     cmd = "plot"
     jobID = put_job_in_log(param, cmd)
     return jobID
