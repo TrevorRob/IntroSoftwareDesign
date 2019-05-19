@@ -1,4 +1,4 @@
-import json, uuid, redis, Queue
+import json, uuid, redis
 import datetime
 from datetime import timedelta
 from hotqueue import HotQueue
