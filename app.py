@@ -43,7 +43,7 @@ def post_year():
 @app.route('/year/<int:year>', methods=['GET'])
 def get_year_spots(year):
     param = {'year': year}
-    cmd = "year_spots"
+    cmd = "yoar_spots"
     jobID = put_job_in_log(param, cmd)
     return jobID
 #    return jsonify(rd.hget(year))

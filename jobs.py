@@ -3,6 +3,7 @@ import datetime
 from datetime import timedelta
 from hotqueue import HotQueue
 import os 
+from flask import jsonify
 
 REDIS_IP = os.environ.get('REDIS_IP')
 REDIS_PORT  = os.environ.get('REDIS_PORT')
@@ -14,7 +15,7 @@ rd = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=0)
 
 q = HotQueue("queue", host=REDIS_IP, port=REDIS_PORT, db=1)
 
-jl = redis.StrictRedis(host=REDIS_IP, port=REEDIS_PORT, db=2)
+jl = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=2)
 
 #job.py
 def generate_jid():
@@ -31,19 +32,21 @@ def generate_job_key(jid):
 def instantiate_job(jid, status, param, cmd):
     if type(jid) == str:
         time = current_time()
-        return {'id': jid,
+        job_dict = {'id': jid,
                 'status': status,
                 'time stamp': time, 
                 'parameters': param,
                 'command': cmd
         }
-#    return {'id': jid.decode('utf-8'),
- #           'status': status.decode('utf-8'),
-  #          'time stamp': time.decode('utf-8'),
-   #         'parameters': param.decode('utf-8'),
-    #        'command': cmd.decode('utf-8')
+        return jsonify(job_dict)
 
-       # }
+    job_decode = {'id': jid.decode('utf-8'),
+                 'status': status.decode('utf-8'),
+                 'time stamp': time.decode('utf-8'),
+                 'parameters': param.decode('utf-8'),
+                 'command': cmd.decode('utf-8')
+           }
+    return jsonify(job_decode)
 
 def convert_job_fields(key):
     return { 'id': jl.hget(key, 'id').decode('utf-8'),
@@ -59,10 +62,11 @@ def save_job(job_key, job_dict):
         #the json.dump might not be necessary
         #also what do we return here???
 
-def queue_job(jid, job_dict):
+def queue_job(jid):
 #    """Add a job to the redis queue."""
     q.put(jid)
-    job_dict['status']='pending'
+    status = 'pending'
+    update_job_status(jid, status)
     #what to return here??
 
 
@@ -71,9 +75,10 @@ def add_job(param, cmd, status="new"):
     jid = generate_jid()
     job_dict = instantiate_job(jid, status, param, cmd)
     job_key = generate_job_key(jid)
+    #queue_job(jid)
     save_job(job_key, job_dict)
     #job_dict = convert_job_fields(job_key)
-    queue_job(jid, job_dict)
+    queue_job(jid)
     return job_dict
 
 def update_job_status(jid, status):
