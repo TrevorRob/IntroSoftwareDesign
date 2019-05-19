@@ -3,6 +3,8 @@ version: '3'
 services:
   flask:
     build: .
+    
+    #command: [ "pip3 install pandas"]
     ports:
       - "5000:5000"
     environment:
@@ -25,6 +27,7 @@ services:
        
   worker:      
     build: .
+    #command: ["docker run coe332s2019hw6_worker"]
     environment:
       - 'REDIS_IP=172.17.0.1'
       - 'REDIS_PORT=6379'
