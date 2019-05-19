@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, request, abort
 import csv, json, uuid, datetime
 import sys
-import pandas as pd
+#import pandas as pd
 import redis
 from jobs import add_job 
 import os 
