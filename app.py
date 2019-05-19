@@ -16,8 +16,12 @@ rd = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=0)
 jl = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=2)
 
 def put_job_in_log(param, cmd):
-    job_dict = add_job(param, cmd)
-    return job_dict['id']
+    jid = add_job(param, cmd)
+    return jid
+
+@app.route('/hello')
+def hello():
+    return "Hello World"
 
 #returns all the data
 @app.route('/')
