@@ -2,3 +2,8 @@ coverage
 flask
 requests
 pandas
+redis
+matplotlib
+numpy
+hotqueue
+seaborn

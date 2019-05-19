@@ -1,4 +1,4 @@
-import json, uuid, redis, Queue
+import json, uuid, redis
 import datetime
 from datetime import timedelta
 from hotqueue import HotQueue
@@ -14,7 +14,7 @@ rd = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=0)
 
 q = HotQueue("queue", host=REDIS_IP, port=REDIS_PORT, db=1)
 
-jl = redis.StrictRedis(host=REDIS_IP, port=REEDIS_PORT, db=2)
+jl = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=2)
 
 #job.py
 def generate_jid():
