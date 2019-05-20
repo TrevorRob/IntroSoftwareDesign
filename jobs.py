@@ -46,7 +46,7 @@ def instantiate_job(jid, status, param, cmd):
                 'command': cmd.decode('utf-8')
 
                 })
-    print(job_dict)
+    
     return job_dict
 
 def convert_job_fields(key):
