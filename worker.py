@@ -21,9 +21,9 @@ rd = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=0)
 
 q = HotQueue("queue", host=REDIS_IP, port=REDIS_PORT, db=1)
 
-jl = redis.StrictRedis("job_log", host=REDIS_IP, port=REDIS_PORT, db=2)
+jl = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=2)
 
-plots = redis.StrictRedis("plots", host=REDIS_IP, port=REDIS_PORT, db=3)
+plots = redis.StrictRedis(host=REDIS_IP, port=REDIS_PORT, db=3)
 
 daily_spots = pd.read_csv('sunspots.csv')
 daily_spots.columns = ['Year', 'Mean Daily Spots']
@@ -37,7 +37,7 @@ def execute_job(jid):
     command=job["command"]
     param = job["param"]
     if command == "plot":
-        kind = param['type of plot']
+        kind = param
         if kind == 'histogram' or kind == 'line' kind == 'scatter':
             result = makePlot(jid, kind)
 #            save_plot_to_redis(jid)
@@ -45,7 +45,7 @@ def execute_job(jid):
         else:
             jobs.update_job_status(jid, 'failed')
     elif command == "year_spots":
-        year = param['year']
+        year = param
         if year in range(1770, 1869):
             result = year_spots(year)   
             save_job_result(jid, result)
@@ -126,7 +126,7 @@ def makePlot(jid, plot):
 #        file_bytes = open('/tmp/histogram.png', 'rb').read()
 #        save_job_result(jid, file_bytes)
 
-    if plot == "scatter":
+    elif plot == "scatter":
         #ax = daily_spots['Mean Daily Spots'].plot()
 #        plt.plot(x,y)
  #       plt.set_xlabel("Year")
@@ -144,11 +144,11 @@ def makePlot(jid, plot):
 #        file_bytes = open('/tmp/scatter_plot.png', 'rb').read()
 #        save_job_result(jid, file_bytes)
 
-    if plot == "line":
+    elif plot == "line":
         #ax = daily_spots['Mean Daily Spots'].plot()
         #plt.plot(x,y)
         sns.set(rc={'figure.figsize':(11,4)})
-        daily_spots['Mean Daily Sunspots'].plot(linewidth=2.0)
+        ax = daily_spots['Mean Daily Sunspots'].plot(linewidth=2.0)
         ax.set_ylabel("Mean Daily Sunpots")
         fig = ax.get_figure()
         fig.savefig('spots_line.png')
@@ -161,6 +161,8 @@ def makePlot(jid, plot):
        # plt.set_ylabel("Mean Daily Sunpots")
        # plt.savefig('/tmp/line_plot.png', dpi=150)
         #update_job_status?
-    else
+    else:
         jobs.update_job_status(jid, "failed")
+
+execute_job()
 

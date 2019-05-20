@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request, abort
 import csv, json, uuid, datetime
-import sys
+#import sys
 #import pandas as pd
 import redis
 from jobs import add_job 
@@ -20,7 +20,10 @@ def put_job_in_log(param, cmd):
     return jid
 
 
+
 #returns all the data
+
+
 @app.route('/')
 def sunspots():
     param = "want all the sunspot data"
@@ -34,7 +37,7 @@ def sunspots():
 @app.route('/year', methods=['POST'])
 def post_year():
     request_data = request.json
-    param = request_data
+    param = json.dumps(request_data)
     cmd = "post_new_data"
     put_job_in_log(param,cmd)
     jobID = put_job_in_log(param, cmd)
@@ -43,7 +46,7 @@ def post_year():
 
 @app.route('/year/<int:year>', methods=['GET'])
 def get_year_spots(year):
-    param = {'year': year}
+    param = year
     cmd = "year_spots"
     jobID = put_job_in_log(param, cmd)
     return jobID
@@ -80,25 +83,21 @@ def get_min_spots():
 
 @app.route('/plot/<string:kind>', methods=['GET'])
 def make_plot_years_spots(kind):
-    param = {"type of plot": kind}
+    param = kind
     cmd = "plot"
     jobID = put_job_in_log(param, cmd)
     return jobID
-#an enpoint that makes a plot of the data
 
 @app.route('/job_id/<string:jid>', methods=['GET'])
 def get_job_info(jid):
     timeL = []
     for key in jl:
-        if key['id'] == jid:
+        if jl.hget(key, 'id').decode('utf-8') == jid:
             time = key['time stamp']
             timeL.append(time)
     recent = max(timeL)
     for key in jl:
-        if key['id'] == id and key['time stamp'] == recent:
+        if jl.hget(key, 'id').decode('utf-8') == id and key['time stamp'] == recent:
             job_info = json.loads(jl.hgetall(key).decode('utf-8'))
             #return jsonify(jl.hmget(key))
-            return job_info
-#actually i just realized that all of this needs to be in the worker i think because it's just another job that the worker needs to pull off but I'm going to leave it here because I'm not exactly sure if that's right and even if it is I need to leave it so I can reproduce it later
-#I have no idea if this will actually work but it seems like it could be right...?
-#returns all of the info for a certain job id
+    return job_info

@@ -29,15 +29,14 @@ def generate_job_key(jid):
     return 'job.{}'.format(jid)
 
 def instantiate_job(jid, status, param, cmd):
+    time = current_time()
     if type(jid) == str:
-        time = current_time()
         job_dict = json.dumps({'id': jid,
                 'status': status,
                 'time stamp': time,
                 'parameters': param,
                 'command': cmd
                 })
-        #job_dict_json = json.dumps('job_dict')
     else:
         job_dict = json.dumps({'id': jid.decode('utf-8'),
                 'status': status.decode('utf-8'),
@@ -46,7 +45,6 @@ def instantiate_job(jid, status, param, cmd):
                 'command': cmd.decode('utf-8')
 
                 })
-    
     return job_dict
 
 def convert_job_fields(key):
@@ -57,18 +55,13 @@ def convert_job_fields(key):
              'command': jl.hget(key, 'command').decode('utf-8') }
 
 def save_job(job_key, job_dict):
-#    """Save a job object in the Redis database."""
 #   jl.hmset(job_key, json.dumps(job_dict))
     jl.hmset(job_key, job_dict)
-        #the json.dump might not be necessary
-        #also what do we return here???
 
 def queue_job(jid):
-#    """Add a job to the redis queue."""
     q.put(jid)
     status = 'pending'
-    #update_job_status(jid, status)
-    #what to return here??
+    update_job_status(jid, status)
 
 
 def add_job(param, cmd, status="new"):
@@ -76,15 +69,14 @@ def add_job(param, cmd, status="new"):
     jid = generate_jid()
     job_dict = instantiate_job(jid, status, param, cmd)
     job_key = generate_job_key(jid)
-    #save_job(job_key, job_dict)
+    save_job(job_key, job_dict)
     #job_dict = convert_job_fields(job_key)
-    #queue_job(jid)
-    return jid
+    queue_job(jid)
+    return job_dict
 
 def update_job_status(jid, status):
-    """Update the status of job with job id `jid` to status `status`."""
-    jid, status, start, end = jl.hmget(generate_job_key(jid), 'id', 'status', 'start', 'end')
-    job = instantiate_job(jid, status, start, end)
+    jid, status, param, cmd = jl.hmget(generate_job_key(jid), 'id', 'status', 'parameters', 'command')
+    job = instantiate_job(jid, status, param, cmd)
     if job:
         job['status'] = status
         save_job(generate_job_key(jid), job)
