@@ -29,31 +29,14 @@ def generate_job_key(jid):
     return 'job.{}'.format(jid)
 
 def instantiate_job(jid, status, param, cmd):
+    time = current_time()
     if type(jid) == str:
-        time = current_time()
-<<<<<<< HEAD
-        job_dict = {'id': jid,
-=======
         job_dict = json.dumps({'id': jid,
->>>>>>> 257317ff428fc5c81d9f9a6d30717f6814f01ecc
                 'status': status,
                 'time stamp': time,
                 'parameters': param,
                 'command': cmd
-<<<<<<< HEAD
-        }
-        return jsonify(job_dict)
-
-    job_decode = {'id': jid.decode('utf-8'),
-                 'status': status.decode('utf-8'),
-                 'time stamp': time.decode('utf-8'),
-                 'parameters': param.decode('utf-8'),
-                 'command': cmd.decode('utf-8')
-           }
-    return jsonify(job_decode)
-=======
                 })
-        #job_dict_json = json.dumps('job_dict')
     else:
         job_dict = json.dumps({'id': jid.decode('utf-8'),
                 'status': status.decode('utf-8'),
@@ -62,9 +45,7 @@ def instantiate_job(jid, status, param, cmd):
                 'command': cmd.decode('utf-8')
 
                 })
-    print(job_dict)
     return job_dict
->>>>>>> 257317ff428fc5c81d9f9a6d30717f6814f01ecc
 
 def convert_job_fields(key):
     return { 'id': jl.hget(key, 'id').decode('utf-8'),
@@ -84,11 +65,7 @@ def queue_job(jid):
 #    """Add a job to the redis queue."""
     q.put(jid)
     status = 'pending'
-<<<<<<< HEAD
-    update_job_status(jid, status)
-=======
     #update_job_status(jid, status)
->>>>>>> 257317ff428fc5c81d9f9a6d30717f6814f01ecc
     #what to return here??
 
 
@@ -97,18 +74,11 @@ def add_job(param, cmd, status="new"):
     jid = generate_jid()
     job_dict = instantiate_job(jid, status, param, cmd)
     job_key = generate_job_key(jid)
-<<<<<<< HEAD
     #queue_job(jid)
-    save_job(job_key, job_dict)
-    #job_dict = convert_job_fields(job_key)
-    queue_job(jid)
-    return job_dict
-=======
     #save_job(job_key, job_dict)
     #job_dict = convert_job_fields(job_key)
     #queue_job(jid)
     return jid
->>>>>>> 257317ff428fc5c81d9f9a6d30717f6814f01ecc
 
 def update_job_status(jid, status):
     """Update the status of job with job id `jid` to status `status`."""
