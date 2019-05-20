@@ -19,9 +19,6 @@ def put_job_in_log(param, cmd):
     jid = add_job(param, cmd)
     return jid
 
-@app.route('/hello')
-def hello():
-    return "Hello World"
 
 #returns all the data
 @app.route('/')
