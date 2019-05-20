@@ -37,9 +37,11 @@ def sunspots():
 def post_year():
     year = request.args.get('year')
     mean = request.args.get('spots')
-    new = pd.DataFrame({'Year': [year], 'Mean Daily Spots': [mean]})
-    new = new.set_index('Year')
-    daily_spots = daily_spots.append(new)
+    year = int(year)
+    mean = int(mean)
+    #new = pd.DataFrame({'Year': [year], 'Mean Daily Spots': [mean]})
+    #new = new.set_index('Year')
+    #daily_spots = daily_spots.append(new)
     return jsonify(daily_spots)
 
 
