@@ -18,3 +18,7 @@ Here's an example of the curl statement:
 ``` curl '{'Year': 2010, 'Mean Daily Spots': 17}' http://localhost:5000/year```
 
 ```/job_id/<string:jid>```  - directly returns the most current json object for the job id you input, which includes the job id, the job’s status, the job’s most current timestamp, and either the parameters and commands for the job or the result of the completed job. You can only input job id’s which you got back when you input a job (so for all endpoints before this one, you will immediately get back job id, which you can put in to this endpoint to immediately get back all of the latest information for that job id).
+
+
+Because of the issue we were having with the save_job function, if you would like to run our api without going through the worker, just run ```python main2.py```. All of the endpoints are the same with the exception of the post function (which we are still working out the kinks on). An example of the post endpoint looks like this:  
+```curl http://localhost:5000?year=2019&spots=20```
