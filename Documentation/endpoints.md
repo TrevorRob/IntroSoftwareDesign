@@ -15,6 +15,6 @@ Our API allows you to access data on the mean daily number of sunspots recorded 
 ```/year'```  - allows you to add a new data point to the sunspot database. It takes in data in the form of a json like this:  
 ```{'Year': <insert new year here>, 'Mean Daily Spots: <insert mean daily spots for new year here>}```  
 Here's an example of the curl statement:  
-``` curl '{'Year': 2010, 'Mean Daily Spots': 17}' http://localhost:5000/sunspots```
+``` curl '{'Year': 2010, 'Mean Daily Spots': 17}' http://localhost:5000/year```
 
 ```/job_id/<string:jid>```  - directly returns the most current json object for the job id you input, which includes the job id, the job’s status, the job’s most current timestamp, and either the parameters and commands for the job or the result of the completed job. You can only input job id’s which you got back when you input a job (so for all endpoints before this one, you will immediately get back job id, which you can put in to this endpoint to immediately get back all of the latest information for that job id).
