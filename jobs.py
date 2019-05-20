@@ -45,10 +45,6 @@ def instantiate_job(jid, status, param, cmd):
                 'command': cmd.decode('utf-8')
 
                 })
-<<<<<<< HEAD
-=======
-    
->>>>>>> 79f02e40c2b33dc7126a9f79d591849de8a35e0a
     return job_dict
 
 def convert_job_fields(key):
@@ -78,8 +74,9 @@ def add_job(param, cmd, status="new"):
     jid = generate_jid()
     job_dict = instantiate_job(jid, status, param, cmd)
     job_key = generate_job_key(jid)
+    p_job_dict = pickle.dumps(job_dict)
     #queue_job(jid)
-    #save_job(job_key, job_dict)
+    save_job(job_key, p_job_dict)
     #job_dict = convert_job_fields(job_key)
     #queue_job(jid)
     return jid
