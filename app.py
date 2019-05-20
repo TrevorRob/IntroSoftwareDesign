@@ -19,11 +19,6 @@ def put_job_in_log(param, cmd):
     jid = add_job(param, cmd)
     return jid
 
-@app.route('/hello')
-def hello():
-    return "Hello World"
-
-#returns all the data
 @app.route('/')
 def sunspots():
     param = "want all the sunspot data"
@@ -37,7 +32,7 @@ def sunspots():
 @app.route('/year', methods=['POST'])
 def post_year():
     request_data = request.json
-    param = request_data
+    param = json.dumps(request_data)
     cmd = "post_new_data"
     put_job_in_log(param,cmd)
     jobID = put_job_in_log(param, cmd)
@@ -46,8 +41,8 @@ def post_year():
 
 @app.route('/year/<int:year>', methods=['GET'])
 def get_year_spots(year):
-    param = json.dumps({'year': year})
-    cmd = "yoar_spots"
+    param = year
+    cmd = "year_spots"
     jobID = put_job_in_log(param, cmd)
     return jobID
 #    return jsonify(rd.hget(year))
@@ -83,7 +78,7 @@ def get_min_spots():
 
 @app.route('/plot/<string:kind>', methods=['GET'])
 def make_plot_years_spots(kind):
-    param = json.dumps({"type of plot": kind})
+    param = kind
     cmd = "plot"
     jobID = put_job_in_log(param, cmd)
     return jobID
@@ -92,12 +87,12 @@ def make_plot_years_spots(kind):
 def get_job_info(jid):
     timeL = []
     for key in jl:
-        if key['id'] == jid:
+        if jl.hget(key, 'id').decode('utf-8') == jid:
             time = key['time stamp']
             timeL.append(time)
     recent = max(timeL)
     for key in jl:
-        if key['id'] == id and key['time stamp'] == recent:
+        if jl.hget(key, 'id').decode('utf-8') == id and key['time stamp'] == recent:
             job_info = json.loads(jl.hgetall(key).decode('utf-8'))
             #return jsonify(jl.hmget(key))
-            return job_info
+    return job_info

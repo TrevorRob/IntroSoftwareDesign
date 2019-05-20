@@ -55,18 +55,13 @@ def convert_job_fields(key):
              'command': jl.hget(key, 'command').decode('utf-8') }
 
 def save_job(job_key, job_dict):
-#    """Save a job object in the Redis database."""
 #   jl.hmset(job_key, json.dumps(job_dict))
     jl.hmset(job_key, job_dict)
-        #the json.dump might not be necessary
-        #also what do we return here???
 
 def queue_job(jid):
-#    """Add a job to the redis queue."""
     q.put(jid)
     status = 'pending'
-    #update_job_status(jid, status)
-    #what to return here??
+    update_job_status(jid, status)
 
 
 def add_job(param, cmd, status="new"):
@@ -74,17 +69,14 @@ def add_job(param, cmd, status="new"):
     jid = generate_jid()
     job_dict = instantiate_job(jid, status, param, cmd)
     job_key = generate_job_key(jid)
-    p_job_dict = pickle.dumps(job_dict)
-    #queue_job(jid)
-    save_job(job_key, p_job_dict)
+    save_job(job_key, job_dict)
     #job_dict = convert_job_fields(job_key)
-    #queue_job(jid)
-    return jid
+    queue_job(jid)
+    return job_dict
 
 def update_job_status(jid, status):
-    """Update the status of job with job id `jid` to status `status`."""
-    jid, status, start, end = jl.hmget(generate_job_key(jid), 'id', 'status', 'start', 'end')
-    job = instantiate_job(jid, status, start, end)
+    jid, status, param, cmd = jl.hmget(generate_job_key(jid), 'id', 'status', 'parameters', 'command')
+    job = instantiate_job(jid, status, param, cmd)
     if job:
         job['status'] = status
         save_job(generate_job_key(jid), job)
